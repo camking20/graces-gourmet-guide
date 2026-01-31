@@ -2364,18 +2364,6 @@
     }
   },
   {
-    "id": 198,
-    "name": "4F",
-    "notes": "",
-    "neighborhood": "East Village",
-    "cuisine_type": "Japanese",
-    "booking_urls": {
-      "resy": "https://resy.com/cities/ny/4f",
-      "opentable": "https://www.opentable.com/s?term=4F&metroId=8",
-      "google": "https://www.google.com/search?q=4F+NYC+reservations"
-    }
-  },
-  {
     "id": 199,
     "name": "DND",
     "notes": "Do Not Disturb",
@@ -4017,18 +4005,6 @@
       "resy": "https://resy.com/cities/ny/bar-primi",
       "opentable": "https://www.opentable.com/s?term=Bar+Primi&metroId=8",
       "google": "https://www.google.com/search?q=Bar+Primi+NYC+reservations"
-    }
-  },
-  {
-    "id": 336,
-    "name": "6",
-    "notes": "",
-    "neighborhood": "Greenwich Village",
-    "cuisine_type": "Pizza",
-    "booking_urls": {
-      "resy": "https://resy.com/cities/ny/6",
-      "opentable": "https://www.opentable.com/s?term=6&metroId=8",
-      "google": "https://www.google.com/search?q=6+NYC+reservations"
     }
   },
   {
