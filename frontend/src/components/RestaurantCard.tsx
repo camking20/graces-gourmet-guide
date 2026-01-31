@@ -5,12 +5,16 @@ interface RestaurantCardProps {
 }
 
 export function RestaurantCard({ restaurant }: RestaurantCardProps) {
-  // Generate reliable Google search URLs for each platform
-  const encodedName = encodeURIComponent(restaurant.name + ' NYC');
+  // Get today's date in YYYY-MM-DD format
+  const today = new Date().toISOString().split('T')[0];
   
-  const resySearchUrl = `https://www.google.com/search?q=${encodedName}+resy+reservations`;
-  const opentableSearchUrl = `https://www.google.com/search?q=${encodedName}+opentable+reservations`;
-  const googleSearchUrl = `https://www.google.com/search?q=${encodedName}+reservations`;
+  // Encode restaurant name for URL
+  const encodedName = encodeURIComponent(restaurant.name);
+  
+  // Direct search URLs for each platform
+  const resyUrl = `https://resy.com/cities/new-york-ny/search?date=${today}&seats=2&query=${encodedName}`;
+  const opentableUrl = `https://www.opentable.com/s?term=${encodedName}&metroId=8&covers=2&dateTime=${today}T19:00`;
+  const googleUrl = `https://www.google.com/search?q=${encodedName}+NYC+reservations`;
 
   return (
     <div className="bg-white border border-sand/60 p-6 hover:border-stone/30 transition-colors">
@@ -39,7 +43,7 @@ export function RestaurantCard({ restaurant }: RestaurantCardProps) {
       <div className="flex items-center gap-4 text-xs pt-4 border-t border-sand/50">
         <span className="text-stone/50 uppercase tracking-wider text-[10px]">Book</span>
         <a
-          href={resySearchUrl}
+          href={resyUrl}
           target="_blank"
           rel="noopener noreferrer"
           className="text-charcoal hover:opacity-60 transition-opacity underline underline-offset-4"
@@ -48,7 +52,7 @@ export function RestaurantCard({ restaurant }: RestaurantCardProps) {
         </a>
         
         <a
-          href={opentableSearchUrl}
+          href={opentableUrl}
           target="_blank"
           rel="noopener noreferrer"
           className="text-charcoal hover:opacity-60 transition-opacity underline underline-offset-4"
@@ -57,7 +61,7 @@ export function RestaurantCard({ restaurant }: RestaurantCardProps) {
         </a>
         
         <a
-          href={googleSearchUrl}
+          href={googleUrl}
           target="_blank"
           rel="noopener noreferrer"
           className="text-stone hover:opacity-60 transition-opacity underline underline-offset-4"
