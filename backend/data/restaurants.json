@@ -85,7 +85,7 @@
   },
   {
     "id": 8,
-    "name": "L'artusi",
+    "name": "L'Artusi",
     "notes": "",
     "neighborhood": "West Village",
     "cuisine_type": "Italian",
@@ -121,7 +121,7 @@
   },
   {
     "id": 11,
-    "name": "Little Owl",
+    "name": "The Little Owl",
     "notes": "",
     "neighborhood": "West Village",
     "cuisine_type": "American",
@@ -157,7 +157,7 @@
   },
   {
     "id": 14,
-    "name": "4 Charles",
+    "name": "4 Charles Prime Rib",
     "notes": "",
     "neighborhood": "West Village",
     "cuisine_type": "American",
@@ -169,7 +169,7 @@
   },
   {
     "id": 15,
-    "name": "Rubirosa",
+    "name": "Rubirosa Ristorante",
     "notes": "",
     "neighborhood": "Nolita",
     "cuisine_type": "Italian",
@@ -205,7 +205,7 @@
   },
   {
     "id": 18,
-    "name": "Pinto Garden",
+    "name": "Pinto",
     "notes": "",
     "neighborhood": "West Village",
     "cuisine_type": "Mediterranean",
@@ -229,7 +229,7 @@
   },
   {
     "id": 20,
-    "name": "Boucherie",
+    "name": "Boucherie West Village",
     "notes": "",
     "neighborhood": "West Village",
     "cuisine_type": "French",
@@ -289,7 +289,7 @@
   },
   {
     "id": 25,
-    "name": "Kyma Flatiron",
+    "name": "Kyma",
     "notes": "",
     "neighborhood": "Flatiron",
     "cuisine_type": "Greek",
@@ -301,7 +301,7 @@
   },
   {
     "id": 26,
-    "name": "Cecconi's",
+    "name": "Cecconi's Dumbo",
     "notes": "",
     "neighborhood": "Dumbo",
     "cuisine_type": "Italian",
@@ -361,7 +361,7 @@
   },
   {
     "id": 31,
-    "name": "Dante",
+    "name": "Dante NYC",
     "notes": "",
     "neighborhood": "Greenwich Village",
     "cuisine_type": "Bar/Cocktails",
@@ -397,7 +397,7 @@
   },
   {
     "id": 34,
-    "name": "Whipped",
+    "name": "Whipped Urban Dessert Lab",
     "notes": "",
     "neighborhood": "West Village",
     "cuisine_type": "Dessert",
@@ -421,7 +421,7 @@
   },
   {
     "id": 36,
-    "name": "The Fulton",
+    "name": "The Fulton by Jean-Georges",
     "notes": "",
     "neighborhood": "South Street Seaport",
     "cuisine_type": "Seafood",
@@ -445,7 +445,7 @@
   },
   {
     "id": 38,
-    "name": "Keste",
+    "name": "Kest\u00e9 Pizza & Vino",
     "notes": "",
     "neighborhood": "West Village",
     "cuisine_type": "Pizza",
@@ -493,7 +493,7 @@
   },
   {
     "id": 42,
-    "name": "Death by Pizza",
+    "name": "Death by Pizza NYC",
     "notes": "",
     "neighborhood": "Nolita",
     "cuisine_type": "Italian",
@@ -505,7 +505,7 @@
   },
   {
     "id": 43,
-    "name": "Pardon my French",
+    "name": "Pardon My French",
     "notes": "",
     "neighborhood": "East Village",
     "cuisine_type": "French",
@@ -553,7 +553,7 @@
   },
   {
     "id": 47,
-    "name": "Good Thanks",
+    "name": "Good Thanks Cafe",
     "notes": "",
     "neighborhood": "Nolita",
     "cuisine_type": "Coffee/Cafe",
@@ -625,7 +625,7 @@
   },
   {
     "id": 53,
-    "name": "Banter",
+    "name": "Banter NYC",
     "notes": "",
     "neighborhood": "East Village",
     "cuisine_type": "American",
@@ -697,7 +697,7 @@
   },
   {
     "id": 59,
-    "name": "Gemma at the Bowery Hotel",
+    "name": "Gemma",
     "notes": "",
     "neighborhood": "Bowery",
     "cuisine_type": "Italian",
@@ -757,7 +757,7 @@
   },
   {
     "id": 64,
-    "name": "Angelina Paris",
+    "name": "Angelina",
     "notes": "",
     "neighborhood": "SoHo",
     "cuisine_type": "French",
@@ -781,7 +781,7 @@
   },
   {
     "id": 66,
-    "name": "MENO",
+    "name": "Meno",
     "notes": "",
     "neighborhood": "Williamsburg",
     "cuisine_type": "Italian",
@@ -937,7 +937,7 @@
   },
   {
     "id": 79,
-    "name": "Cafe Cluny",
+    "name": "Caf\u00e9 Cluny",
     "notes": "",
     "neighborhood": "West Village",
     "cuisine_type": "Coffee/Cafe",
@@ -949,7 +949,7 @@
   },
   {
     "id": 80,
-    "name": "Maki Kosaka",
+    "name": "Kosaka",
     "notes": "",
     "neighborhood": "West Village",
     "cuisine_type": "Japanese",
@@ -1045,7 +1045,7 @@
   },
   {
     "id": 88,
-    "name": "Planta Nomad",
+    "name": "Planta Queen",
     "notes": "",
     "neighborhood": "NoMad",
     "cuisine_type": "American",
@@ -1081,7 +1081,7 @@
   },
   {
     "id": 91,
-    "name": "Milu",
+    "name": "M\u00ecL\u00e0",
     "notes": "",
     "neighborhood": "FiDi",
     "cuisine_type": "American",
@@ -1141,7 +1141,7 @@
   },
   {
     "id": 96,
-    "name": "Seven Grams Caffe",
+    "name": "Seven Grams Caff\u00e9",
     "notes": "",
     "neighborhood": "Multiple",
     "cuisine_type": "Coffee/Cafe",
@@ -1153,7 +1153,7 @@
   },
   {
     "id": 97,
-    "name": "Dough",
+    "name": "Dough Doughnuts",
     "notes": "",
     "neighborhood": "Flatiron",
     "cuisine_type": "Bakery",
@@ -1189,7 +1189,7 @@
   },
   {
     "id": 100,
-    "name": "Momofuku Ssam Bar",
+    "name": "Momofuku Ss\u00e4m Bar",
     "notes": "",
     "neighborhood": "East Village",
     "cuisine_type": "Bar/Cocktails",
@@ -1285,7 +1285,7 @@
   },
   {
     "id": 108,
-    "name": "B'artusi",
+    "name": "Bar Artusi",
     "notes": "",
     "neighborhood": "West Village",
     "cuisine_type": "Italian",
@@ -1309,7 +1309,7 @@
   },
   {
     "id": 110,
-    "name": "Acme",
+    "name": "ACME",
     "notes": "",
     "neighborhood": "NoHo",
     "cuisine_type": "American",
@@ -1357,7 +1357,7 @@
   },
   {
     "id": 114,
-    "name": "The Spaniard",
+    "name": "The Spaniard NYC",
     "notes": "",
     "neighborhood": "West Village",
     "cuisine_type": "Bar/Cocktails",
@@ -1405,7 +1405,7 @@
   },
   {
     "id": 118,
-    "name": "Terrace at Edition",
+    "name": "The Terrace at The Times Square EDITION",
     "notes": "",
     "neighborhood": "Times Square",
     "cuisine_type": "American",
@@ -1477,7 +1477,7 @@
   },
   {
     "id": 124,
-    "name": "Puglia",
+    "name": "Puglia Restaurant",
     "notes": "big group",
     "neighborhood": "Little Italy",
     "cuisine_type": "Italian",
@@ -1561,7 +1561,7 @@
   },
   {
     "id": 131,
-    "name": "Wolfnight's",
+    "name": "Wolfnights",
     "notes": "",
     "neighborhood": "Brooklyn",
     "cuisine_type": "American",
@@ -1633,7 +1633,7 @@
   },
   {
     "id": 137,
-    "name": "Bernies",
+    "name": "Bernie's",
     "notes": "",
     "neighborhood": "Greenpoint",
     "cuisine_type": "American",
@@ -1705,7 +1705,7 @@
   },
   {
     "id": 143,
-    "name": "ZIZI",
+    "name": "ZIZI Limona",
     "notes": "",
     "neighborhood": "Flatiron",
     "cuisine_type": "Italian",
@@ -1813,7 +1813,7 @@
   },
   {
     "id": 152,
-    "name": "Little Shop",
+    "name": "The Little Shop",
     "notes": "",
     "neighborhood": "Lower East Side",
     "cuisine_type": "American",
@@ -1873,7 +1873,7 @@
   },
   {
     "id": 157,
-    "name": "Ribbalta",
+    "name": "Ribalta",
     "notes": "",
     "neighborhood": "Union Square",
     "cuisine_type": "Pizza",
@@ -1885,7 +1885,7 @@
   },
   {
     "id": 158,
-    "name": "Temperance",
+    "name": "Temperance Wine Bar",
     "notes": "",
     "neighborhood": "East Village",
     "cuisine_type": "Wine Bar",
@@ -1897,7 +1897,7 @@
   },
   {
     "id": 159,
-    "name": "St. Jardim",
+    "name": "St Jardim",
     "notes": "",
     "neighborhood": "Greenwich Village",
     "cuisine_type": "American",
@@ -1933,7 +1933,7 @@
   },
   {
     "id": 162,
-    "name": "Sami and Susu",
+    "name": "Sami & Susu",
     "notes": "",
     "neighborhood": "Brooklyn",
     "cuisine_type": "Middle Eastern",
@@ -1969,7 +1969,7 @@
   },
   {
     "id": 165,
-    "name": "The commerce inn",
+    "name": "The Commerce Inn",
     "notes": "",
     "neighborhood": "West Village",
     "cuisine_type": "American",
@@ -1993,7 +1993,7 @@
   },
   {
     "id": 167,
-    "name": "Il cantinori",
+    "name": "Il Cantinori",
     "notes": "",
     "neighborhood": "Greenwich Village",
     "cuisine_type": "Italian",
@@ -2017,7 +2017,7 @@
   },
   {
     "id": 169,
-    "name": "Emmetts on Grove",
+    "name": "Emmett's on Grove",
     "notes": "",
     "neighborhood": "West Village",
     "cuisine_type": "Pizza",
@@ -2065,7 +2065,7 @@
   },
   {
     "id": 173,
-    "name": "Hawksmoor",
+    "name": "Hawksmoor NYC",
     "notes": "",
     "neighborhood": "Tribeca",
     "cuisine_type": "Steakhouse",
@@ -2077,7 +2077,7 @@
   },
   {
     "id": 174,
-    "name": "Jack and Charlie's 118",
+    "name": "Jack and Charlie's No. 118",
     "notes": "",
     "neighborhood": "Upper East Side",
     "cuisine_type": "American",
@@ -2113,7 +2113,7 @@
   },
   {
     "id": 177,
-    "name": "Scen",
+    "name": "Sc\u0113n",
     "notes": "",
     "neighborhood": "West Village",
     "cuisine_type": "Asian",
@@ -2125,7 +2125,7 @@
   },
   {
     "id": 178,
-    "name": "Una Pizza Napoleotana",
+    "name": "Una Pizza Napoletana",
     "notes": "",
     "neighborhood": "Lower East Side",
     "cuisine_type": "Pizza",
@@ -2161,7 +2161,7 @@
   },
   {
     "id": 181,
-    "name": "Manero's Pizza",
+    "name": "Manero's",
     "notes": "",
     "neighborhood": "East Village",
     "cuisine_type": "Italian",
@@ -2269,7 +2269,7 @@
   },
   {
     "id": 190,
-    "name": "The Ready Rooftop",
+    "name": "The Ready Rooftop Bar",
     "notes": "",
     "neighborhood": "Lower East Side",
     "cuisine_type": "Bar/Cocktails",
@@ -2305,7 +2305,7 @@
   },
   {
     "id": 193,
-    "name": "Le Gamin",
+    "name": "Le Gamin Caf\u00e9",
     "notes": "",
     "neighborhood": "Brooklyn",
     "cuisine_type": "French",
@@ -2353,7 +2353,7 @@
   },
   {
     "id": 197,
-    "name": "Maki Kosaka",
+    "name": "Kosaka",
     "notes": "",
     "neighborhood": "West Village",
     "cuisine_type": "Japanese",
@@ -2401,7 +2401,7 @@
   },
   {
     "id": 202,
-    "name": "Harry's Table",
+    "name": "Harry's Table by Cipriani",
     "notes": "",
     "neighborhood": "Hudson Yards",
     "cuisine_type": "American",
@@ -2449,7 +2449,7 @@
   },
   {
     "id": 206,
-    "name": "Parcelle Wine",
+    "name": "Parcelle",
     "notes": "",
     "neighborhood": "West Village",
     "cuisine_type": "Wine Bar",
@@ -2461,7 +2461,7 @@
   },
   {
     "id": 207,
-    "name": "Apotheke",
+    "name": "Apoth\u00e9ke",
     "notes": "",
     "neighborhood": "Chinatown",
     "cuisine_type": "Bar/Cocktails",
@@ -2473,7 +2473,7 @@
   },
   {
     "id": 208,
-    "name": "Champers Social Club",
+    "name": "Champers",
     "notes": "",
     "neighborhood": "West Village",
     "cuisine_type": "Bar/Cocktails",
@@ -2509,7 +2509,7 @@
   },
   {
     "id": 211,
-    "name": "Moustache",
+    "name": "Moustache Pitza",
     "notes": "Bella Hadid recc",
     "neighborhood": "East Village",
     "cuisine_type": "Middle Eastern",
@@ -2533,7 +2533,7 @@
   },
   {
     "id": 213,
-    "name": "Batsu",
+    "name": "Batsu!",
     "notes": "",
     "neighborhood": "Lower East Side",
     "cuisine_type": "Japanese",
@@ -2581,7 +2581,7 @@
   },
   {
     "id": 217,
-    "name": "Smyth Tavern",
+    "name": "Smyth",
     "notes": "",
     "neighborhood": "Tribeca",
     "cuisine_type": "American",
@@ -2629,7 +2629,7 @@
   },
   {
     "id": 221,
-    "name": "Casa Cruz",
+    "name": "Casa Cruz NYC",
     "notes": "",
     "neighborhood": "Upper East Side",
     "cuisine_type": "Latin",
@@ -2689,7 +2689,7 @@
   },
   {
     "id": 226,
-    "name": "Fouquets",
+    "name": "Fouquet's New York",
     "notes": "",
     "neighborhood": "Tribeca",
     "cuisine_type": "French",
@@ -2701,7 +2701,7 @@
   },
   {
     "id": 227,
-    "name": "Rigor Hill Market",
+    "name": "Rigor Hill",
     "notes": "",
     "neighborhood": "Ridgewood",
     "cuisine_type": "American",
@@ -2713,7 +2713,7 @@
   },
   {
     "id": 228,
-    "name": "Kame",
+    "name": "Kame Omakase",
     "notes": "",
     "neighborhood": "SoHo",
     "cuisine_type": "Japanese",
@@ -2725,7 +2725,7 @@
   },
   {
     "id": 229,
-    "name": "Tonchin",
+    "name": "Tonchin New York",
     "notes": "",
     "neighborhood": "Midtown",
     "cuisine_type": "Japanese",
@@ -2869,7 +2869,7 @@
   },
   {
     "id": 241,
-    "name": "Moody Tounge Sushi",
+    "name": "Moody Tongue",
     "notes": "",
     "neighborhood": "West Village",
     "cuisine_type": "Japanese",
@@ -2881,7 +2881,7 @@
   },
   {
     "id": 242,
-    "name": "South SoHo Bar",
+    "name": "South Soho Bar",
     "notes": "",
     "neighborhood": "SoHo",
     "cuisine_type": "Bar/Cocktails",
@@ -2893,7 +2893,7 @@
   },
   {
     "id": 243,
-    "name": "Petit Patate",
+    "name": "Petit P\u00e2t\u00e9",
     "notes": "",
     "neighborhood": "Greenwich Village",
     "cuisine_type": "French",
@@ -2941,7 +2941,7 @@
   },
   {
     "id": 247,
-    "name": "Alba Acconto",
+    "name": "Alba Accanto",
     "notes": "",
     "neighborhood": "West Village",
     "cuisine_type": "Italian",
@@ -2965,7 +2965,7 @@
   },
   {
     "id": 249,
-    "name": "RAF's",
+    "name": "Raf's",
     "notes": "",
     "neighborhood": "West Village",
     "cuisine_type": "American",
@@ -2989,7 +2989,7 @@
   },
   {
     "id": 251,
-    "name": "Studio 151",
+    "name": "Studio",
     "notes": "",
     "neighborhood": "Midtown",
     "cuisine_type": "American",
@@ -3013,7 +3013,7 @@
   },
   {
     "id": 253,
-    "name": "Para Ici",
+    "name": "Par Ici",
     "notes": "",
     "neighborhood": "Fort Greene",
     "cuisine_type": "French",
@@ -3085,7 +3085,7 @@
   },
   {
     "id": 259,
-    "name": "Jaffa Cocktail and Raw Bar",
+    "name": "Jaffa",
     "notes": "",
     "neighborhood": "Lower East Side",
     "cuisine_type": "Bar/Cocktails",
@@ -3133,7 +3133,7 @@
   },
   {
     "id": 263,
-    "name": "Cafe Balerica",
+    "name": "Caf\u00e9 Balearica",
     "notes": "",
     "neighborhood": "Lower East Side",
     "cuisine_type": "Coffee/Cafe",
@@ -3229,7 +3229,7 @@
   },
   {
     "id": 271,
-    "name": "Shingane",
+    "name": "Shingan\u00e9",
     "notes": "",
     "neighborhood": "NoMad",
     "cuisine_type": "Japanese",
@@ -3337,7 +3337,7 @@
   },
   {
     "id": 280,
-    "name": "Caffe Coretto",
+    "name": "Caff\u00e9 Coretto",
     "notes": "",
     "neighborhood": "West Village",
     "cuisine_type": "Coffee/Cafe",
@@ -3385,7 +3385,7 @@
   },
   {
     "id": 284,
-    "name": "Ciao Gloria",
+    "name": "Ciao, Gloria",
     "notes": "",
     "neighborhood": "Prospect Heights",
     "cuisine_type": "Italian",
@@ -3397,7 +3397,7 @@
   },
   {
     "id": 285,
-    "name": "Roscioli",
+    "name": "Roscioli NYC",
     "notes": "",
     "neighborhood": "West Village",
     "cuisine_type": "Italian",
@@ -3469,7 +3469,7 @@
   },
   {
     "id": 291,
-    "name": "Kobrick's",
+    "name": "Kobrick Coffee Co",
     "notes": "matcha martini",
     "neighborhood": "West Village",
     "cuisine_type": "Bar/Cocktails",
@@ -3481,7 +3481,7 @@
   },
   {
     "id": 292,
-    "name": "Cafe Chelsea",
+    "name": "Caf\u00e9 Chelsea",
     "notes": "",
     "neighborhood": "Chelsea",
     "cuisine_type": "Coffee/Cafe",
@@ -3505,7 +3505,7 @@
   },
   {
     "id": 294,
-    "name": "Jean's Lafayette",
+    "name": "Jean's",
     "notes": "",
     "neighborhood": "NoHo",
     "cuisine_type": "American",
@@ -3613,7 +3613,7 @@
   },
   {
     "id": 303,
-    "name": "Le B",
+    "name": "Le B.",
     "notes": "",
     "neighborhood": "SoHo",
     "cuisine_type": "French",
@@ -3637,7 +3637,7 @@
   },
   {
     "id": 305,
-    "name": "Hoexter's",
+    "name": "Hoexter's Market",
     "notes": "",
     "neighborhood": "Midtown",
     "cuisine_type": "Deli",
@@ -3673,7 +3673,7 @@
   },
   {
     "id": 308,
-    "name": "Lucky Rabbit Noodle",
+    "name": "Lucky Rabbit",
     "notes": "matzo ball soup dumpling",
     "neighborhood": "Lower East Side",
     "cuisine_type": "Chinese",
@@ -3721,7 +3721,7 @@
   },
   {
     "id": 312,
-    "name": "Sip and Guzzle",
+    "name": "Sip & Guzzle",
     "notes": "",
     "neighborhood": "East Village",
     "cuisine_type": "Bar/Cocktails",
@@ -3757,7 +3757,7 @@
   },
   {
     "id": 315,
-    "name": "COCODAQ",
+    "name": "Coqodaq",
     "notes": "",
     "neighborhood": "Flatiron",
     "cuisine_type": "Asian",
@@ -3769,7 +3769,7 @@
   },
   {
     "id": 316,
-    "name": "Beefbar",
+    "name": "Beefbar New York",
     "notes": "",
     "neighborhood": "SoHo",
     "cuisine_type": "Bar/Cocktails",
@@ -3937,7 +3937,7 @@
   },
   {
     "id": 330,
-    "name": "Rose room lounge",
+    "name": "Rose Room",
     "notes": "espresso martini bar",
     "neighborhood": "Midtown",
     "cuisine_type": "Coffee/Cafe",
@@ -4093,7 +4093,7 @@
   },
   {
     "id": 344,
-    "name": "L'incontra by Rocco",
+    "name": "L'Incontro by Rocco",
     "notes": "new Italian on UES",
     "neighborhood": "Upper East Side",
     "cuisine_type": "Italian",
@@ -4165,7 +4165,7 @@
   },
   {
     "id": 350,
-    "name": "Frances at Casa Cruz",
+    "name": "Frances",
     "notes": "rooftop UES",
     "neighborhood": "Upper East Side",
     "cuisine_type": "American",
@@ -4249,7 +4249,7 @@
   },
   {
     "id": 357,
-    "name": "Angels Share",
+    "name": "Angel's Share",
     "notes": "speakeasy cool drinks west village",
     "neighborhood": "East Village",
     "cuisine_type": "Bar/Cocktails",
@@ -4261,7 +4261,7 @@
   },
   {
     "id": 358,
-    "name": "Quique Crudo",
+    "name": "Quique",
     "notes": "Mexican west village",
     "neighborhood": "West Village",
     "cuisine_type": "Mexican",
@@ -4285,7 +4285,7 @@
   },
   {
     "id": 360,
-    "name": "Hidden Grounds",
+    "name": "Hidden Grounds Coffee",
     "notes": "East village Nola style cold brew",
     "neighborhood": "East Village",
     "cuisine_type": "Coffee/Cafe",
@@ -4321,7 +4321,7 @@
   },
   {
     "id": 363,
-    "name": "The Garden at the Standard EV",
+    "name": "The Garden at The Standard, East Village",
     "notes": "hh",
     "neighborhood": "East Village",
     "cuisine_type": "Bar/Cocktails",
@@ -4357,7 +4357,7 @@
   },
   {
     "id": 366,
-    "name": "Chloe",
+    "name": "Chloe.",
     "notes": "SoHo, vegan fast casual",
     "neighborhood": "SoHo",
     "cuisine_type": "American",
@@ -4393,7 +4393,7 @@
   },
   {
     "id": 369,
-    "name": "The pickle guys",
+    "name": "The Pickle Guys",
     "notes": "pickle store LES",
     "neighborhood": "Lower East Side",
     "cuisine_type": "Deli",
@@ -4405,7 +4405,7 @@
   },
   {
     "id": 370,
-    "name": "Green lane coffee",
+    "name": "Green Lane Coffee",
     "notes": "UES",
     "neighborhood": "Upper East Side",
     "cuisine_type": "Coffee/Cafe",
@@ -4417,7 +4417,7 @@
   },
   {
     "id": 371,
-    "name": "Madison fare",
+    "name": "Madison Fare",
     "notes": "organic Greek frozen yogurt ues",
     "neighborhood": "Upper East Side",
     "cuisine_type": "Mediterranean",
@@ -4429,7 +4429,7 @@
   },
   {
     "id": 372,
-    "name": "Cello's Pizzeria",
+    "name": "Cello's",
     "notes": "EV, owner worked at L'industrie and PJ",
     "neighborhood": "East Village",
     "cuisine_type": "Italian",
@@ -4465,7 +4465,7 @@
   },
   {
     "id": 375,
-    "name": "Bar vivant",
+    "name": "Bar Vivant",
     "notes": "wine bar UES",
     "neighborhood": "Upper East Side",
     "cuisine_type": "Bar/Cocktails",
@@ -4525,7 +4525,7 @@
   },
   {
     "id": 380,
-    "name": "Sushi by Scratch",
+    "name": "Sushi by Scratch Restaurants",
     "notes": "omakase speakeasy",
     "neighborhood": "NoMad",
     "cuisine_type": "Japanese",
@@ -4597,7 +4597,7 @@
   },
   {
     "id": 386,
-    "name": "Borgo",
+    "name": "Borgo Antico",
     "notes": "Italian Flatiron",
     "neighborhood": "Flatiron",
     "cuisine_type": "Italian",
@@ -4801,7 +4801,7 @@
   },
   {
     "id": 403,
-    "name": "Mary O's Irish Soda Bread Shop",
+    "name": "Mary O's",
     "notes": "scones, East village",
     "neighborhood": "East Village",
     "cuisine_type": "Bakery",
@@ -4861,7 +4861,7 @@
   },
   {
     "id": 408,
-    "name": "Moody Tongue Pizza",
+    "name": "Moody Tongue",
     "notes": "Tokyo pizza",
     "neighborhood": "West Village",
     "cuisine_type": "Italian",
@@ -4993,7 +4993,7 @@
   },
   {
     "id": 419,
-    "name": "Caf\u00e9 Zaffri",
+    "name": "Cafe Zaffri",
     "notes": "Persian, Raf's team, vibes, union square area",
     "neighborhood": "Union Square",
     "cuisine_type": "Coffee/Cafe",
@@ -5041,7 +5041,7 @@
   },
   {
     "id": 423,
-    "name": "Golden Hof + NY Kimchi",
+    "name": "Golden Hof",
     "notes": "Golden Diner team midtown",
     "neighborhood": "Midtown",
     "cuisine_type": "American",
@@ -5125,7 +5125,7 @@
   },
   {
     "id": 430,
-    "name": "F&F Restaurant",
+    "name": "F&F",
     "notes": "Carroll Gardens f&f pizza team",
     "neighborhood": "Carroll Gardens",
     "cuisine_type": "Italian",
@@ -5149,7 +5149,7 @@
   },
   {
     "id": 432,
-    "name": "Isla and Co",
+    "name": "Isla & Co",
     "notes": "Midtown espresso martini flight",
     "neighborhood": "Midtown",
     "cuisine_type": "Coffee/Cafe",
@@ -5269,7 +5269,7 @@
   },
   {
     "id": 442,
-    "name": "Caf\u00e9 Paradiso",
+    "name": "Caffe Paradiso",
     "notes": "soho, same owners as Dante, americano w panna cold foam",
     "neighborhood": "SoHo",
     "cuisine_type": "American",
@@ -5461,7 +5461,7 @@
   },
   {
     "id": 458,
-    "name": "Dante Apertivio Bar",
+    "name": "Dante Aperitivo Bar",
     "notes": "WV",
     "neighborhood": "West Village",
     "cuisine_type": "Bar/Cocktails",
@@ -5509,7 +5509,7 @@
   },
   {
     "id": 462,
-    "name": "Drai's Supper Club",
+    "name": "Drai's",
     "notes": "restaurant + cocktail lounge WV",
     "neighborhood": "West Village",
     "cuisine_type": "Bar/Cocktails",
@@ -5533,7 +5533,7 @@
   },
   {
     "id": 464,
-    "name": "Rivareno",
+    "name": "RivaReno",
     "notes": "gelato SoHo",
     "neighborhood": "SoHo",
     "cuisine_type": "Dessert",
@@ -5545,7 +5545,7 @@
   },
   {
     "id": 465,
-    "name": "Adda",
+    "name": "Adda Indian Canteen",
     "notes": "Indian EV",
     "neighborhood": "East Village",
     "cuisine_type": "Indian",
@@ -5605,7 +5605,7 @@
   },
   {
     "id": 470,
-    "name": "Carinito",
+    "name": "Cari\u00f1ito",
     "notes": "Michelin star tacos Union Square",
     "neighborhood": "Union Square",
     "cuisine_type": "Mexican",
@@ -5749,7 +5749,7 @@
   },
   {
     "id": 482,
-    "name": "Milk flower",
+    "name": "Milk Flower",
     "notes": "50 top pizza Astoria",
     "neighborhood": "Astoria",
     "cuisine_type": "Italian",
@@ -5761,7 +5761,7 @@
   },
   {
     "id": 483,
-    "name": "All Antico Vinaio",
+    "name": "All'Antico Vinaio",
     "notes": "happy hour any location drink and half sandwich $15",
     "neighborhood": "Multiple",
     "cuisine_type": "Italian",
@@ -5773,7 +5773,7 @@
   },
   {
     "id": 484,
-    "name": "Comal",
+    "name": "Comal NYC",
     "notes": "Mexican Chinatown",
     "neighborhood": "Chinatown",
     "cuisine_type": "Mexican",

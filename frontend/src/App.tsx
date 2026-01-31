@@ -15,6 +15,12 @@ function App() {
   const [totalPages, setTotalPages] = useState(1);
   const [total, setTotal] = useState(0);
   
+  // Booking preferences
+  const [selectedDate, setSelectedDate] = useState(() => {
+    return new Date().toISOString().split('T')[0];
+  });
+  const [partySize, setPartySize] = useState(2);
+  
   const [filters, setFilters] = useState<Filters>({
     query: '',
     neighborhood: '',
@@ -95,6 +101,37 @@ function App() {
       </header>
 
       <main className="max-w-5xl mx-auto px-6 py-12">
+        {/* Booking Preferences */}
+        <div className="bg-white border border-sand/60 p-6 mb-8">
+          <p className="text-xs text-stone uppercase tracking-wider mb-4">Reservation Details</p>
+          <div className="flex flex-wrap items-center gap-6">
+            <div className="flex items-center gap-3">
+              <label className="text-sm text-charcoal">Date</label>
+              <input
+                type="date"
+                value={selectedDate}
+                onChange={(e) => setSelectedDate(e.target.value)}
+                min={new Date().toISOString().split('T')[0]}
+                className="px-3 py-2 border border-sand bg-transparent text-charcoal text-sm
+                         focus:outline-none focus:border-charcoal transition-colors"
+              />
+            </div>
+            <div className="flex items-center gap-3">
+              <label className="text-sm text-charcoal">Party Size</label>
+              <select
+                value={partySize}
+                onChange={(e) => setPartySize(Number(e.target.value))}
+                className="px-3 py-2 border border-sand bg-transparent text-charcoal text-sm
+                         focus:outline-none focus:border-charcoal transition-colors"
+              >
+                {[1, 2, 3, 4, 5, 6, 7, 8].map(n => (
+                  <option key={n} value={n}>{n} {n === 1 ? 'guest' : 'guests'}</option>
+                ))}
+              </select>
+            </div>
+          </div>
+        </div>
+
         {/* Search and Filters */}
         <div className="space-y-6 mb-10">
           <SearchBar
@@ -169,6 +206,8 @@ function App() {
                   <RestaurantCard
                     key={restaurant.id}
                     restaurant={restaurant}
+                    selectedDate={selectedDate}
+                    partySize={partySize}
                   />
                 ))}
               </div>

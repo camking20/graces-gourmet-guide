@@ -2,18 +2,17 @@ import type { Restaurant } from '../types';
 
 interface RestaurantCardProps {
   restaurant: Restaurant;
+  selectedDate: string;
+  partySize: number;
 }
 
-export function RestaurantCard({ restaurant }: RestaurantCardProps) {
-  // Get today's date in YYYY-MM-DD format
-  const today = new Date().toISOString().split('T')[0];
-  
+export function RestaurantCard({ restaurant, selectedDate, partySize }: RestaurantCardProps) {
   // Encode restaurant name for URL
   const encodedName = encodeURIComponent(restaurant.name);
   
-  // Direct search URLs for each platform
-  const resyUrl = `https://resy.com/cities/new-york-ny/search?date=${today}&seats=2&query=${encodedName}`;
-  const opentableUrl = `https://www.opentable.com/s?term=${encodedName}&metroId=8&covers=2&dateTime=${today}T19:00`;
+  // Direct search URLs with selected date and party size
+  const resyUrl = `https://resy.com/cities/new-york-ny/search?date=${selectedDate}&seats=${partySize}&query=${encodedName}`;
+  const opentableUrl = `https://www.opentable.com/s?term=${encodedName}&metroId=8&covers=${partySize}&dateTime=${selectedDate}T19:00`;
   const googleUrl = `https://www.google.com/search?q=${encodedName}+NYC+reservations`;
 
   return (
