@@ -21,27 +21,38 @@ function App() {
   });
   const [partySize, setPartySize] = useState(2);
   
-  const [filters, setFilters] = useState<Filters>({
-    query: '',
-    neighborhood: '',
-    cuisine_type: '',
-    visited: '',
-    monitor_enabled: '',
-  });
+  // Multi-select filters
+  const [searchQuery, setSearchQuery] = useState('');
+  const [selectedNeighborhoods, setSelectedNeighborhoods] = useState<string[]>([]);
+  const [selectedCuisines, setSelectedCuisines] = useState<string[]>([]);
 
   const loadRestaurants = useCallback(async () => {
     try {
       setLoading(true);
+      // Load all restaurants when using multi-select filters
       const response = await fetchRestaurants({
-        query: filters.query || undefined,
-        neighborhood: filters.neighborhood || undefined,
-        cuisine_type: filters.cuisine_type || undefined,
-        page,
-        per_page: 24,
+        query: searchQuery || undefined,
+        page: 1,
+        per_page: 500, // Load all to filter client-side for multi-select
       });
-      setRestaurants(response.items);
-      setTotalPages(response.total_pages);
-      setTotal(response.total);
+      
+      let filteredItems = response.items;
+      
+      // Client-side filtering with OR logic (more selections = more results)
+      if (selectedNeighborhoods.length > 0) {
+        filteredItems = filteredItems.filter(r => 
+          r.neighborhood && selectedNeighborhoods.includes(r.neighborhood)
+        );
+      }
+      if (selectedCuisines.length > 0) {
+        filteredItems = filteredItems.filter(r => 
+          r.cuisine_type && selectedCuisines.includes(r.cuisine_type)
+        );
+      }
+      
+      setRestaurants(filteredItems);
+      setTotalPages(1);
+      setTotal(filteredItems.length);
       setError(null);
     } catch (err) {
       setError('Failed to load restaurants. Make sure the backend is running.');
@@ -49,7 +60,7 @@ function App() {
     } finally {
       setLoading(false);
     }
-  }, [filters.query, filters.neighborhood, filters.cuisine_type, page]);
+  }, [searchQuery, selectedNeighborhoods, selectedCuisines, page]);
 
   const loadStats = useCallback(async () => {
     try {
@@ -70,18 +81,27 @@ function App() {
 
   useEffect(() => {
     setPage(1);
-  }, [filters.query, filters.neighborhood, filters.cuisine_type]);
+  }, [searchQuery, selectedNeighborhoods, selectedCuisines]);
 
-  const handleQueryChange = useCallback((value: string) => {
-    setFilters(prev => ({ ...prev, query: value }));
+  const handleNeighborhoodToggle = useCallback((neighborhood: string) => {
+    setSelectedNeighborhoods(prev => 
+      prev.includes(neighborhood)
+        ? prev.filter(n => n !== neighborhood)
+        : [...prev, neighborhood]
+    );
   }, []);
 
-  const handleNeighborhoodChange = useCallback((value: string) => {
-    setFilters(prev => ({ ...prev, neighborhood: value }));
+  const handleCuisineToggle = useCallback((cuisine: string) => {
+    setSelectedCuisines(prev => 
+      prev.includes(cuisine)
+        ? prev.filter(c => c !== cuisine)
+        : [...prev, cuisine]
+    );
   }, []);
 
-  const handleCuisineChange = useCallback((value: string) => {
-    setFilters(prev => ({ ...prev, cuisine_type: value }));
+  const clearFilters = useCallback(() => {
+    setSelectedNeighborhoods([]);
+    setSelectedCuisines([]);
   }, []);
 
   return (
@@ -101,7 +121,16 @@ function App() {
       </header>
 
       <main className="max-w-5xl mx-auto px-6 py-12">
-        {/* Booking Preferences */}
+        {/* Search Bar - Now First */}
+        <div className="mb-8">
+          <SearchBar
+            value={searchQuery}
+            onChange={setSearchQuery}
+            placeholder="Search restaurants..."
+          />
+        </div>
+
+        {/* Reservation Details */}
         <div className="bg-white border border-sand/60 p-6 mb-8">
           <p className="text-xs text-stone uppercase tracking-wider mb-4">Reservation Details</p>
           <div className="flex flex-wrap items-center gap-6">
@@ -132,30 +161,23 @@ function App() {
           </div>
         </div>
 
-        {/* Search and Filters */}
-        <div className="space-y-6 mb-10">
-          <SearchBar
-            value={filters.query}
-            onChange={handleQueryChange}
-            placeholder="Search restaurants..."
+        {/* Multi-select Filters */}
+        {stats && (
+          <FilterBar
+            neighborhoods={stats.neighborhoods}
+            cuisineTypes={stats.cuisine_types}
+            selectedNeighborhoods={selectedNeighborhoods}
+            selectedCuisines={selectedCuisines}
+            onNeighborhoodToggle={handleNeighborhoodToggle}
+            onCuisineToggle={handleCuisineToggle}
+            onClearFilters={clearFilters}
           />
-          
-          {stats && (
-            <FilterBar
-              neighborhoods={stats.neighborhoods}
-              cuisineTypes={stats.cuisine_types}
-              selectedNeighborhood={filters.neighborhood}
-              selectedCuisine={filters.cuisine_type}
-              onNeighborhoodChange={handleNeighborhoodChange}
-              onCuisineChange={handleCuisineChange}
-            />
-          )}
-        </div>
+        )}
 
         {/* Results count */}
         {!loading && (
           <p className="text-xs text-stone mb-6 tracking-wide uppercase">
-            {total} results {filters.query || filters.neighborhood || filters.cuisine_type ? '(filtered)' : ''}
+            {total} results {searchQuery || selectedNeighborhoods.length > 0 || selectedCuisines.length > 0 ? '(filtered)' : ''}
           </p>
         )}
 

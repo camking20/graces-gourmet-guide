@@ -81,7 +81,7 @@ def get_restaurants(
     neighborhood: Optional[str] = None,
     cuisine_type: Optional[str] = None,
     page: int = Query(1, ge=1),
-    per_page: int = Query(50, ge=1, le=100),
+    per_page: int = Query(50, ge=1, le=1000),
     db: Session = Depends(get_db)
 ):
     """Get all restaurants with optional filters and pagination."""
