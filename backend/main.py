@@ -154,6 +154,28 @@ def get_stats(db: Session = Depends(get_db)):
     )
 
 
+@app.delete("/api/restaurants/{restaurant_id}")
+def delete_restaurant(restaurant_id: int, db: Session = Depends(get_db)):
+    """Delete a restaurant by ID."""
+    restaurant = db.query(RestaurantModel).filter(RestaurantModel.id == restaurant_id).first()
+    if not restaurant:
+        raise HTTPException(status_code=404, detail="Restaurant not found")
+    db.delete(restaurant)
+    db.commit()
+    return {"message": f"Deleted {restaurant.name}"}
+
+
+@app.delete("/api/restaurants/by-name/{name}")
+def delete_restaurant_by_name(name: str, db: Session = Depends(get_db)):
+    """Delete a restaurant by name."""
+    restaurant = db.query(RestaurantModel).filter(RestaurantModel.name == name).first()
+    if not restaurant:
+        raise HTTPException(status_code=404, detail="Restaurant not found")
+    db.delete(restaurant)
+    db.commit()
+    return {"message": f"Deleted {name}"}
+
+
 @app.get("/api/health")
 def health_check():
     """Health check endpoint."""
