@@ -1,0 +1,198 @@
+import { useState, useEffect, useCallback } from 'react';
+import type { Restaurant, Stats, Filters } from './types';
+import { fetchRestaurants, fetchStats } from './api';
+import { SearchBar } from './components/SearchBar';
+import { FilterBar } from './components/FilterBar';
+import { RestaurantCard } from './components/RestaurantCard';
+import { Pagination } from './components/Pagination';
+
+function App() {
+  const [restaurants, setRestaurants] = useState<Restaurant[]>([]);
+  const [stats, setStats] = useState<Stats | null>(null);
+  const [loading, setLoading] = useState(true);
+  const [error, setError] = useState<string | null>(null);
+  const [page, setPage] = useState(1);
+  const [totalPages, setTotalPages] = useState(1);
+  const [total, setTotal] = useState(0);
+  
+  const [filters, setFilters] = useState<Filters>({
+    query: '',
+    neighborhood: '',
+    cuisine_type: '',
+    visited: '',
+    monitor_enabled: '',
+  });
+
+  const loadRestaurants = useCallback(async () => {
+    try {
+      setLoading(true);
+      const response = await fetchRestaurants({
+        query: filters.query || undefined,
+        neighborhood: filters.neighborhood || undefined,
+        cuisine_type: filters.cuisine_type || undefined,
+        page,
+        per_page: 24,
+      });
+      setRestaurants(response.items);
+      setTotalPages(response.total_pages);
+      setTotal(response.total);
+      setError(null);
+    } catch (err) {
+      setError('Failed to load restaurants. Make sure the backend is running.');
+      console.error(err);
+    } finally {
+      setLoading(false);
+    }
+  }, [filters.query, filters.neighborhood, filters.cuisine_type, page]);
+
+  const loadStats = useCallback(async () => {
+    try {
+      const data = await fetchStats();
+      setStats(data);
+    } catch (err) {
+      console.error('Failed to load stats:', err);
+    }
+  }, []);
+
+  useEffect(() => {
+    loadRestaurants();
+  }, [loadRestaurants]);
+
+  useEffect(() => {
+    loadStats();
+  }, [loadStats]);
+
+  useEffect(() => {
+    setPage(1);
+  }, [filters.query, filters.neighborhood, filters.cuisine_type]);
+
+  const handleQueryChange = useCallback((value: string) => {
+    setFilters(prev => ({ ...prev, query: value }));
+  }, []);
+
+  const handleNeighborhoodChange = useCallback((value: string) => {
+    setFilters(prev => ({ ...prev, neighborhood: value }));
+  }, []);
+
+  const handleCuisineChange = useCallback((value: string) => {
+    setFilters(prev => ({ ...prev, cuisine_type: value }));
+  }, []);
+
+  return (
+    <div className="min-h-screen bg-cream">
+      {/* Elegant Pattern Header */}
+      <header className="pattern-header h-32 md:h-40 relative">
+        <div className="relative h-full flex items-center justify-center">
+          <div className="text-center bg-white/90 px-8 py-4">
+            <h1 className="text-3xl md:text-4xl font-display font-medium tracking-wide text-charcoal">
+              Grace's Gourmet Guide
+            </h1>
+            <p className="text-stone text-sm mt-1 tracking-widest uppercase font-light">
+              New York City
+            </p>
+          </div>
+        </div>
+      </header>
+
+      <main className="max-w-5xl mx-auto px-6 py-12">
+        {/* Search and Filters */}
+        <div className="space-y-6 mb-10">
+          <SearchBar
+            value={filters.query}
+            onChange={handleQueryChange}
+            placeholder="Search restaurants..."
+          />
+          
+          {stats && (
+            <FilterBar
+              neighborhoods={stats.neighborhoods}
+              cuisineTypes={stats.cuisine_types}
+              selectedNeighborhood={filters.neighborhood}
+              selectedCuisine={filters.cuisine_type}
+              onNeighborhoodChange={handleNeighborhoodChange}
+              onCuisineChange={handleCuisineChange}
+            />
+          )}
+        </div>
+
+        {/* Results count */}
+        {!loading && (
+          <p className="text-xs text-stone mb-6 tracking-wide uppercase">
+            {total} results {filters.query || filters.neighborhood || filters.cuisine_type ? '(filtered)' : ''}
+          </p>
+        )}
+
+        {/* Error State */}
+        {error && (
+          <div className="border border-stone/20 p-8 text-center mb-8">
+            <p className="text-stone text-sm">{error}</p>
+            <button
+              onClick={() => {
+                setError(null);
+                loadRestaurants();
+              }}
+              className="mt-4 text-sm text-charcoal underline underline-offset-4 hover:no-underline"
+            >
+              Try again
+            </button>
+          </div>
+        )}
+
+        {/* Loading State */}
+        {loading && (
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            {[...Array(12)].map((_, i) => (
+              <div key={i} className="animate-pulse">
+                <div className="h-5 bg-sand/50 w-3/4 mb-3" />
+                <div className="h-4 bg-sand/30 w-1/2 mb-6" />
+                <div className="h-px bg-sand w-full mb-4" />
+                <div className="flex gap-4">
+                  <div className="h-4 bg-sand/30 w-12" />
+                  <div className="h-4 bg-sand/30 w-16" />
+                </div>
+              </div>
+            ))}
+          </div>
+        )}
+
+        {/* Restaurant Grid */}
+        {!loading && !error && (
+          <>
+            {restaurants.length === 0 ? (
+              <div className="text-center py-20">
+                <p className="text-stone text-sm">No restaurants found</p>
+                <p className="text-stone/60 text-xs mt-2">Try adjusting your filters</p>
+              </div>
+            ) : (
+              <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5">
+                {restaurants.map((restaurant) => (
+                  <RestaurantCard
+                    key={restaurant.id}
+                    restaurant={restaurant}
+                  />
+                ))}
+              </div>
+            )}
+
+            <Pagination
+              currentPage={page}
+              totalPages={totalPages}
+              onPageChange={setPage}
+            />
+          </>
+        )}
+      </main>
+
+      {/* Minimal Footer */}
+      <footer className="border-t border-sand py-8 mt-16">
+        <div className="max-w-5xl mx-auto px-6 text-center">
+          <p className="text-xs text-stone tracking-widest uppercase">
+            Grace's Gourmet Guide
+          </p>
+        </div>
+      </footer>
+    </div>
+  );
+}
+
+export default App;

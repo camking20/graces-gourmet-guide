@@ -1,0 +1,5870 @@
+[
+  {
+    "id": 1,
+    "name": "Pasquale Jones",
+    "notes": "",
+    "neighborhood": "SoHo",
+    "cuisine_type": "Italian",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/pasquale-jones",
+      "opentable": "https://www.opentable.com/s?term=Pasquale+Jones&metroId=8",
+      "google": "https://www.google.com/search?q=Pasquale+Jones+NYC+reservations"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Olio e Pieu",
+    "notes": "",
+    "neighborhood": "West Village",
+    "cuisine_type": "Italian",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/olio-e-pieu",
+      "opentable": "https://www.opentable.com/s?term=Olio+e+Pieu&metroId=8",
+      "google": "https://www.google.com/search?q=Olio+e+Pieu+NYC+reservations"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Atla",
+    "notes": "",
+    "neighborhood": "NoHo",
+    "cuisine_type": "Mexican",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/atla",
+      "opentable": "https://www.opentable.com/s?term=Atla&metroId=8",
+      "google": "https://www.google.com/search?q=Atla+NYC+reservations"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Oxomoco",
+    "notes": "",
+    "neighborhood": "Greenpoint",
+    "cuisine_type": "Mexican",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/oxomoco",
+      "opentable": "https://www.opentable.com/s?term=Oxomoco&metroId=8",
+      "google": "https://www.google.com/search?q=Oxomoco+NYC+reservations"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Kimika",
+    "notes": "",
+    "neighborhood": "Nolita",
+    "cuisine_type": "Japanese",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/kimika",
+      "opentable": "https://www.opentable.com/s?term=Kimika&metroId=8",
+      "google": "https://www.google.com/search?q=Kimika+NYC+reservations"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Vic's",
+    "notes": "",
+    "neighborhood": "NoHo",
+    "cuisine_type": "American",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/vics",
+      "opentable": "https://www.opentable.com/s?term=Vic's&metroId=8",
+      "google": "https://www.google.com/search?q=Vic's+NYC+reservations"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Dudley's",
+    "notes": "",
+    "neighborhood": "Lower East Side",
+    "cuisine_type": "American",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/dudleys",
+      "opentable": "https://www.opentable.com/s?term=Dudley's&metroId=8",
+      "google": "https://www.google.com/search?q=Dudley's+NYC+reservations"
+    }
+  },
+  {
+    "id": 8,
+    "name": "L'artusi",
+    "notes": "",
+    "neighborhood": "West Village",
+    "cuisine_type": "Italian",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/lartusi",
+      "opentable": "https://www.opentable.com/s?term=L'artusi&metroId=8",
+      "google": "https://www.google.com/search?q=L'artusi+NYC+reservations"
+    }
+  },
+  {
+    "id": 9,
+    "name": "I Sodi",
+    "notes": "",
+    "neighborhood": "West Village",
+    "cuisine_type": "Italian",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/i-sodi",
+      "opentable": "https://www.opentable.com/s?term=I+Sodi&metroId=8",
+      "google": "https://www.google.com/search?q=I+Sodi+NYC+reservations"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Jue Lan Club",
+    "notes": "",
+    "neighborhood": "Flatiron",
+    "cuisine_type": "Chinese",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/jue-lan-club",
+      "opentable": "https://www.opentable.com/s?term=Jue+Lan+Club&metroId=8",
+      "google": "https://www.google.com/search?q=Jue+Lan+Club+NYC+reservations"
+    }
+  },
+  {
+    "id": 11,
+    "name": "Little Owl",
+    "notes": "",
+    "neighborhood": "West Village",
+    "cuisine_type": "American",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/little-owl",
+      "opentable": "https://www.opentable.com/s?term=Little+Owl&metroId=8",
+      "google": "https://www.google.com/search?q=Little+Owl+NYC+reservations"
+    }
+  },
+  {
+    "id": 12,
+    "name": "Extra Virgin",
+    "notes": "",
+    "neighborhood": "West Village",
+    "cuisine_type": "Mediterranean",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/extra-virgin",
+      "opentable": "https://www.opentable.com/s?term=Extra+Virgin&metroId=8",
+      "google": "https://www.google.com/search?q=Extra+Virgin+NYC+reservations"
+    }
+  },
+  {
+    "id": 13,
+    "name": "Minetta Tavern",
+    "notes": "",
+    "neighborhood": "Greenwich Village",
+    "cuisine_type": "American",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/minetta-tavern",
+      "opentable": "https://www.opentable.com/s?term=Minetta+Tavern&metroId=8",
+      "google": "https://www.google.com/search?q=Minetta+Tavern+NYC+reservations"
+    }
+  },
+  {
+    "id": 14,
+    "name": "4 Charles",
+    "notes": "",
+    "neighborhood": "West Village",
+    "cuisine_type": "American",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/4-charles",
+      "opentable": "https://www.opentable.com/s?term=4+Charles&metroId=8",
+      "google": "https://www.google.com/search?q=4+Charles+NYC+reservations"
+    }
+  },
+  {
+    "id": 15,
+    "name": "Rubirosa",
+    "notes": "",
+    "neighborhood": "Nolita",
+    "cuisine_type": "Italian",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/rubirosa",
+      "opentable": "https://www.opentable.com/s?term=Rubirosa&metroId=8",
+      "google": "https://www.google.com/search?q=Rubirosa+NYC+reservations"
+    }
+  },
+  {
+    "id": 16,
+    "name": "Sunday in Brooklyn",
+    "notes": "",
+    "neighborhood": "Brooklyn",
+    "cuisine_type": "American",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/sunday-in-brooklyn",
+      "opentable": "https://www.opentable.com/s?term=Sunday+in+Brooklyn&metroId=8",
+      "google": "https://www.google.com/search?q=Sunday+in+Brooklyn+NYC+reservations"
+    }
+  },
+  {
+    "id": 17,
+    "name": "The Dutch",
+    "notes": "",
+    "neighborhood": "SoHo",
+    "cuisine_type": "American",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/the-dutch",
+      "opentable": "https://www.opentable.com/s?term=The+Dutch&metroId=8",
+      "google": "https://www.google.com/search?q=The+Dutch+NYC+reservations"
+    }
+  },
+  {
+    "id": 18,
+    "name": "Pinto Garden",
+    "notes": "",
+    "neighborhood": "West Village",
+    "cuisine_type": "Mediterranean",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/pinto-garden",
+      "opentable": "https://www.opentable.com/s?term=Pinto+Garden&metroId=8",
+      "google": "https://www.google.com/search?q=Pinto+Garden+NYC+reservations"
+    }
+  },
+  {
+    "id": 19,
+    "name": "Lola Taverna",
+    "notes": "",
+    "neighborhood": "West Village",
+    "cuisine_type": "Greek",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/lola-taverna",
+      "opentable": "https://www.opentable.com/s?term=Lola+Taverna&metroId=8",
+      "google": "https://www.google.com/search?q=Lola+Taverna+NYC+reservations"
+    }
+  },
+  {
+    "id": 20,
+    "name": "Boucherie",
+    "notes": "",
+    "neighborhood": "West Village",
+    "cuisine_type": "French",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/boucherie",
+      "opentable": "https://www.opentable.com/s?term=Boucherie&metroId=8",
+      "google": "https://www.google.com/search?q=Boucherie+NYC+reservations"
+    }
+  },
+  {
+    "id": 21,
+    "name": "Au Cheval",
+    "notes": "",
+    "neighborhood": "Tribeca",
+    "cuisine_type": "American",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/au-cheval",
+      "opentable": "https://www.opentable.com/s?term=Au+Cheval&metroId=8",
+      "google": "https://www.google.com/search?q=Au+Cheval+NYC+reservations"
+    }
+  },
+  {
+    "id": 22,
+    "name": "Bubby's",
+    "notes": "",
+    "neighborhood": "Tribeca",
+    "cuisine_type": "American",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/bubbys",
+      "opentable": "https://www.opentable.com/s?term=Bubby's&metroId=8",
+      "google": "https://www.google.com/search?q=Bubby's+NYC+reservations"
+    }
+  },
+  {
+    "id": 23,
+    "name": "Lilia",
+    "notes": "",
+    "neighborhood": "Williamsburg",
+    "cuisine_type": "Italian",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/lilia",
+      "opentable": "https://www.opentable.com/s?term=Lilia&metroId=8",
+      "google": "https://www.google.com/search?q=Lilia+NYC+reservations"
+    }
+  },
+  {
+    "id": 24,
+    "name": "Misi",
+    "notes": "",
+    "neighborhood": "Williamsburg",
+    "cuisine_type": "Italian",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/misi",
+      "opentable": "https://www.opentable.com/s?term=Misi&metroId=8",
+      "google": "https://www.google.com/search?q=Misi+NYC+reservations"
+    }
+  },
+  {
+    "id": 25,
+    "name": "Kyma Flatiron",
+    "notes": "",
+    "neighborhood": "Flatiron",
+    "cuisine_type": "Greek",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/kyma-flatiron",
+      "opentable": "https://www.opentable.com/s?term=Kyma+Flatiron&metroId=8",
+      "google": "https://www.google.com/search?q=Kyma+Flatiron+NYC+reservations"
+    }
+  },
+  {
+    "id": 26,
+    "name": "Cecconi's",
+    "notes": "",
+    "neighborhood": "Dumbo",
+    "cuisine_type": "Italian",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/cecconis",
+      "opentable": "https://www.opentable.com/s?term=Cecconi's&metroId=8",
+      "google": "https://www.google.com/search?q=Cecconi's+NYC+reservations"
+    }
+  },
+  {
+    "id": 27,
+    "name": "The Smile",
+    "notes": "",
+    "neighborhood": "NoHo",
+    "cuisine_type": "American",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/the-smile",
+      "opentable": "https://www.opentable.com/s?term=The+Smile&metroId=8",
+      "google": "https://www.google.com/search?q=The+Smile+NYC+reservations"
+    }
+  },
+  {
+    "id": 28,
+    "name": "Felix Roasting Co.",
+    "notes": "",
+    "neighborhood": "SoHo",
+    "cuisine_type": "Coffee/Cafe",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/felix-roasting-co",
+      "opentable": "https://www.opentable.com/s?term=Felix+Roasting+Co.&metroId=8",
+      "google": "https://www.google.com/search?q=Felix+Roasting+Co.+NYC+reservations"
+    }
+  },
+  {
+    "id": 29,
+    "name": "Raoul's",
+    "notes": "",
+    "neighborhood": "SoHo",
+    "cuisine_type": "French",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/raouls",
+      "opentable": "https://www.opentable.com/s?term=Raoul's&metroId=8",
+      "google": "https://www.google.com/search?q=Raoul's+NYC+reservations"
+    }
+  },
+  {
+    "id": 30,
+    "name": "Los Tacos No. 1",
+    "notes": "Chelsea Market",
+    "neighborhood": "Chelsea",
+    "cuisine_type": "Mexican",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/los-tacos-no-1",
+      "opentable": "https://www.opentable.com/s?term=Los+Tacos+No.+1&metroId=8",
+      "google": "https://www.google.com/search?q=Los+Tacos+No.+1+NYC+reservations"
+    }
+  },
+  {
+    "id": 31,
+    "name": "Dante",
+    "notes": "",
+    "neighborhood": "Greenwich Village",
+    "cuisine_type": "Bar/Cocktails",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/dante",
+      "opentable": "https://www.opentable.com/s?term=Dante&metroId=8",
+      "google": "https://www.google.com/search?q=Dante+NYC+reservations"
+    }
+  },
+  {
+    "id": 32,
+    "name": "Uva",
+    "notes": "",
+    "neighborhood": "Upper East Side",
+    "cuisine_type": "Italian",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/uva",
+      "opentable": "https://www.opentable.com/s?term=Uva&metroId=8",
+      "google": "https://www.google.com/search?q=Uva+NYC+reservations"
+    }
+  },
+  {
+    "id": 33,
+    "name": "Mr. Purple",
+    "notes": "",
+    "neighborhood": "Lower East Side",
+    "cuisine_type": "Bar/Cocktails",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/mr-purple",
+      "opentable": "https://www.opentable.com/s?term=Mr.+Purple&metroId=8",
+      "google": "https://www.google.com/search?q=Mr.+Purple+NYC+reservations"
+    }
+  },
+  {
+    "id": 34,
+    "name": "Whipped",
+    "notes": "",
+    "neighborhood": "West Village",
+    "cuisine_type": "Dessert",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/whipped",
+      "opentable": "https://www.opentable.com/s?term=Whipped&metroId=8",
+      "google": "https://www.google.com/search?q=Whipped+NYC+reservations"
+    }
+  },
+  {
+    "id": 35,
+    "name": "Malibu Farm",
+    "notes": "",
+    "neighborhood": "Dumbo",
+    "cuisine_type": "American",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/malibu-farm",
+      "opentable": "https://www.opentable.com/s?term=Malibu+Farm&metroId=8",
+      "google": "https://www.google.com/search?q=Malibu+Farm+NYC+reservations"
+    }
+  },
+  {
+    "id": 36,
+    "name": "The Fulton",
+    "notes": "",
+    "neighborhood": "South Street Seaport",
+    "cuisine_type": "Seafood",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/the-fulton",
+      "opentable": "https://www.opentable.com/s?term=The+Fulton&metroId=8",
+      "google": "https://www.google.com/search?q=The+Fulton+NYC+reservations"
+    }
+  },
+  {
+    "id": 37,
+    "name": "Industry Kitchen",
+    "notes": "",
+    "neighborhood": "South Street Seaport",
+    "cuisine_type": "American",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/industry-kitchen",
+      "opentable": "https://www.opentable.com/s?term=Industry+Kitchen&metroId=8",
+      "google": "https://www.google.com/search?q=Industry+Kitchen+NYC+reservations"
+    }
+  },
+  {
+    "id": 38,
+    "name": "Keste",
+    "notes": "",
+    "neighborhood": "West Village",
+    "cuisine_type": "Pizza",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/keste",
+      "opentable": "https://www.opentable.com/s?term=Keste&metroId=8",
+      "google": "https://www.google.com/search?q=Keste+NYC+reservations"
+    }
+  },
+  {
+    "id": 39,
+    "name": "Joe's Pizza",
+    "notes": "",
+    "neighborhood": "West Village",
+    "cuisine_type": "Italian",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/joes-pizza",
+      "opentable": "https://www.opentable.com/s?term=Joe's+Pizza&metroId=8",
+      "google": "https://www.google.com/search?q=Joe's+Pizza+NYC+reservations"
+    }
+  },
+  {
+    "id": 40,
+    "name": "Bleecker Street Pizza",
+    "notes": "",
+    "neighborhood": "West Village",
+    "cuisine_type": "Italian",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/bleecker-street-pizza",
+      "opentable": "https://www.opentable.com/s?term=Bleecker+Street+Pizza&metroId=8",
+      "google": "https://www.google.com/search?q=Bleecker+Street+Pizza+NYC+reservations"
+    }
+  },
+  {
+    "id": 41,
+    "name": "Fiaschetteria Pistoia",
+    "notes": "",
+    "neighborhood": "NoHo",
+    "cuisine_type": "Italian",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/fiaschetteria-pistoia",
+      "opentable": "https://www.opentable.com/s?term=Fiaschetteria+Pistoia&metroId=8",
+      "google": "https://www.google.com/search?q=Fiaschetteria+Pistoia+NYC+reservations"
+    }
+  },
+  {
+    "id": 42,
+    "name": "Death by Pizza",
+    "notes": "",
+    "neighborhood": "Nolita",
+    "cuisine_type": "Italian",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/death-by-pizza",
+      "opentable": "https://www.opentable.com/s?term=Death+by+Pizza&metroId=8",
+      "google": "https://www.google.com/search?q=Death+by+Pizza+NYC+reservations"
+    }
+  },
+  {
+    "id": 43,
+    "name": "Pardon my French",
+    "notes": "",
+    "neighborhood": "East Village",
+    "cuisine_type": "French",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/pardon-my-french",
+      "opentable": "https://www.opentable.com/s?term=Pardon+my+French&metroId=8",
+      "google": "https://www.google.com/search?q=Pardon+my+French+NYC+reservations"
+    }
+  },
+  {
+    "id": 44,
+    "name": "Chama Mama",
+    "notes": "",
+    "neighborhood": "Flatiron",
+    "cuisine_type": "Georgian",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/chama-mama",
+      "opentable": "https://www.opentable.com/s?term=Chama+Mama&metroId=8",
+      "google": "https://www.google.com/search?q=Chama+Mama+NYC+reservations"
+    }
+  },
+  {
+    "id": 45,
+    "name": "Surreal Creamery",
+    "notes": "",
+    "neighborhood": "Koreatown",
+    "cuisine_type": "Dessert",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/surreal-creamery",
+      "opentable": "https://www.opentable.com/s?term=Surreal+Creamery&metroId=8",
+      "google": "https://www.google.com/search?q=Surreal+Creamery+NYC+reservations"
+    }
+  },
+  {
+    "id": 46,
+    "name": "Jack's Wife Freda",
+    "notes": "",
+    "neighborhood": "SoHo",
+    "cuisine_type": "Mediterranean",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/jacks-wife-freda",
+      "opentable": "https://www.opentable.com/s?term=Jack's+Wife+Freda&metroId=8",
+      "google": "https://www.google.com/search?q=Jack's+Wife+Freda+NYC+reservations"
+    }
+  },
+  {
+    "id": 47,
+    "name": "Good Thanks",
+    "notes": "",
+    "neighborhood": "Nolita",
+    "cuisine_type": "Coffee/Cafe",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/good-thanks",
+      "opentable": "https://www.opentable.com/s?term=Good+Thanks&metroId=8",
+      "google": "https://www.google.com/search?q=Good+Thanks+NYC+reservations"
+    }
+  },
+  {
+    "id": 48,
+    "name": "Two Hands",
+    "notes": "",
+    "neighborhood": "Nolita",
+    "cuisine_type": "Australian",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/two-hands",
+      "opentable": "https://www.opentable.com/s?term=Two+Hands&metroId=8",
+      "google": "https://www.google.com/search?q=Two+Hands+NYC+reservations"
+    }
+  },
+  {
+    "id": 49,
+    "name": "Sola Pasta Bar",
+    "notes": "",
+    "neighborhood": "Lower East Side",
+    "cuisine_type": "Italian",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/sola-pasta-bar",
+      "opentable": "https://www.opentable.com/s?term=Sola+Pasta+Bar&metroId=8",
+      "google": "https://www.google.com/search?q=Sola+Pasta+Bar+NYC+reservations"
+    }
+  },
+  {
+    "id": 50,
+    "name": "Tacovision",
+    "notes": "",
+    "neighborhood": "Lower East Side",
+    "cuisine_type": "Mexican",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/tacovision",
+      "opentable": "https://www.opentable.com/s?term=Tacovision&metroId=8",
+      "google": "https://www.google.com/search?q=Tacovision+NYC+reservations"
+    }
+  },
+  {
+    "id": 51,
+    "name": "Berimbau",
+    "notes": "",
+    "neighborhood": "West Village",
+    "cuisine_type": "Brazilian",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/berimbau",
+      "opentable": "https://www.opentable.com/s?term=Berimbau&metroId=8",
+      "google": "https://www.google.com/search?q=Berimbau+NYC+reservations"
+    }
+  },
+  {
+    "id": 52,
+    "name": "Donut Pub",
+    "notes": "",
+    "neighborhood": "West Village",
+    "cuisine_type": "Dessert",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/donut-pub",
+      "opentable": "https://www.opentable.com/s?term=Donut+Pub&metroId=8",
+      "google": "https://www.google.com/search?q=Donut+Pub+NYC+reservations"
+    }
+  },
+  {
+    "id": 53,
+    "name": "Banter",
+    "notes": "",
+    "neighborhood": "East Village",
+    "cuisine_type": "American",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/banter",
+      "opentable": "https://www.opentable.com/s?term=Banter&metroId=8",
+      "google": "https://www.google.com/search?q=Banter+NYC+reservations"
+    }
+  },
+  {
+    "id": 54,
+    "name": "L&B Spumoni Gardens",
+    "notes": "",
+    "neighborhood": "Brooklyn",
+    "cuisine_type": "Pizza",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/lb-spumoni-gardens",
+      "opentable": "https://www.opentable.com/s?term=L&B+Spumoni+Gardens&metroId=8",
+      "google": "https://www.google.com/search?q=L&B+Spumoni+Gardens+NYC+reservations"
+    }
+  },
+  {
+    "id": 55,
+    "name": "Frenchette",
+    "notes": "",
+    "neighborhood": "Tribeca",
+    "cuisine_type": "French",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/frenchette",
+      "opentable": "https://www.opentable.com/s?term=Frenchette&metroId=8",
+      "google": "https://www.google.com/search?q=Frenchette+NYC+reservations"
+    }
+  },
+  {
+    "id": 56,
+    "name": "Rosemary's",
+    "notes": "",
+    "neighborhood": "West Village",
+    "cuisine_type": "Italian",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/rosemarys",
+      "opentable": "https://www.opentable.com/s?term=Rosemary's&metroId=8",
+      "google": "https://www.google.com/search?q=Rosemary's+NYC+reservations"
+    }
+  },
+  {
+    "id": 57,
+    "name": "Le Crocodile",
+    "notes": "",
+    "neighborhood": "Williamsburg",
+    "cuisine_type": "French",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/le-crocodile",
+      "opentable": "https://www.opentable.com/s?term=Le+Crocodile&metroId=8",
+      "google": "https://www.google.com/search?q=Le+Crocodile+NYC+reservations"
+    }
+  },
+  {
+    "id": 58,
+    "name": "Forsythia",
+    "notes": "",
+    "neighborhood": "Lower East Side",
+    "cuisine_type": "American",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/forsythia",
+      "opentable": "https://www.opentable.com/s?term=Forsythia&metroId=8",
+      "google": "https://www.google.com/search?q=Forsythia+NYC+reservations"
+    }
+  },
+  {
+    "id": 59,
+    "name": "Gemma at the Bowery Hotel",
+    "notes": "",
+    "neighborhood": "Bowery",
+    "cuisine_type": "Italian",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/gemma-at-the-bowery-hotel",
+      "opentable": "https://www.opentable.com/s?term=Gemma+at+the+Bowery+Hotel&metroId=8",
+      "google": "https://www.google.com/search?q=Gemma+at+the+Bowery+Hotel+NYC+reservations"
+    }
+  },
+  {
+    "id": 60,
+    "name": "Sunflower Cafe",
+    "notes": "",
+    "neighborhood": "Williamsburg",
+    "cuisine_type": "Coffee/Cafe",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/sunflower-cafe",
+      "opentable": "https://www.opentable.com/s?term=Sunflower+Cafe&metroId=8",
+      "google": "https://www.google.com/search?q=Sunflower+Cafe+NYC+reservations"
+    }
+  },
+  {
+    "id": 61,
+    "name": "The Market Line",
+    "notes": "",
+    "neighborhood": "Lower East Side",
+    "cuisine_type": "Food Hall",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/the-market-line",
+      "opentable": "https://www.opentable.com/s?term=The+Market+Line&metroId=8",
+      "google": "https://www.google.com/search?q=The+Market+Line+NYC+reservations"
+    }
+  },
+  {
+    "id": 62,
+    "name": "Biga Bite",
+    "notes": "",
+    "neighborhood": "Lower East Side",
+    "cuisine_type": "Pizza",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/biga-bite",
+      "opentable": "https://www.opentable.com/s?term=Biga+Bite&metroId=8",
+      "google": "https://www.google.com/search?q=Biga+Bite+NYC+reservations"
+    }
+  },
+  {
+    "id": 63,
+    "name": "Butler Coffee",
+    "notes": "",
+    "neighborhood": "Williamsburg",
+    "cuisine_type": "Coffee/Cafe",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/butler-coffee",
+      "opentable": "https://www.opentable.com/s?term=Butler+Coffee&metroId=8",
+      "google": "https://www.google.com/search?q=Butler+Coffee+NYC+reservations"
+    }
+  },
+  {
+    "id": 64,
+    "name": "Angelina Paris",
+    "notes": "",
+    "neighborhood": "SoHo",
+    "cuisine_type": "French",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/angelina-paris",
+      "opentable": "https://www.opentable.com/s?term=Angelina+Paris&metroId=8",
+      "google": "https://www.google.com/search?q=Angelina+Paris+NYC+reservations"
+    }
+  },
+  {
+    "id": 65,
+    "name": "Golden Diner",
+    "notes": "",
+    "neighborhood": "Chinatown",
+    "cuisine_type": "American",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/golden-diner",
+      "opentable": "https://www.opentable.com/s?term=Golden+Diner&metroId=8",
+      "google": "https://www.google.com/search?q=Golden+Diner+NYC+reservations"
+    }
+  },
+  {
+    "id": 66,
+    "name": "MENO",
+    "notes": "",
+    "neighborhood": "Williamsburg",
+    "cuisine_type": "Italian",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/meno",
+      "opentable": "https://www.opentable.com/s?term=MENO&metroId=8",
+      "google": "https://www.google.com/search?q=MENO+NYC+reservations"
+    }
+  },
+  {
+    "id": 67,
+    "name": "Zehr",
+    "notes": "",
+    "neighborhood": "West Village",
+    "cuisine_type": "Middle Eastern",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/zehr",
+      "opentable": "https://www.opentable.com/s?term=Zehr&metroId=8",
+      "google": "https://www.google.com/search?q=Zehr+NYC+reservations"
+    }
+  },
+  {
+    "id": 68,
+    "name": "Thai Diner",
+    "notes": "",
+    "neighborhood": "Nolita",
+    "cuisine_type": "American",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/thai-diner",
+      "opentable": "https://www.opentable.com/s?term=Thai+Diner&metroId=8",
+      "google": "https://www.google.com/search?q=Thai+Diner+NYC+reservations"
+    }
+  },
+  {
+    "id": 69,
+    "name": "Roey's",
+    "notes": "",
+    "neighborhood": "West Village",
+    "cuisine_type": "American",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/roeys",
+      "opentable": "https://www.opentable.com/s?term=Roey's&metroId=8",
+      "google": "https://www.google.com/search?q=Roey's+NYC+reservations"
+    }
+  },
+  {
+    "id": 70,
+    "name": "Locanda Verde",
+    "notes": "",
+    "neighborhood": "Tribeca",
+    "cuisine_type": "Italian",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/locanda-verde",
+      "opentable": "https://www.opentable.com/s?term=Locanda+Verde&metroId=8",
+      "google": "https://www.google.com/search?q=Locanda+Verde+NYC+reservations"
+    }
+  },
+  {
+    "id": 71,
+    "name": "Il Fiorista",
+    "notes": "",
+    "neighborhood": "Flatiron",
+    "cuisine_type": "Italian",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/il-fiorista",
+      "opentable": "https://www.opentable.com/s?term=Il+Fiorista&metroId=8",
+      "google": "https://www.google.com/search?q=Il+Fiorista+NYC+reservations"
+    }
+  },
+  {
+    "id": 72,
+    "name": "Anfora",
+    "notes": "",
+    "neighborhood": "West Village",
+    "cuisine_type": "Wine Bar",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/anfora",
+      "opentable": "https://www.opentable.com/s?term=Anfora&metroId=8",
+      "google": "https://www.google.com/search?q=Anfora+NYC+reservations"
+    }
+  },
+  {
+    "id": 73,
+    "name": "Mister Dips",
+    "notes": "",
+    "neighborhood": "Williamsburg",
+    "cuisine_type": "American",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/mister-dips",
+      "opentable": "https://www.opentable.com/s?term=Mister+Dips&metroId=8",
+      "google": "https://www.google.com/search?q=Mister+Dips+NYC+reservations"
+    }
+  },
+  {
+    "id": 74,
+    "name": "Pheasant",
+    "notes": "",
+    "neighborhood": "Williamsburg",
+    "cuisine_type": "American",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/pheasant",
+      "opentable": "https://www.opentable.com/s?term=Pheasant&metroId=8",
+      "google": "https://www.google.com/search?q=Pheasant+NYC+reservations"
+    }
+  },
+  {
+    "id": 75,
+    "name": "Rule of Thirds",
+    "notes": "",
+    "neighborhood": "Greenpoint",
+    "cuisine_type": "Japanese",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/rule-of-thirds",
+      "opentable": "https://www.opentable.com/s?term=Rule+of+Thirds&metroId=8",
+      "google": "https://www.google.com/search?q=Rule+of+Thirds+NYC+reservations"
+    }
+  },
+  {
+    "id": 76,
+    "name": "Babs",
+    "notes": "",
+    "neighborhood": "Lower East Side",
+    "cuisine_type": "American",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/babs",
+      "opentable": "https://www.opentable.com/s?term=Babs&metroId=8",
+      "google": "https://www.google.com/search?q=Babs+NYC+reservations"
+    }
+  },
+  {
+    "id": 77,
+    "name": "Question",
+    "notes": "",
+    "neighborhood": "Lower East Side",
+    "cuisine_type": "American",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/question",
+      "opentable": "https://www.opentable.com/s?term=Question&metroId=8",
+      "google": "https://www.google.com/search?q=Question+NYC+reservations"
+    }
+  },
+  {
+    "id": 78,
+    "name": "Vallata",
+    "notes": "",
+    "neighborhood": "West Village",
+    "cuisine_type": "Italian",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/vallata",
+      "opentable": "https://www.opentable.com/s?term=Vallata&metroId=8",
+      "google": "https://www.google.com/search?q=Vallata+NYC+reservations"
+    }
+  },
+  {
+    "id": 79,
+    "name": "Cafe Cluny",
+    "notes": "",
+    "neighborhood": "West Village",
+    "cuisine_type": "Coffee/Cafe",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/cafe-cluny",
+      "opentable": "https://www.opentable.com/s?term=Cafe+Cluny&metroId=8",
+      "google": "https://www.google.com/search?q=Cafe+Cluny+NYC+reservations"
+    }
+  },
+  {
+    "id": 80,
+    "name": "Maki Kosaka",
+    "notes": "",
+    "neighborhood": "West Village",
+    "cuisine_type": "Japanese",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/maki-kosaka",
+      "opentable": "https://www.opentable.com/s?term=Maki+Kosaka&metroId=8",
+      "google": "https://www.google.com/search?q=Maki+Kosaka+NYC+reservations"
+    }
+  },
+  {
+    "id": 81,
+    "name": "Sushi on Jone",
+    "notes": "",
+    "neighborhood": "West Village",
+    "cuisine_type": "Japanese",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/sushi-on-jone",
+      "opentable": "https://www.opentable.com/s?term=Sushi+on+Jone&metroId=8",
+      "google": "https://www.google.com/search?q=Sushi+on+Jone+NYC+reservations"
+    }
+  },
+  {
+    "id": 82,
+    "name": "Bandits",
+    "notes": "",
+    "neighborhood": "Chinatown",
+    "cuisine_type": "Mexican",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/bandits",
+      "opentable": "https://www.opentable.com/s?term=Bandits&metroId=8",
+      "google": "https://www.google.com/search?q=Bandits+NYC+reservations"
+    }
+  },
+  {
+    "id": 83,
+    "name": "Cobble & Co",
+    "notes": "",
+    "neighborhood": "Cobble Hill",
+    "cuisine_type": "American",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/cobble-co",
+      "opentable": "https://www.opentable.com/s?term=Cobble+&+Co&metroId=8",
+      "google": "https://www.google.com/search?q=Cobble+&+Co+NYC+reservations"
+    }
+  },
+  {
+    "id": 84,
+    "name": "Kubeh",
+    "notes": "",
+    "neighborhood": "Greenwich Village",
+    "cuisine_type": "Middle Eastern",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/kubeh",
+      "opentable": "https://www.opentable.com/s?term=Kubeh&metroId=8",
+      "google": "https://www.google.com/search?q=Kubeh+NYC+reservations"
+    }
+  },
+  {
+    "id": 85,
+    "name": "Her Name Was Carmen",
+    "notes": "",
+    "neighborhood": "Lower East Side",
+    "cuisine_type": "Spanish",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/her-name-was-carmen",
+      "opentable": "https://www.opentable.com/s?term=Her+Name+Was+Carmen&metroId=8",
+      "google": "https://www.google.com/search?q=Her+Name+Was+Carmen+NYC+reservations"
+    }
+  },
+  {
+    "id": 86,
+    "name": "Hudson Clearwater",
+    "notes": "",
+    "neighborhood": "West Village",
+    "cuisine_type": "American",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/hudson-clearwater",
+      "opentable": "https://www.opentable.com/s?term=Hudson+Clearwater&metroId=8",
+      "google": "https://www.google.com/search?q=Hudson+Clearwater+NYC+reservations"
+    }
+  },
+  {
+    "id": 87,
+    "name": "Davelle",
+    "notes": "",
+    "neighborhood": "Lower East Side",
+    "cuisine_type": "Japanese",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/davelle",
+      "opentable": "https://www.opentable.com/s?term=Davelle&metroId=8",
+      "google": "https://www.google.com/search?q=Davelle+NYC+reservations"
+    }
+  },
+  {
+    "id": 88,
+    "name": "Planta Nomad",
+    "notes": "",
+    "neighborhood": "NoMad",
+    "cuisine_type": "American",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/planta-nomad",
+      "opentable": "https://www.opentable.com/s?term=Planta+Nomad&metroId=8",
+      "google": "https://www.google.com/search?q=Planta+Nomad+NYC+reservations"
+    }
+  },
+  {
+    "id": 89,
+    "name": "Nur",
+    "notes": "",
+    "neighborhood": "Flatiron",
+    "cuisine_type": "Middle Eastern",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/nur",
+      "opentable": "https://www.opentable.com/s?term=Nur&metroId=8",
+      "google": "https://www.google.com/search?q=Nur+NYC+reservations"
+    }
+  },
+  {
+    "id": 90,
+    "name": "Jolene",
+    "notes": "",
+    "neighborhood": "Murray Hill",
+    "cuisine_type": "American",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/jolene",
+      "opentable": "https://www.opentable.com/s?term=Jolene&metroId=8",
+      "google": "https://www.google.com/search?q=Jolene+NYC+reservations"
+    }
+  },
+  {
+    "id": 91,
+    "name": "Milu",
+    "notes": "",
+    "neighborhood": "FiDi",
+    "cuisine_type": "American",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/milu",
+      "opentable": "https://www.opentable.com/s?term=Milu&metroId=8",
+      "google": "https://www.google.com/search?q=Milu+NYC+reservations"
+    }
+  },
+  {
+    "id": 92,
+    "name": "Xilonen",
+    "notes": "",
+    "neighborhood": "NoMad",
+    "cuisine_type": "Mexican",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/xilonen",
+      "opentable": "https://www.opentable.com/s?term=Xilonen&metroId=8",
+      "google": "https://www.google.com/search?q=Xilonen+NYC+reservations"
+    }
+  },
+  {
+    "id": 93,
+    "name": "Fan Fan Donuts",
+    "notes": "",
+    "neighborhood": "Greenpoint",
+    "cuisine_type": "Dessert",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/fan-fan-donuts",
+      "opentable": "https://www.opentable.com/s?term=Fan+Fan+Donuts&metroId=8",
+      "google": "https://www.google.com/search?q=Fan+Fan+Donuts+NYC+reservations"
+    }
+  },
+  {
+    "id": 94,
+    "name": "Peasant",
+    "notes": "",
+    "neighborhood": "Nolita",
+    "cuisine_type": "Italian",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/peasant",
+      "opentable": "https://www.opentable.com/s?term=Peasant&metroId=8",
+      "google": "https://www.google.com/search?q=Peasant+NYC+reservations"
+    }
+  },
+  {
+    "id": 95,
+    "name": "Sunday to Sunday",
+    "notes": "",
+    "neighborhood": "Brooklyn",
+    "cuisine_type": "American",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/sunday-to-sunday",
+      "opentable": "https://www.opentable.com/s?term=Sunday+to+Sunday&metroId=8",
+      "google": "https://www.google.com/search?q=Sunday+to+Sunday+NYC+reservations"
+    }
+  },
+  {
+    "id": 96,
+    "name": "Seven Grams Caffe",
+    "notes": "",
+    "neighborhood": "Multiple",
+    "cuisine_type": "Coffee/Cafe",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/seven-grams-caffe",
+      "opentable": "https://www.opentable.com/s?term=Seven+Grams+Caffe&metroId=8",
+      "google": "https://www.google.com/search?q=Seven+Grams+Caffe+NYC+reservations"
+    }
+  },
+  {
+    "id": 97,
+    "name": "Dough",
+    "notes": "",
+    "neighborhood": "Flatiron",
+    "cuisine_type": "Bakery",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/dough",
+      "opentable": "https://www.opentable.com/s?term=Dough&metroId=8",
+      "google": "https://www.google.com/search?q=Dough+NYC+reservations"
+    }
+  },
+  {
+    "id": 98,
+    "name": "Ume",
+    "notes": "",
+    "neighborhood": "West Village",
+    "cuisine_type": "Japanese",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/ume",
+      "opentable": "https://www.opentable.com/s?term=Ume&metroId=8",
+      "google": "https://www.google.com/search?q=Ume+NYC+reservations"
+    }
+  },
+  {
+    "id": 99,
+    "name": "Momofuku Ko",
+    "notes": "",
+    "neighborhood": "East Village",
+    "cuisine_type": "Japanese",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/momofuku-ko",
+      "opentable": "https://www.opentable.com/s?term=Momofuku+Ko&metroId=8",
+      "google": "https://www.google.com/search?q=Momofuku+Ko+NYC+reservations"
+    }
+  },
+  {
+    "id": 100,
+    "name": "Momofuku Ssam Bar",
+    "notes": "",
+    "neighborhood": "East Village",
+    "cuisine_type": "Bar/Cocktails",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/momofuku-ssam-bar",
+      "opentable": "https://www.opentable.com/s?term=Momofuku+Ssam+Bar&metroId=8",
+      "google": "https://www.google.com/search?q=Momofuku+Ssam+Bar+NYC+reservations"
+    }
+  },
+  {
+    "id": 101,
+    "name": "Momofuku Noodle Bar",
+    "notes": "",
+    "neighborhood": "East Village",
+    "cuisine_type": "Bar/Cocktails",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/momofuku-noodle-bar",
+      "opentable": "https://www.opentable.com/s?term=Momofuku+Noodle+Bar&metroId=8",
+      "google": "https://www.google.com/search?q=Momofuku+Noodle+Bar+NYC+reservations"
+    }
+  },
+  {
+    "id": 102,
+    "name": "Yellow Rose",
+    "notes": "",
+    "neighborhood": "East Village",
+    "cuisine_type": "Mexican",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/yellow-rose",
+      "opentable": "https://www.opentable.com/s?term=Yellow+Rose&metroId=8",
+      "google": "https://www.google.com/search?q=Yellow+Rose+NYC+reservations"
+    }
+  },
+  {
+    "id": 103,
+    "name": "Gilligan's",
+    "notes": "",
+    "neighborhood": "SoHo",
+    "cuisine_type": "American",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/gilligans",
+      "opentable": "https://www.opentable.com/s?term=Gilligan's&metroId=8",
+      "google": "https://www.google.com/search?q=Gilligan's+NYC+reservations"
+    }
+  },
+  {
+    "id": 104,
+    "name": "Gallow Green",
+    "notes": "",
+    "neighborhood": "Chelsea",
+    "cuisine_type": "Bar/Cocktails",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/gallow-green",
+      "opentable": "https://www.opentable.com/s?term=Gallow+Green&metroId=8",
+      "google": "https://www.google.com/search?q=Gallow+Green+NYC+reservations"
+    }
+  },
+  {
+    "id": 105,
+    "name": "La Esquina",
+    "notes": "",
+    "neighborhood": "Nolita",
+    "cuisine_type": "Mexican",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/la-esquina",
+      "opentable": "https://www.opentable.com/s?term=La+Esquina&metroId=8",
+      "google": "https://www.google.com/search?q=La+Esquina+NYC+reservations"
+    }
+  },
+  {
+    "id": 106,
+    "name": "Lamia's Fish Market",
+    "notes": "",
+    "neighborhood": "East Village",
+    "cuisine_type": "Seafood",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/lamias-fish-market",
+      "opentable": "https://www.opentable.com/s?term=Lamia's+Fish+Market&metroId=8",
+      "google": "https://www.google.com/search?q=Lamia's+Fish+Market+NYC+reservations"
+    }
+  },
+  {
+    "id": 107,
+    "name": "Westville",
+    "notes": "",
+    "neighborhood": "West Village",
+    "cuisine_type": "American",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/westville",
+      "opentable": "https://www.opentable.com/s?term=Westville&metroId=8",
+      "google": "https://www.google.com/search?q=Westville+NYC+reservations"
+    }
+  },
+  {
+    "id": 108,
+    "name": "B'artusi",
+    "notes": "",
+    "neighborhood": "West Village",
+    "cuisine_type": "Italian",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/bartusi",
+      "opentable": "https://www.opentable.com/s?term=B'artusi&metroId=8",
+      "google": "https://www.google.com/search?q=B'artusi+NYC+reservations"
+    }
+  },
+  {
+    "id": 109,
+    "name": "Via Porta",
+    "notes": "",
+    "neighborhood": "East Village",
+    "cuisine_type": "Italian",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/via-porta",
+      "opentable": "https://www.opentable.com/s?term=Via+Porta&metroId=8",
+      "google": "https://www.google.com/search?q=Via+Porta+NYC+reservations"
+    }
+  },
+  {
+    "id": 110,
+    "name": "Acme",
+    "notes": "",
+    "neighborhood": "NoHo",
+    "cuisine_type": "American",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/acme",
+      "opentable": "https://www.opentable.com/s?term=Acme&metroId=8",
+      "google": "https://www.google.com/search?q=Acme+NYC+reservations"
+    }
+  },
+  {
+    "id": 111,
+    "name": "Baby Luc's",
+    "notes": "",
+    "neighborhood": "Cobble Hill",
+    "cuisine_type": "Italian",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/baby-lucs",
+      "opentable": "https://www.opentable.com/s?term=Baby+Luc's&metroId=8",
+      "google": "https://www.google.com/search?q=Baby+Luc's+NYC+reservations"
+    }
+  },
+  {
+    "id": 112,
+    "name": "The Campbell",
+    "notes": "",
+    "neighborhood": "Midtown",
+    "cuisine_type": "Bar/Cocktails",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/the-campbell",
+      "opentable": "https://www.opentable.com/s?term=The+Campbell&metroId=8",
+      "google": "https://www.google.com/search?q=The+Campbell+NYC+reservations"
+    }
+  },
+  {
+    "id": 113,
+    "name": "Public Records",
+    "notes": "",
+    "neighborhood": "Gowanus",
+    "cuisine_type": "Bar/Cocktails",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/public-records",
+      "opentable": "https://www.opentable.com/s?term=Public+Records&metroId=8",
+      "google": "https://www.google.com/search?q=Public+Records+NYC+reservations"
+    }
+  },
+  {
+    "id": 114,
+    "name": "The Spaniard",
+    "notes": "",
+    "neighborhood": "West Village",
+    "cuisine_type": "Bar/Cocktails",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/the-spaniard",
+      "opentable": "https://www.opentable.com/s?term=The+Spaniard&metroId=8",
+      "google": "https://www.google.com/search?q=The+Spaniard+NYC+reservations"
+    }
+  },
+  {
+    "id": 115,
+    "name": "Garrett East",
+    "notes": "",
+    "neighborhood": "East Village",
+    "cuisine_type": "American",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/garrett-east",
+      "opentable": "https://www.opentable.com/s?term=Garrett+East&metroId=8",
+      "google": "https://www.google.com/search?q=Garrett+East+NYC+reservations"
+    }
+  },
+  {
+    "id": 116,
+    "name": "East Village Pizza",
+    "notes": "cheesy garlic knots",
+    "neighborhood": "East Village",
+    "cuisine_type": "Italian",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/east-village-pizza",
+      "opentable": "https://www.opentable.com/s?term=East+Village+Pizza&metroId=8",
+      "google": "https://www.google.com/search?q=East+Village+Pizza+NYC+reservations"
+    }
+  },
+  {
+    "id": 117,
+    "name": "Sonnyboy",
+    "notes": "",
+    "neighborhood": "Williamsburg",
+    "cuisine_type": "American",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/sonnyboy",
+      "opentable": "https://www.opentable.com/s?term=Sonnyboy&metroId=8",
+      "google": "https://www.google.com/search?q=Sonnyboy+NYC+reservations"
+    }
+  },
+  {
+    "id": 118,
+    "name": "Terrace at Edition",
+    "notes": "",
+    "neighborhood": "Times Square",
+    "cuisine_type": "American",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/terrace-at-edition",
+      "opentable": "https://www.opentable.com/s?term=Terrace+at+Edition&metroId=8",
+      "google": "https://www.google.com/search?q=Terrace+at+Edition+NYC+reservations"
+    }
+  },
+  {
+    "id": 119,
+    "name": "Corner Bistro",
+    "notes": "",
+    "neighborhood": "West Village",
+    "cuisine_type": "French",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/corner-bistro",
+      "opentable": "https://www.opentable.com/s?term=Corner+Bistro&metroId=8",
+      "google": "https://www.google.com/search?q=Corner+Bistro+NYC+reservations"
+    }
+  },
+  {
+    "id": 120,
+    "name": "Urban Backyard",
+    "notes": "",
+    "neighborhood": "NoHo",
+    "cuisine_type": "American",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/urban-backyard",
+      "opentable": "https://www.opentable.com/s?term=Urban+Backyard&metroId=8",
+      "google": "https://www.google.com/search?q=Urban+Backyard+NYC+reservations"
+    }
+  },
+  {
+    "id": 121,
+    "name": "One White Street",
+    "notes": "",
+    "neighborhood": "Tribeca",
+    "cuisine_type": "American",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/one-white-street",
+      "opentable": "https://www.opentable.com/s?term=One+White+Street&metroId=8",
+      "google": "https://www.google.com/search?q=One+White+Street+NYC+reservations"
+    }
+  },
+  {
+    "id": 122,
+    "name": "Morganstern's Burgers, Fries, and Pies",
+    "notes": "",
+    "neighborhood": "Lower East Side",
+    "cuisine_type": "American",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/morgansterns-burgers-fries-and-pies",
+      "opentable": "https://www.opentable.com/s?term=Morganstern's+Burgers,+Fries,+and+Pies&metroId=8",
+      "google": "https://www.google.com/search?q=Morganstern's+Burgers,+Fries,+and+Pies+NYC+reservations"
+    }
+  },
+  {
+    "id": 123,
+    "name": "Dame",
+    "notes": "",
+    "neighborhood": "West Village",
+    "cuisine_type": "Seafood",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/dame",
+      "opentable": "https://www.opentable.com/s?term=Dame&metroId=8",
+      "google": "https://www.google.com/search?q=Dame+NYC+reservations"
+    }
+  },
+  {
+    "id": 124,
+    "name": "Puglia",
+    "notes": "big group",
+    "neighborhood": "Little Italy",
+    "cuisine_type": "Italian",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/puglia",
+      "opentable": "https://www.opentable.com/s?term=Puglia&metroId=8",
+      "google": "https://www.google.com/search?q=Puglia+NYC+reservations"
+    }
+  },
+  {
+    "id": 125,
+    "name": "Sisters Brooklyn",
+    "notes": "",
+    "neighborhood": "Brooklyn",
+    "cuisine_type": "American",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/sisters-brooklyn",
+      "opentable": "https://www.opentable.com/s?term=Sisters+Brooklyn&metroId=8",
+      "google": "https://www.google.com/search?q=Sisters+Brooklyn+NYC+reservations"
+    }
+  },
+  {
+    "id": 126,
+    "name": "Cervo's",
+    "notes": "",
+    "neighborhood": "Lower East Side",
+    "cuisine_type": "Seafood",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/cervos",
+      "opentable": "https://www.opentable.com/s?term=Cervo's&metroId=8",
+      "google": "https://www.google.com/search?q=Cervo's+NYC+reservations"
+    }
+  },
+  {
+    "id": 127,
+    "name": "Contra",
+    "notes": "",
+    "neighborhood": "Lower East Side",
+    "cuisine_type": "American",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/contra",
+      "opentable": "https://www.opentable.com/s?term=Contra&metroId=8",
+      "google": "https://www.google.com/search?q=Contra+NYC+reservations"
+    }
+  },
+  {
+    "id": 128,
+    "name": "Joseph Leonard",
+    "notes": "",
+    "neighborhood": "West Village",
+    "cuisine_type": "American",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/joseph-leonard",
+      "opentable": "https://www.opentable.com/s?term=Joseph+Leonard&metroId=8",
+      "google": "https://www.google.com/search?q=Joseph+Leonard+NYC+reservations"
+    }
+  },
+  {
+    "id": 129,
+    "name": "Ro Burgies",
+    "notes": "",
+    "neighborhood": "East Village",
+    "cuisine_type": "American",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/ro-burgies",
+      "opentable": "https://www.opentable.com/s?term=Ro+Burgies&metroId=8",
+      "google": "https://www.google.com/search?q=Ro+Burgies+NYC+reservations"
+    }
+  },
+  {
+    "id": 130,
+    "name": "Song E Napule",
+    "notes": "",
+    "neighborhood": "SoHo",
+    "cuisine_type": "Italian",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/song-e-napule",
+      "opentable": "https://www.opentable.com/s?term=Song+E+Napule&metroId=8",
+      "google": "https://www.google.com/search?q=Song+E+Napule+NYC+reservations"
+    }
+  },
+  {
+    "id": 131,
+    "name": "Wolfnight's",
+    "notes": "",
+    "neighborhood": "Brooklyn",
+    "cuisine_type": "American",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/wolfnights",
+      "opentable": "https://www.opentable.com/s?term=Wolfnight's&metroId=8",
+      "google": "https://www.google.com/search?q=Wolfnight's+NYC+reservations"
+    }
+  },
+  {
+    "id": 132,
+    "name": "Smashed Burger",
+    "notes": "",
+    "neighborhood": "East Village",
+    "cuisine_type": "American",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/smashed-burger",
+      "opentable": "https://www.opentable.com/s?term=Smashed+Burger&metroId=8",
+      "google": "https://www.google.com/search?q=Smashed+Burger+NYC+reservations"
+    }
+  },
+  {
+    "id": 133,
+    "name": "Palma",
+    "notes": "",
+    "neighborhood": "West Village",
+    "cuisine_type": "Italian",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/palma",
+      "opentable": "https://www.opentable.com/s?term=Palma&metroId=8",
+      "google": "https://www.google.com/search?q=Palma+NYC+reservations"
+    }
+  },
+  {
+    "id": 134,
+    "name": "Coco Pazzeria",
+    "notes": "",
+    "neighborhood": "SoHo",
+    "cuisine_type": "Italian",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/coco-pazzeria",
+      "opentable": "https://www.opentable.com/s?term=Coco+Pazzeria&metroId=8",
+      "google": "https://www.google.com/search?q=Coco+Pazzeria+NYC+reservations"
+    }
+  },
+  {
+    "id": 135,
+    "name": "Nat's on Bank",
+    "notes": "",
+    "neighborhood": "West Village",
+    "cuisine_type": "American",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/nats-on-bank",
+      "opentable": "https://www.opentable.com/s?term=Nat's+on+Bank&metroId=8",
+      "google": "https://www.google.com/search?q=Nat's+on+Bank+NYC+reservations"
+    }
+  },
+  {
+    "id": 136,
+    "name": "Republic of Booza",
+    "notes": "",
+    "neighborhood": "Brooklyn",
+    "cuisine_type": "Dessert",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/republic-of-booza",
+      "opentable": "https://www.opentable.com/s?term=Republic+of+Booza&metroId=8",
+      "google": "https://www.google.com/search?q=Republic+of+Booza+NYC+reservations"
+    }
+  },
+  {
+    "id": 137,
+    "name": "Bernies",
+    "notes": "",
+    "neighborhood": "Greenpoint",
+    "cuisine_type": "American",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/bernies",
+      "opentable": "https://www.opentable.com/s?term=Bernies&metroId=8",
+      "google": "https://www.google.com/search?q=Bernies+NYC+reservations"
+    }
+  },
+  {
+    "id": 138,
+    "name": "Root & Bone",
+    "notes": "",
+    "neighborhood": "East Village",
+    "cuisine_type": "Southern",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/root-bone",
+      "opentable": "https://www.opentable.com/s?term=Root+&+Bone&metroId=8",
+      "google": "https://www.google.com/search?q=Root+&+Bone+NYC+reservations"
+    }
+  },
+  {
+    "id": 139,
+    "name": "Saint Theo's",
+    "notes": "",
+    "neighborhood": "Prospect Heights",
+    "cuisine_type": "American",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/saint-theos",
+      "opentable": "https://www.opentable.com/s?term=Saint+Theo's&metroId=8",
+      "google": "https://www.google.com/search?q=Saint+Theo's+NYC+reservations"
+    }
+  },
+  {
+    "id": 140,
+    "name": "Portale",
+    "notes": "",
+    "neighborhood": "Chelsea",
+    "cuisine_type": "American",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/portale",
+      "opentable": "https://www.opentable.com/s?term=Portale&metroId=8",
+      "google": "https://www.google.com/search?q=Portale+NYC+reservations"
+    }
+  },
+  {
+    "id": 141,
+    "name": "Bronson's Burgers",
+    "notes": "",
+    "neighborhood": "West Village",
+    "cuisine_type": "American",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/bronsons-burgers",
+      "opentable": "https://www.opentable.com/s?term=Bronson's+Burgers&metroId=8",
+      "google": "https://www.google.com/search?q=Bronson's+Burgers+NYC+reservations"
+    }
+  },
+  {
+    "id": 142,
+    "name": "Honestea",
+    "notes": "",
+    "neighborhood": "NoHo",
+    "cuisine_type": "Coffee/Cafe",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/honestea",
+      "opentable": "https://www.opentable.com/s?term=Honestea&metroId=8",
+      "google": "https://www.google.com/search?q=Honestea+NYC+reservations"
+    }
+  },
+  {
+    "id": 143,
+    "name": "ZIZI",
+    "notes": "",
+    "neighborhood": "Flatiron",
+    "cuisine_type": "Italian",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/zizi",
+      "opentable": "https://www.opentable.com/s?term=ZIZI&metroId=8",
+      "google": "https://www.google.com/search?q=ZIZI+NYC+reservations"
+    }
+  },
+  {
+    "id": 144,
+    "name": "Tacos Guey",
+    "notes": "",
+    "neighborhood": "Williamsburg",
+    "cuisine_type": "Mexican",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/tacos-guey",
+      "opentable": "https://www.opentable.com/s?term=Tacos+Guey&metroId=8",
+      "google": "https://www.google.com/search?q=Tacos+Guey+NYC+reservations"
+    }
+  },
+  {
+    "id": 145,
+    "name": "Harris Bakes",
+    "notes": "",
+    "neighborhood": "Brooklyn",
+    "cuisine_type": "Bakery",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/harris-bakes",
+      "opentable": "https://www.opentable.com/s?term=Harris+Bakes&metroId=8",
+      "google": "https://www.google.com/search?q=Harris+Bakes+NYC+reservations"
+    }
+  },
+  {
+    "id": 146,
+    "name": "Steve's Authentic Key Lime Pies",
+    "notes": "",
+    "neighborhood": "Red Hook",
+    "cuisine_type": "Dessert",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/steves-authentic-key-lime-pies",
+      "opentable": "https://www.opentable.com/s?term=Steve's+Authentic+Key+Lime+Pies&metroId=8",
+      "google": "https://www.google.com/search?q=Steve's+Authentic+Key+Lime+Pies+NYC+reservations"
+    }
+  },
+  {
+    "id": 147,
+    "name": "Brooklyn Delicatessen",
+    "notes": "",
+    "neighborhood": "Brooklyn",
+    "cuisine_type": "Deli",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/brooklyn-delicatessen",
+      "opentable": "https://www.opentable.com/s?term=Brooklyn+Delicatessen&metroId=8",
+      "google": "https://www.google.com/search?q=Brooklyn+Delicatessen+NYC+reservations"
+    }
+  },
+  {
+    "id": 148,
+    "name": "Gallow Green",
+    "notes": "",
+    "neighborhood": "Chelsea",
+    "cuisine_type": "Bar/Cocktails",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/gallow-green",
+      "opentable": "https://www.opentable.com/s?term=Gallow+Green&metroId=8",
+      "google": "https://www.google.com/search?q=Gallow+Green+NYC+reservations"
+    }
+  },
+  {
+    "id": 149,
+    "name": "Culture Espresso",
+    "notes": "",
+    "neighborhood": "Midtown",
+    "cuisine_type": "Coffee/Cafe",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/culture-espresso",
+      "opentable": "https://www.opentable.com/s?term=Culture+Espresso&metroId=8",
+      "google": "https://www.google.com/search?q=Culture+Espresso+NYC+reservations"
+    }
+  },
+  {
+    "id": 150,
+    "name": "Brooklyn Crab",
+    "notes": "",
+    "neighborhood": "Brooklyn",
+    "cuisine_type": "Seafood",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/brooklyn-crab",
+      "opentable": "https://www.opentable.com/s?term=Brooklyn+Crab&metroId=8",
+      "google": "https://www.google.com/search?q=Brooklyn+Crab+NYC+reservations"
+    }
+  },
+  {
+    "id": 151,
+    "name": "Lodi",
+    "notes": "",
+    "neighborhood": "Rockefeller Center",
+    "cuisine_type": "Italian",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/lodi",
+      "opentable": "https://www.opentable.com/s?term=Lodi&metroId=8",
+      "google": "https://www.google.com/search?q=Lodi+NYC+reservations"
+    }
+  },
+  {
+    "id": 152,
+    "name": "Little Shop",
+    "notes": "",
+    "neighborhood": "Lower East Side",
+    "cuisine_type": "American",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/little-shop",
+      "opentable": "https://www.opentable.com/s?term=Little+Shop&metroId=8",
+      "google": "https://www.google.com/search?q=Little+Shop+NYC+reservations"
+    }
+  },
+  {
+    "id": 153,
+    "name": "Day Drinks",
+    "notes": "",
+    "neighborhood": "East Village",
+    "cuisine_type": "Bar/Cocktails",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/day-drinks",
+      "opentable": "https://www.opentable.com/s?term=Day+Drinks&metroId=8",
+      "google": "https://www.google.com/search?q=Day+Drinks+NYC+reservations"
+    }
+  },
+  {
+    "id": 154,
+    "name": "Employees Only",
+    "notes": "",
+    "neighborhood": "West Village",
+    "cuisine_type": "Bar/Cocktails",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/employees-only",
+      "opentable": "https://www.opentable.com/s?term=Employees+Only&metroId=8",
+      "google": "https://www.google.com/search?q=Employees+Only+NYC+reservations"
+    }
+  },
+  {
+    "id": 155,
+    "name": "Canary Club",
+    "notes": "",
+    "neighborhood": "Lower East Side",
+    "cuisine_type": "Bar/Cocktails",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/canary-club",
+      "opentable": "https://www.opentable.com/s?term=Canary+Club&metroId=8",
+      "google": "https://www.google.com/search?q=Canary+Club+NYC+reservations"
+    }
+  },
+  {
+    "id": 156,
+    "name": "Friend of a Farmer",
+    "notes": "pancakes",
+    "neighborhood": "Gramercy",
+    "cuisine_type": "American",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/friend-of-a-farmer",
+      "opentable": "https://www.opentable.com/s?term=Friend+of+a+Farmer&metroId=8",
+      "google": "https://www.google.com/search?q=Friend+of+a+Farmer+NYC+reservations"
+    }
+  },
+  {
+    "id": 157,
+    "name": "Ribbalta",
+    "notes": "",
+    "neighborhood": "Union Square",
+    "cuisine_type": "Pizza",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/ribbalta",
+      "opentable": "https://www.opentable.com/s?term=Ribbalta&metroId=8",
+      "google": "https://www.google.com/search?q=Ribbalta+NYC+reservations"
+    }
+  },
+  {
+    "id": 158,
+    "name": "Temperance",
+    "notes": "",
+    "neighborhood": "East Village",
+    "cuisine_type": "Wine Bar",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/temperance",
+      "opentable": "https://www.opentable.com/s?term=Temperance&metroId=8",
+      "google": "https://www.google.com/search?q=Temperance+NYC+reservations"
+    }
+  },
+  {
+    "id": 159,
+    "name": "St. Jardim",
+    "notes": "",
+    "neighborhood": "Greenwich Village",
+    "cuisine_type": "American",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/st-jardim",
+      "opentable": "https://www.opentable.com/s?term=St.+Jardim&metroId=8",
+      "google": "https://www.google.com/search?q=St.+Jardim+NYC+reservations"
+    }
+  },
+  {
+    "id": 160,
+    "name": "Breakfast by Salt's Cure",
+    "notes": "OG Pancakes",
+    "neighborhood": "NoHo",
+    "cuisine_type": "American",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/breakfast-by-salts-cure",
+      "opentable": "https://www.opentable.com/s?term=Breakfast+by+Salt's+Cure&metroId=8",
+      "google": "https://www.google.com/search?q=Breakfast+by+Salt's+Cure+NYC+reservations"
+    }
+  },
+  {
+    "id": 161,
+    "name": "Ci Siamo",
+    "notes": "",
+    "neighborhood": "Hudson Yards",
+    "cuisine_type": "Italian",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/ci-siamo",
+      "opentable": "https://www.opentable.com/s?term=Ci+Siamo&metroId=8",
+      "google": "https://www.google.com/search?q=Ci+Siamo+NYC+reservations"
+    }
+  },
+  {
+    "id": 162,
+    "name": "Sami and Susu",
+    "notes": "",
+    "neighborhood": "Brooklyn",
+    "cuisine_type": "Middle Eastern",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/sami-and-susu",
+      "opentable": "https://www.opentable.com/s?term=Sami+and+Susu&metroId=8",
+      "google": "https://www.google.com/search?q=Sami+and+Susu+NYC+reservations"
+    }
+  },
+  {
+    "id": 163,
+    "name": "Resident",
+    "notes": "",
+    "neighborhood": "SoHo",
+    "cuisine_type": "American",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/resident",
+      "opentable": "https://www.opentable.com/s?term=Resident&metroId=8",
+      "google": "https://www.google.com/search?q=Resident+NYC+reservations"
+    }
+  },
+  {
+    "id": 164,
+    "name": "Sogno Toscano",
+    "notes": "",
+    "neighborhood": "SoHo",
+    "cuisine_type": "Italian",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/sogno-toscano",
+      "opentable": "https://www.opentable.com/s?term=Sogno+Toscano&metroId=8",
+      "google": "https://www.google.com/search?q=Sogno+Toscano+NYC+reservations"
+    }
+  },
+  {
+    "id": 165,
+    "name": "The commerce inn",
+    "notes": "",
+    "neighborhood": "West Village",
+    "cuisine_type": "American",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/the-commerce-inn",
+      "opentable": "https://www.opentable.com/s?term=The+commerce+inn&metroId=8",
+      "google": "https://www.google.com/search?q=The+commerce+inn+NYC+reservations"
+    }
+  },
+  {
+    "id": 166,
+    "name": "Bambina Blue",
+    "notes": "",
+    "neighborhood": "West Village",
+    "cuisine_type": "Italian",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/bambina-blue",
+      "opentable": "https://www.opentable.com/s?term=Bambina+Blue&metroId=8",
+      "google": "https://www.google.com/search?q=Bambina+Blue+NYC+reservations"
+    }
+  },
+  {
+    "id": 167,
+    "name": "Il cantinori",
+    "notes": "",
+    "neighborhood": "Greenwich Village",
+    "cuisine_type": "Italian",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/il-cantinori",
+      "opentable": "https://www.opentable.com/s?term=Il+cantinori&metroId=8",
+      "google": "https://www.google.com/search?q=Il+cantinori+NYC+reservations"
+    }
+  },
+  {
+    "id": 168,
+    "name": "Miracle on 9th Street",
+    "notes": "",
+    "neighborhood": "East Village",
+    "cuisine_type": "Italian",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/miracle-on-9th-street",
+      "opentable": "https://www.opentable.com/s?term=Miracle+on+9th+Street&metroId=8",
+      "google": "https://www.google.com/search?q=Miracle+on+9th+Street+NYC+reservations"
+    }
+  },
+  {
+    "id": 169,
+    "name": "Emmetts on Grove",
+    "notes": "",
+    "neighborhood": "West Village",
+    "cuisine_type": "Pizza",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/emmetts-on-grove",
+      "opentable": "https://www.opentable.com/s?term=Emmetts+on+Grove&metroId=8",
+      "google": "https://www.google.com/search?q=Emmetts+on+Grove+NYC+reservations"
+    }
+  },
+  {
+    "id": 170,
+    "name": "Zou Zou's",
+    "notes": "",
+    "neighborhood": "Hudson Yards",
+    "cuisine_type": "Middle Eastern",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/zou-zous",
+      "opentable": "https://www.opentable.com/s?term=Zou+Zou's&metroId=8",
+      "google": "https://www.google.com/search?q=Zou+Zou's+NYC+reservations"
+    }
+  },
+  {
+    "id": 171,
+    "name": "Lamalo",
+    "notes": "",
+    "neighborhood": "Gramercy",
+    "cuisine_type": "Middle Eastern",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/lamalo",
+      "opentable": "https://www.opentable.com/s?term=Lamalo&metroId=8",
+      "google": "https://www.google.com/search?q=Lamalo+NYC+reservations"
+    }
+  },
+  {
+    "id": 172,
+    "name": "8282",
+    "notes": "",
+    "neighborhood": "Koreatown",
+    "cuisine_type": "Korean",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/8282",
+      "opentable": "https://www.opentable.com/s?term=8282&metroId=8",
+      "google": "https://www.google.com/search?q=8282+NYC+reservations"
+    }
+  },
+  {
+    "id": 173,
+    "name": "Hawksmoor",
+    "notes": "",
+    "neighborhood": "Tribeca",
+    "cuisine_type": "Steakhouse",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/hawksmoor",
+      "opentable": "https://www.opentable.com/s?term=Hawksmoor&metroId=8",
+      "google": "https://www.google.com/search?q=Hawksmoor+NYC+reservations"
+    }
+  },
+  {
+    "id": 174,
+    "name": "Jack and Charlie's 118",
+    "notes": "",
+    "neighborhood": "Upper East Side",
+    "cuisine_type": "American",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/jack-and-charlies-118",
+      "opentable": "https://www.opentable.com/s?term=Jack+and+Charlie's+118&metroId=8",
+      "google": "https://www.google.com/search?q=Jack+and+Charlie's+118+NYC+reservations"
+    }
+  },
+  {
+    "id": 175,
+    "name": "Earthage Must Be Destroyed",
+    "notes": "",
+    "neighborhood": "Brooklyn",
+    "cuisine_type": "American",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/earthage-must-be-destroyed",
+      "opentable": "https://www.opentable.com/s?term=Earthage+Must+Be+Destroyed&metroId=8",
+      "google": "https://www.google.com/search?q=Earthage+Must+Be+Destroyed+NYC+reservations"
+    }
+  },
+  {
+    "id": 176,
+    "name": "Bar B\u00eate",
+    "notes": "",
+    "neighborhood": "West Village",
+    "cuisine_type": "Bar/Cocktails",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/bar-bte",
+      "opentable": "https://www.opentable.com/s?term=Bar+B\u00eate&metroId=8",
+      "google": "https://www.google.com/search?q=Bar+B\u00eate+NYC+reservations"
+    }
+  },
+  {
+    "id": 177,
+    "name": "Scen",
+    "notes": "",
+    "neighborhood": "West Village",
+    "cuisine_type": "Asian",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/scen",
+      "opentable": "https://www.opentable.com/s?term=Scen&metroId=8",
+      "google": "https://www.google.com/search?q=Scen+NYC+reservations"
+    }
+  },
+  {
+    "id": 178,
+    "name": "Una Pizza Napoleotana",
+    "notes": "",
+    "neighborhood": "Lower East Side",
+    "cuisine_type": "Pizza",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/una-pizza-napoleotana",
+      "opentable": "https://www.opentable.com/s?term=Una+Pizza+Napoleotana&metroId=8",
+      "google": "https://www.google.com/search?q=Una+Pizza+Napoleotana+NYC+reservations"
+    }
+  },
+  {
+    "id": 179,
+    "name": "Bar Tulix",
+    "notes": "",
+    "neighborhood": "East Village",
+    "cuisine_type": "Bar/Cocktails",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/bar-tulix",
+      "opentable": "https://www.opentable.com/s?term=Bar+Tulix&metroId=8",
+      "google": "https://www.google.com/search?q=Bar+Tulix+NYC+reservations"
+    }
+  },
+  {
+    "id": 180,
+    "name": "Mel's",
+    "notes": "",
+    "neighborhood": "West Village",
+    "cuisine_type": "American",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/mels",
+      "opentable": "https://www.opentable.com/s?term=Mel's&metroId=8",
+      "google": "https://www.google.com/search?q=Mel's+NYC+reservations"
+    }
+  },
+  {
+    "id": 181,
+    "name": "Manero's Pizza",
+    "notes": "",
+    "neighborhood": "East Village",
+    "cuisine_type": "Italian",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/maneros-pizza",
+      "opentable": "https://www.opentable.com/s?term=Manero's+Pizza&metroId=8",
+      "google": "https://www.google.com/search?q=Manero's+Pizza+NYC+reservations"
+    }
+  },
+  {
+    "id": 182,
+    "name": "Ten Thousand Coffee",
+    "notes": "",
+    "neighborhood": "Williamsburg",
+    "cuisine_type": "Coffee/Cafe",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/ten-thousand-coffee",
+      "opentable": "https://www.opentable.com/s?term=Ten+Thousand+Coffee&metroId=8",
+      "google": "https://www.google.com/search?q=Ten+Thousand+Coffee+NYC+reservations"
+    }
+  },
+  {
+    "id": 183,
+    "name": "Overstory",
+    "notes": "",
+    "neighborhood": "FiDi",
+    "cuisine_type": "Bar/Cocktails",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/overstory",
+      "opentable": "https://www.opentable.com/s?term=Overstory&metroId=8",
+      "google": "https://www.google.com/search?q=Overstory+NYC+reservations"
+    }
+  },
+  {
+    "id": 184,
+    "name": "La Cabra",
+    "notes": "",
+    "neighborhood": "Lower East Side",
+    "cuisine_type": "Coffee/Cafe",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/la-cabra",
+      "opentable": "https://www.opentable.com/s?term=La+Cabra&metroId=8",
+      "google": "https://www.google.com/search?q=La+Cabra+NYC+reservations"
+    }
+  },
+  {
+    "id": 185,
+    "name": "Casa Carmen",
+    "notes": "",
+    "neighborhood": "West Village",
+    "cuisine_type": "Spanish",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/casa-carmen",
+      "opentable": "https://www.opentable.com/s?term=Casa+Carmen&metroId=8",
+      "google": "https://www.google.com/search?q=Casa+Carmen+NYC+reservations"
+    }
+  },
+  {
+    "id": 186,
+    "name": "The Four Horsemen",
+    "notes": "",
+    "neighborhood": "Williamsburg",
+    "cuisine_type": "Wine Bar",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/the-four-horsemen",
+      "opentable": "https://www.opentable.com/s?term=The+Four+Horsemen&metroId=8",
+      "google": "https://www.google.com/search?q=The+Four+Horsemen+NYC+reservations"
+    }
+  },
+  {
+    "id": 187,
+    "name": "KYU",
+    "notes": "",
+    "neighborhood": "Flatiron",
+    "cuisine_type": "Asian",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/kyu",
+      "opentable": "https://www.opentable.com/s?term=KYU&metroId=8",
+      "google": "https://www.google.com/search?q=KYU+NYC+reservations"
+    }
+  },
+  {
+    "id": 188,
+    "name": "Mel",
+    "notes": "",
+    "neighborhood": "Tribeca",
+    "cuisine_type": "American",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/mel",
+      "opentable": "https://www.opentable.com/s?term=Mel&metroId=8",
+      "google": "https://www.google.com/search?q=Mel+NYC+reservations"
+    }
+  },
+  {
+    "id": 189,
+    "name": "Alice",
+    "notes": "",
+    "neighborhood": "Flatiron",
+    "cuisine_type": "American",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/alice",
+      "opentable": "https://www.opentable.com/s?term=Alice&metroId=8",
+      "google": "https://www.google.com/search?q=Alice+NYC+reservations"
+    }
+  },
+  {
+    "id": 190,
+    "name": "The Ready Rooftop",
+    "notes": "",
+    "neighborhood": "Lower East Side",
+    "cuisine_type": "Bar/Cocktails",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/the-ready-rooftop",
+      "opentable": "https://www.opentable.com/s?term=The+Ready+Rooftop&metroId=8",
+      "google": "https://www.google.com/search?q=The+Ready+Rooftop+NYC+reservations"
+    }
+  },
+  {
+    "id": 191,
+    "name": "Five Leaves",
+    "notes": "",
+    "neighborhood": "Greenpoint",
+    "cuisine_type": "American",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/five-leaves",
+      "opentable": "https://www.opentable.com/s?term=Five+Leaves&metroId=8",
+      "google": "https://www.google.com/search?q=Five+Leaves+NYC+reservations"
+    }
+  },
+  {
+    "id": 192,
+    "name": "Omakaseed",
+    "notes": "",
+    "neighborhood": "Brooklyn",
+    "cuisine_type": "Japanese",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/omakaseed",
+      "opentable": "https://www.opentable.com/s?term=Omakaseed&metroId=8",
+      "google": "https://www.google.com/search?q=Omakaseed+NYC+reservations"
+    }
+  },
+  {
+    "id": 193,
+    "name": "Le Gamin",
+    "notes": "",
+    "neighborhood": "Brooklyn",
+    "cuisine_type": "French",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/le-gamin",
+      "opentable": "https://www.opentable.com/s?term=Le+Gamin&metroId=8",
+      "google": "https://www.google.com/search?q=Le+Gamin+NYC+reservations"
+    }
+  },
+  {
+    "id": 194,
+    "name": "Holy Water",
+    "notes": "",
+    "neighborhood": "Williamsburg",
+    "cuisine_type": "American",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/holy-water",
+      "opentable": "https://www.opentable.com/s?term=Holy+Water&metroId=8",
+      "google": "https://www.google.com/search?q=Holy+Water+NYC+reservations"
+    }
+  },
+  {
+    "id": 195,
+    "name": "Da Toscano",
+    "notes": "",
+    "neighborhood": "West Village",
+    "cuisine_type": "Italian",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/da-toscano",
+      "opentable": "https://www.opentable.com/s?term=Da+Toscano&metroId=8",
+      "google": "https://www.google.com/search?q=Da+Toscano+NYC+reservations"
+    }
+  },
+  {
+    "id": 196,
+    "name": "Little Charli",
+    "notes": "",
+    "neighborhood": "SoHo",
+    "cuisine_type": "Italian",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/little-charli",
+      "opentable": "https://www.opentable.com/s?term=Little+Charli&metroId=8",
+      "google": "https://www.google.com/search?q=Little+Charli+NYC+reservations"
+    }
+  },
+  {
+    "id": 197,
+    "name": "Maki Kosaka",
+    "notes": "",
+    "neighborhood": "West Village",
+    "cuisine_type": "Japanese",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/maki-kosaka",
+      "opentable": "https://www.opentable.com/s?term=Maki+Kosaka&metroId=8",
+      "google": "https://www.google.com/search?q=Maki+Kosaka+NYC+reservations"
+    }
+  },
+  {
+    "id": 198,
+    "name": "4F",
+    "notes": "",
+    "neighborhood": "East Village",
+    "cuisine_type": "Japanese",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/4f",
+      "opentable": "https://www.opentable.com/s?term=4F&metroId=8",
+      "google": "https://www.google.com/search?q=4F+NYC+reservations"
+    }
+  },
+  {
+    "id": 199,
+    "name": "DND",
+    "notes": "Do Not Disturb",
+    "neighborhood": "SoHo",
+    "cuisine_type": "Bar/Cocktails",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/dnd",
+      "opentable": "https://www.opentable.com/s?term=DND&metroId=8",
+      "google": "https://www.google.com/search?q=DND+NYC+reservations"
+    }
+  },
+  {
+    "id": 200,
+    "name": "Bar Pasquale",
+    "notes": "",
+    "neighborhood": "Nolita",
+    "cuisine_type": "Bar/Cocktails",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/bar-pasquale",
+      "opentable": "https://www.opentable.com/s?term=Bar+Pasquale&metroId=8",
+      "google": "https://www.google.com/search?q=Bar+Pasquale+NYC+reservations"
+    }
+  },
+  {
+    "id": 201,
+    "name": "Maison Premiere",
+    "notes": "",
+    "neighborhood": "Williamsburg",
+    "cuisine_type": "Bar/Cocktails",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/maison-premiere",
+      "opentable": "https://www.opentable.com/s?term=Maison+Premiere&metroId=8",
+      "google": "https://www.google.com/search?q=Maison+Premiere+NYC+reservations"
+    }
+  },
+  {
+    "id": 202,
+    "name": "Harry's Table",
+    "notes": "",
+    "neighborhood": "Hudson Yards",
+    "cuisine_type": "American",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/harrys-table",
+      "opentable": "https://www.opentable.com/s?term=Harry's+Table&metroId=8",
+      "google": "https://www.google.com/search?q=Harry's+Table+NYC+reservations"
+    }
+  },
+  {
+    "id": 203,
+    "name": "Emilia by Nai x Coffee Project",
+    "notes": "",
+    "neighborhood": "SoHo",
+    "cuisine_type": "Coffee/Cafe",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/emilia-by-nai-x-coffee-project",
+      "opentable": "https://www.opentable.com/s?term=Emilia+by+Nai+x+Coffee+Project&metroId=8",
+      "google": "https://www.google.com/search?q=Emilia+by+Nai+x+Coffee+Project+NYC+reservations"
+    }
+  },
+  {
+    "id": 204,
+    "name": "Martiny's",
+    "notes": "",
+    "neighborhood": "NoMad",
+    "cuisine_type": "Bar/Cocktails",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/martinys",
+      "opentable": "https://www.opentable.com/s?term=Martiny's&metroId=8",
+      "google": "https://www.google.com/search?q=Martiny's+NYC+reservations"
+    }
+  },
+  {
+    "id": 205,
+    "name": "Corner Bar",
+    "notes": "",
+    "neighborhood": "West Village",
+    "cuisine_type": "Bar/Cocktails",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/corner-bar",
+      "opentable": "https://www.opentable.com/s?term=Corner+Bar&metroId=8",
+      "google": "https://www.google.com/search?q=Corner+Bar+NYC+reservations"
+    }
+  },
+  {
+    "id": 206,
+    "name": "Parcelle Wine",
+    "notes": "",
+    "neighborhood": "West Village",
+    "cuisine_type": "Wine Bar",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/parcelle-wine",
+      "opentable": "https://www.opentable.com/s?term=Parcelle+Wine&metroId=8",
+      "google": "https://www.google.com/search?q=Parcelle+Wine+NYC+reservations"
+    }
+  },
+  {
+    "id": 207,
+    "name": "Apotheke",
+    "notes": "",
+    "neighborhood": "Chinatown",
+    "cuisine_type": "Bar/Cocktails",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/apotheke",
+      "opentable": "https://www.opentable.com/s?term=Apotheke&metroId=8",
+      "google": "https://www.google.com/search?q=Apotheke+NYC+reservations"
+    }
+  },
+  {
+    "id": 208,
+    "name": "Champers Social Club",
+    "notes": "",
+    "neighborhood": "West Village",
+    "cuisine_type": "Bar/Cocktails",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/champers-social-club",
+      "opentable": "https://www.opentable.com/s?term=Champers+Social+Club&metroId=8",
+      "google": "https://www.google.com/search?q=Champers+Social+Club+NYC+reservations"
+    }
+  },
+  {
+    "id": 209,
+    "name": "Saint",
+    "notes": "Outdoor garden",
+    "neighborhood": "SoHo",
+    "cuisine_type": "Bar/Cocktails",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/saint",
+      "opentable": "https://www.opentable.com/s?term=Saint&metroId=8",
+      "google": "https://www.google.com/search?q=Saint+NYC+reservations"
+    }
+  },
+  {
+    "id": 210,
+    "name": "Aldama",
+    "notes": "",
+    "neighborhood": "Bushwick",
+    "cuisine_type": "Mexican",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/aldama",
+      "opentable": "https://www.opentable.com/s?term=Aldama&metroId=8",
+      "google": "https://www.google.com/search?q=Aldama+NYC+reservations"
+    }
+  },
+  {
+    "id": 211,
+    "name": "Moustache",
+    "notes": "Bella Hadid recc",
+    "neighborhood": "East Village",
+    "cuisine_type": "Middle Eastern",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/moustache",
+      "opentable": "https://www.opentable.com/s?term=Moustache&metroId=8",
+      "google": "https://www.google.com/search?q=Moustache+NYC+reservations"
+    }
+  },
+  {
+    "id": 212,
+    "name": "Moonflower",
+    "notes": "",
+    "neighborhood": "West Village",
+    "cuisine_type": "American",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/moonflower",
+      "opentable": "https://www.opentable.com/s?term=Moonflower&metroId=8",
+      "google": "https://www.google.com/search?q=Moonflower+NYC+reservations"
+    }
+  },
+  {
+    "id": 213,
+    "name": "Batsu",
+    "notes": "",
+    "neighborhood": "Lower East Side",
+    "cuisine_type": "Japanese",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/batsu",
+      "opentable": "https://www.opentable.com/s?term=Batsu&metroId=8",
+      "google": "https://www.google.com/search?q=Batsu+NYC+reservations"
+    }
+  },
+  {
+    "id": 214,
+    "name": "Hags",
+    "notes": "",
+    "neighborhood": "East Village",
+    "cuisine_type": "American",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/hags",
+      "opentable": "https://www.opentable.com/s?term=Hags&metroId=8",
+      "google": "https://www.google.com/search?q=Hags+NYC+reservations"
+    }
+  },
+  {
+    "id": 215,
+    "name": "Setsugekka",
+    "notes": "",
+    "neighborhood": "West Village",
+    "cuisine_type": "Japanese",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/setsugekka",
+      "opentable": "https://www.opentable.com/s?term=Setsugekka&metroId=8",
+      "google": "https://www.google.com/search?q=Setsugekka+NYC+reservations"
+    }
+  },
+  {
+    "id": 216,
+    "name": "Cucina Alba",
+    "notes": "",
+    "neighborhood": "West Village",
+    "cuisine_type": "Italian",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/cucina-alba",
+      "opentable": "https://www.opentable.com/s?term=Cucina+Alba&metroId=8",
+      "google": "https://www.google.com/search?q=Cucina+Alba+NYC+reservations"
+    }
+  },
+  {
+    "id": 217,
+    "name": "Smyth Tavern",
+    "notes": "",
+    "neighborhood": "Tribeca",
+    "cuisine_type": "American",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/smyth-tavern",
+      "opentable": "https://www.opentable.com/s?term=Smyth+Tavern&metroId=8",
+      "google": "https://www.google.com/search?q=Smyth+Tavern+NYC+reservations"
+    }
+  },
+  {
+    "id": 218,
+    "name": "Monkey Bar",
+    "notes": "",
+    "neighborhood": "Midtown",
+    "cuisine_type": "Bar/Cocktails",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/monkey-bar",
+      "opentable": "https://www.opentable.com/s?term=Monkey+Bar&metroId=8",
+      "google": "https://www.google.com/search?q=Monkey+Bar+NYC+reservations"
+    }
+  },
+  {
+    "id": 219,
+    "name": "Potluck Club",
+    "notes": "",
+    "neighborhood": "Chelsea",
+    "cuisine_type": "American",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/potluck-club",
+      "opentable": "https://www.opentable.com/s?term=Potluck+Club&metroId=8",
+      "google": "https://www.google.com/search?q=Potluck+Club+NYC+reservations"
+    }
+  },
+  {
+    "id": 220,
+    "name": "Reception Bar",
+    "notes": "",
+    "neighborhood": "Midtown",
+    "cuisine_type": "Bar/Cocktails",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/reception-bar",
+      "opentable": "https://www.opentable.com/s?term=Reception+Bar&metroId=8",
+      "google": "https://www.google.com/search?q=Reception+Bar+NYC+reservations"
+    }
+  },
+  {
+    "id": 221,
+    "name": "Casa Cruz",
+    "notes": "",
+    "neighborhood": "Upper East Side",
+    "cuisine_type": "Latin",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/casa-cruz",
+      "opentable": "https://www.opentable.com/s?term=Casa+Cruz&metroId=8",
+      "google": "https://www.google.com/search?q=Casa+Cruz+NYC+reservations"
+    }
+  },
+  {
+    "id": 222,
+    "name": "Silver Apricot",
+    "notes": "",
+    "neighborhood": "Greenwich Village",
+    "cuisine_type": "Chinese",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/silver-apricot",
+      "opentable": "https://www.opentable.com/s?term=Silver+Apricot&metroId=8",
+      "google": "https://www.google.com/search?q=Silver+Apricot+NYC+reservations"
+    }
+  },
+  {
+    "id": 223,
+    "name": "Shinji's",
+    "notes": "",
+    "neighborhood": "West Village",
+    "cuisine_type": "Japanese",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/shinjis",
+      "opentable": "https://www.opentable.com/s?term=Shinji's&metroId=8",
+      "google": "https://www.google.com/search?q=Shinji's+NYC+reservations"
+    }
+  },
+  {
+    "id": 224,
+    "name": "Monsieur Vo",
+    "notes": "",
+    "neighborhood": "East Village",
+    "cuisine_type": "Vietnamese",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/monsieur-vo",
+      "opentable": "https://www.opentable.com/s?term=Monsieur+Vo&metroId=8",
+      "google": "https://www.google.com/search?q=Monsieur+Vo+NYC+reservations"
+    }
+  },
+  {
+    "id": 225,
+    "name": "The Wesley",
+    "notes": "",
+    "neighborhood": "Upper East Side",
+    "cuisine_type": "American",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/the-wesley",
+      "opentable": "https://www.opentable.com/s?term=The+Wesley&metroId=8",
+      "google": "https://www.google.com/search?q=The+Wesley+NYC+reservations"
+    }
+  },
+  {
+    "id": 226,
+    "name": "Fouquets",
+    "notes": "",
+    "neighborhood": "Tribeca",
+    "cuisine_type": "French",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/fouquets",
+      "opentable": "https://www.opentable.com/s?term=Fouquets&metroId=8",
+      "google": "https://www.google.com/search?q=Fouquets+NYC+reservations"
+    }
+  },
+  {
+    "id": 227,
+    "name": "Rigor Hill Market",
+    "notes": "",
+    "neighborhood": "Ridgewood",
+    "cuisine_type": "American",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/rigor-hill-market",
+      "opentable": "https://www.opentable.com/s?term=Rigor+Hill+Market&metroId=8",
+      "google": "https://www.google.com/search?q=Rigor+Hill+Market+NYC+reservations"
+    }
+  },
+  {
+    "id": 228,
+    "name": "Kame",
+    "notes": "",
+    "neighborhood": "SoHo",
+    "cuisine_type": "Japanese",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/kame",
+      "opentable": "https://www.opentable.com/s?term=Kame&metroId=8",
+      "google": "https://www.google.com/search?q=Kame+NYC+reservations"
+    }
+  },
+  {
+    "id": 229,
+    "name": "Tonchin",
+    "notes": "",
+    "neighborhood": "Midtown",
+    "cuisine_type": "Japanese",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/tonchin",
+      "opentable": "https://www.opentable.com/s?term=Tonchin&metroId=8",
+      "google": "https://www.google.com/search?q=Tonchin+NYC+reservations"
+    }
+  },
+  {
+    "id": 230,
+    "name": "Casino",
+    "notes": "",
+    "neighborhood": "SoHo",
+    "cuisine_type": "Italian",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/casino",
+      "opentable": "https://www.opentable.com/s?term=Casino&metroId=8",
+      "google": "https://www.google.com/search?q=Casino+NYC+reservations"
+    }
+  },
+  {
+    "id": 231,
+    "name": "Ensenada",
+    "notes": "",
+    "neighborhood": "Lower East Side",
+    "cuisine_type": "Mexican",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/ensenada",
+      "opentable": "https://www.opentable.com/s?term=Ensenada&metroId=8",
+      "google": "https://www.google.com/search?q=Ensenada+NYC+reservations"
+    }
+  },
+  {
+    "id": 232,
+    "name": "L'Antica Pizzeria da Michele",
+    "notes": "",
+    "neighborhood": "Greenwich Village",
+    "cuisine_type": "Italian",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/lantica-pizzeria-da-michele",
+      "opentable": "https://www.opentable.com/s?term=L'Antica+Pizzeria+da+Michele&metroId=8",
+      "google": "https://www.google.com/search?q=L'Antica+Pizzeria+da+Michele+NYC+reservations"
+    }
+  },
+  {
+    "id": 233,
+    "name": "Koloman",
+    "notes": "",
+    "neighborhood": "Flatiron",
+    "cuisine_type": "Austrian",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/koloman",
+      "opentable": "https://www.opentable.com/s?term=Koloman&metroId=8",
+      "google": "https://www.google.com/search?q=Koloman+NYC+reservations"
+    }
+  },
+  {
+    "id": 234,
+    "name": "Gjelina",
+    "notes": "",
+    "neighborhood": "NoMad",
+    "cuisine_type": "American",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/gjelina",
+      "opentable": "https://www.opentable.com/s?term=Gjelina&metroId=8",
+      "google": "https://www.google.com/search?q=Gjelina+NYC+reservations"
+    }
+  },
+  {
+    "id": 235,
+    "name": "Le Baratin",
+    "notes": "dinner party w good food",
+    "neighborhood": "Brooklyn",
+    "cuisine_type": "Bar/Cocktails",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/le-baratin",
+      "opentable": "https://www.opentable.com/s?term=Le+Baratin&metroId=8",
+      "google": "https://www.google.com/search?q=Le+Baratin+NYC+reservations"
+    }
+  },
+  {
+    "id": 236,
+    "name": "Hilot",
+    "notes": "bar",
+    "neighborhood": "Lower East Side",
+    "cuisine_type": "Bar/Cocktails",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/hilot",
+      "opentable": "https://www.opentable.com/s?term=Hilot&metroId=8",
+      "google": "https://www.google.com/search?q=Hilot+NYC+reservations"
+    }
+  },
+  {
+    "id": 237,
+    "name": "Foul Witch",
+    "notes": "",
+    "neighborhood": "East Village",
+    "cuisine_type": "Bar/Cocktails",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/foul-witch",
+      "opentable": "https://www.opentable.com/s?term=Foul+Witch&metroId=8",
+      "google": "https://www.google.com/search?q=Foul+Witch+NYC+reservations"
+    }
+  },
+  {
+    "id": 238,
+    "name": "C as in Charlie",
+    "notes": "",
+    "neighborhood": "Upper East Side",
+    "cuisine_type": "American",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/c-as-in-charlie",
+      "opentable": "https://www.opentable.com/s?term=C+as+in+Charlie&metroId=8",
+      "google": "https://www.google.com/search?q=C+as+in+Charlie+NYC+reservations"
+    }
+  },
+  {
+    "id": 239,
+    "name": "Bad Roman",
+    "notes": "",
+    "neighborhood": "Columbus Circle",
+    "cuisine_type": "Italian",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/bad-roman",
+      "opentable": "https://www.opentable.com/s?term=Bad+Roman&metroId=8",
+      "google": "https://www.google.com/search?q=Bad+Roman+NYC+reservations"
+    }
+  },
+  {
+    "id": 240,
+    "name": "Jac's on Bond",
+    "notes": "",
+    "neighborhood": "NoHo",
+    "cuisine_type": "American",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/jacs-on-bond",
+      "opentable": "https://www.opentable.com/s?term=Jac's+on+Bond&metroId=8",
+      "google": "https://www.google.com/search?q=Jac's+on+Bond+NYC+reservations"
+    }
+  },
+  {
+    "id": 241,
+    "name": "Moody Tounge Sushi",
+    "notes": "",
+    "neighborhood": "West Village",
+    "cuisine_type": "Japanese",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/moody-tounge-sushi",
+      "opentable": "https://www.opentable.com/s?term=Moody+Tounge+Sushi&metroId=8",
+      "google": "https://www.google.com/search?q=Moody+Tounge+Sushi+NYC+reservations"
+    }
+  },
+  {
+    "id": 242,
+    "name": "South SoHo Bar",
+    "notes": "",
+    "neighborhood": "SoHo",
+    "cuisine_type": "Bar/Cocktails",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/south-soho-bar",
+      "opentable": "https://www.opentable.com/s?term=South+SoHo+Bar&metroId=8",
+      "google": "https://www.google.com/search?q=South+SoHo+Bar+NYC+reservations"
+    }
+  },
+  {
+    "id": 243,
+    "name": "Petit Patate",
+    "notes": "",
+    "neighborhood": "Greenwich Village",
+    "cuisine_type": "French",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/petit-patate",
+      "opentable": "https://www.opentable.com/s?term=Petit+Patate&metroId=8",
+      "google": "https://www.google.com/search?q=Petit+Patate+NYC+reservations"
+    }
+  },
+  {
+    "id": 244,
+    "name": "Kerber's Farm",
+    "notes": "",
+    "neighborhood": "Long Island",
+    "cuisine_type": "American",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/kerbers-farm",
+      "opentable": "https://www.opentable.com/s?term=Kerber's+Farm&metroId=8",
+      "google": "https://www.google.com/search?q=Kerber's+Farm+NYC+reservations"
+    }
+  },
+  {
+    "id": 245,
+    "name": "Principe",
+    "notes": "",
+    "neighborhood": "SoHo",
+    "cuisine_type": "Italian",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/principe",
+      "opentable": "https://www.opentable.com/s?term=Principe&metroId=8",
+      "google": "https://www.google.com/search?q=Principe+NYC+reservations"
+    }
+  },
+  {
+    "id": 246,
+    "name": "Stretch Pizza",
+    "notes": "",
+    "neighborhood": "West Village",
+    "cuisine_type": "Italian",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/stretch-pizza",
+      "opentable": "https://www.opentable.com/s?term=Stretch+Pizza&metroId=8",
+      "google": "https://www.google.com/search?q=Stretch+Pizza+NYC+reservations"
+    }
+  },
+  {
+    "id": 247,
+    "name": "Alba Acconto",
+    "notes": "",
+    "neighborhood": "West Village",
+    "cuisine_type": "Italian",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/alba-acconto",
+      "opentable": "https://www.opentable.com/s?term=Alba+Acconto&metroId=8",
+      "google": "https://www.google.com/search?q=Alba+Acconto+NYC+reservations"
+    }
+  },
+  {
+    "id": 248,
+    "name": "Revelie Luncheonette",
+    "notes": "",
+    "neighborhood": "Williamsburg",
+    "cuisine_type": "American",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/revelie-luncheonette",
+      "opentable": "https://www.opentable.com/s?term=Revelie+Luncheonette&metroId=8",
+      "google": "https://www.google.com/search?q=Revelie+Luncheonette+NYC+reservations"
+    }
+  },
+  {
+    "id": 249,
+    "name": "RAF's",
+    "notes": "",
+    "neighborhood": "West Village",
+    "cuisine_type": "American",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/rafs",
+      "opentable": "https://www.opentable.com/s?term=RAF's&metroId=8",
+      "google": "https://www.google.com/search?q=RAF's+NYC+reservations"
+    }
+  },
+  {
+    "id": 250,
+    "name": "Greywind",
+    "notes": "",
+    "neighborhood": "Lower East Side",
+    "cuisine_type": "American",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/greywind",
+      "opentable": "https://www.opentable.com/s?term=Greywind&metroId=8",
+      "google": "https://www.google.com/search?q=Greywind+NYC+reservations"
+    }
+  },
+  {
+    "id": 251,
+    "name": "Studio 151",
+    "notes": "",
+    "neighborhood": "Midtown",
+    "cuisine_type": "American",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/studio-151",
+      "opentable": "https://www.opentable.com/s?term=Studio+151&metroId=8",
+      "google": "https://www.google.com/search?q=Studio+151+NYC+reservations"
+    }
+  },
+  {
+    "id": 252,
+    "name": "Sofreh",
+    "notes": "",
+    "neighborhood": "Prospect Heights",
+    "cuisine_type": "Persian",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/sofreh",
+      "opentable": "https://www.opentable.com/s?term=Sofreh&metroId=8",
+      "google": "https://www.google.com/search?q=Sofreh+NYC+reservations"
+    }
+  },
+  {
+    "id": 253,
+    "name": "Para Ici",
+    "notes": "",
+    "neighborhood": "Fort Greene",
+    "cuisine_type": "French",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/para-ici",
+      "opentable": "https://www.opentable.com/s?term=Para+Ici&metroId=8",
+      "google": "https://www.google.com/search?q=Para+Ici+NYC+reservations"
+    }
+  },
+  {
+    "id": 254,
+    "name": "Ciao Evento pasta party",
+    "notes": "",
+    "neighborhood": "Multiple",
+    "cuisine_type": "Italian",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/ciao-evento-pasta-party",
+      "opentable": "https://www.opentable.com/s?term=Ciao+Evento+pasta+party&metroId=8",
+      "google": "https://www.google.com/search?q=Ciao+Evento+pasta+party+NYC+reservations"
+    }
+  },
+  {
+    "id": 255,
+    "name": "Ma D\u00e9",
+    "notes": "",
+    "neighborhood": "West Village",
+    "cuisine_type": "Vietnamese",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/ma-d",
+      "opentable": "https://www.opentable.com/s?term=Ma+D\u00e9&metroId=8",
+      "google": "https://www.google.com/search?q=Ma+D\u00e9+NYC+reservations"
+    }
+  },
+  {
+    "id": 256,
+    "name": "Mesiba",
+    "notes": "",
+    "neighborhood": "Lower East Side",
+    "cuisine_type": "Middle Eastern",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/mesiba",
+      "opentable": "https://www.opentable.com/s?term=Mesiba&metroId=8",
+      "google": "https://www.google.com/search?q=Mesiba+NYC+reservations"
+    }
+  },
+  {
+    "id": 257,
+    "name": "Tacocina",
+    "notes": "",
+    "neighborhood": "Williamsburg",
+    "cuisine_type": "Mexican",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/tacocina",
+      "opentable": "https://www.opentable.com/s?term=Tacocina&metroId=8",
+      "google": "https://www.google.com/search?q=Tacocina+NYC+reservations"
+    }
+  },
+  {
+    "id": 258,
+    "name": "Baby Blues",
+    "notes": "",
+    "neighborhood": "Williamsburg",
+    "cuisine_type": "American",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/baby-blues",
+      "opentable": "https://www.opentable.com/s?term=Baby+Blues&metroId=8",
+      "google": "https://www.google.com/search?q=Baby+Blues+NYC+reservations"
+    }
+  },
+  {
+    "id": 259,
+    "name": "Jaffa Cocktail and Raw Bar",
+    "notes": "",
+    "neighborhood": "Lower East Side",
+    "cuisine_type": "Bar/Cocktails",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/jaffa-cocktail-and-raw-bar",
+      "opentable": "https://www.opentable.com/s?term=Jaffa+Cocktail+and+Raw+Bar&metroId=8",
+      "google": "https://www.google.com/search?q=Jaffa+Cocktail+and+Raw+Bar+NYC+reservations"
+    }
+  },
+  {
+    "id": 260,
+    "name": "Rocco's",
+    "notes": "",
+    "neighborhood": "West Village",
+    "cuisine_type": "Italian",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/roccos",
+      "opentable": "https://www.opentable.com/s?term=Rocco's&metroId=8",
+      "google": "https://www.google.com/search?q=Rocco's+NYC+reservations"
+    }
+  },
+  {
+    "id": 261,
+    "name": "Lillistar",
+    "notes": "",
+    "neighborhood": "West Village",
+    "cuisine_type": "American",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/lillistar",
+      "opentable": "https://www.opentable.com/s?term=Lillistar&metroId=8",
+      "google": "https://www.google.com/search?q=Lillistar+NYC+reservations"
+    }
+  },
+  {
+    "id": 262,
+    "name": "Ella Funt",
+    "notes": "",
+    "neighborhood": "West Village",
+    "cuisine_type": "American",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/ella-funt",
+      "opentable": "https://www.opentable.com/s?term=Ella+Funt&metroId=8",
+      "google": "https://www.google.com/search?q=Ella+Funt+NYC+reservations"
+    }
+  },
+  {
+    "id": 263,
+    "name": "Cafe Balerica",
+    "notes": "",
+    "neighborhood": "Lower East Side",
+    "cuisine_type": "Coffee/Cafe",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/cafe-balerica",
+      "opentable": "https://www.opentable.com/s?term=Cafe+Balerica&metroId=8",
+      "google": "https://www.google.com/search?q=Cafe+Balerica+NYC+reservations"
+    }
+  },
+  {
+    "id": 264,
+    "name": "Ariari",
+    "notes": "",
+    "neighborhood": "NoHo",
+    "cuisine_type": "Korean",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/ariari",
+      "opentable": "https://www.opentable.com/s?term=Ariari&metroId=8",
+      "google": "https://www.google.com/search?q=Ariari+NYC+reservations"
+    }
+  },
+  {
+    "id": 265,
+    "name": "El Nico",
+    "notes": "",
+    "neighborhood": "West Village",
+    "cuisine_type": "Mexican",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/el-nico",
+      "opentable": "https://www.opentable.com/s?term=El+Nico&metroId=8",
+      "google": "https://www.google.com/search?q=El+Nico+NYC+reservations"
+    }
+  },
+  {
+    "id": 266,
+    "name": "Drift In",
+    "notes": "",
+    "neighborhood": "Williamsburg",
+    "cuisine_type": "American",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/drift-in",
+      "opentable": "https://www.opentable.com/s?term=Drift+In&metroId=8",
+      "google": "https://www.google.com/search?q=Drift+In+NYC+reservations"
+    }
+  },
+  {
+    "id": 267,
+    "name": "Tivoli Trattoria",
+    "notes": "",
+    "neighborhood": "West Village",
+    "cuisine_type": "Italian",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/tivoli-trattoria",
+      "opentable": "https://www.opentable.com/s?term=Tivoli+Trattoria&metroId=8",
+      "google": "https://www.google.com/search?q=Tivoli+Trattoria+NYC+reservations"
+    }
+  },
+  {
+    "id": 268,
+    "name": "Libertine",
+    "notes": "",
+    "neighborhood": "West Village",
+    "cuisine_type": "French",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/libertine",
+      "opentable": "https://www.opentable.com/s?term=Libertine&metroId=8",
+      "google": "https://www.google.com/search?q=Libertine+NYC+reservations"
+    }
+  },
+  {
+    "id": 269,
+    "name": "Milady's",
+    "notes": "",
+    "neighborhood": "SoHo",
+    "cuisine_type": "Bar/Cocktails",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/miladys",
+      "opentable": "https://www.opentable.com/s?term=Milady's&metroId=8",
+      "google": "https://www.google.com/search?q=Milady's+NYC+reservations"
+    }
+  },
+  {
+    "id": 270,
+    "name": "Spygold",
+    "notes": "bar Hudson Yards",
+    "neighborhood": "Hudson Yards",
+    "cuisine_type": "Bar/Cocktails",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/spygold",
+      "opentable": "https://www.opentable.com/s?term=Spygold&metroId=8",
+      "google": "https://www.google.com/search?q=Spygold+NYC+reservations"
+    }
+  },
+  {
+    "id": 271,
+    "name": "Shingane",
+    "notes": "",
+    "neighborhood": "NoMad",
+    "cuisine_type": "Japanese",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/shingane",
+      "opentable": "https://www.opentable.com/s?term=Shingane&metroId=8",
+      "google": "https://www.google.com/search?q=Shingane+NYC+reservations"
+    }
+  },
+  {
+    "id": 272,
+    "name": "Carlotto",
+    "notes": "",
+    "neighborhood": "West Village",
+    "cuisine_type": "Italian",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/carlotto",
+      "opentable": "https://www.opentable.com/s?term=Carlotto&metroId=8",
+      "google": "https://www.google.com/search?q=Carlotto+NYC+reservations"
+    }
+  },
+  {
+    "id": 273,
+    "name": "Chef Competition at Hudson Table",
+    "notes": "",
+    "neighborhood": "Hudson Yards",
+    "cuisine_type": "American",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/chef-competition-at-hudson-table",
+      "opentable": "https://www.opentable.com/s?term=Chef+Competition+at+Hudson+Table&metroId=8",
+      "google": "https://www.google.com/search?q=Chef+Competition+at+Hudson+Table+NYC+reservations"
+    }
+  },
+  {
+    "id": 274,
+    "name": "Ixta",
+    "notes": "",
+    "neighborhood": "Lower East Side",
+    "cuisine_type": "Mexican",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/ixta",
+      "opentable": "https://www.opentable.com/s?term=Ixta&metroId=8",
+      "google": "https://www.google.com/search?q=Ixta+NYC+reservations"
+    }
+  },
+  {
+    "id": 275,
+    "name": "Sushidelic",
+    "notes": "",
+    "neighborhood": "Lower East Side",
+    "cuisine_type": "Japanese",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/sushidelic",
+      "opentable": "https://www.opentable.com/s?term=Sushidelic&metroId=8",
+      "google": "https://www.google.com/search?q=Sushidelic+NYC+reservations"
+    }
+  },
+  {
+    "id": 276,
+    "name": "Walker Rooftop",
+    "notes": "frozen spritz",
+    "neighborhood": "Tribeca",
+    "cuisine_type": "Bar/Cocktails",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/walker-rooftop",
+      "opentable": "https://www.opentable.com/s?term=Walker+Rooftop&metroId=8",
+      "google": "https://www.google.com/search?q=Walker+Rooftop+NYC+reservations"
+    }
+  },
+  {
+    "id": 277,
+    "name": "Coarse NY",
+    "notes": "spritz hh",
+    "neighborhood": "SoHo",
+    "cuisine_type": "Bar/Cocktails",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/coarse-ny",
+      "opentable": "https://www.opentable.com/s?term=Coarse+NY&metroId=8",
+      "google": "https://www.google.com/search?q=Coarse+NY+NYC+reservations"
+    }
+  },
+  {
+    "id": 278,
+    "name": "Jackdaw",
+    "notes": "hh",
+    "neighborhood": "West Village",
+    "cuisine_type": "Bar/Cocktails",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/jackdaw",
+      "opentable": "https://www.opentable.com/s?term=Jackdaw&metroId=8",
+      "google": "https://www.google.com/search?q=Jackdaw+NYC+reservations"
+    }
+  },
+  {
+    "id": 279,
+    "name": "Gnocco",
+    "notes": "frozen espresso martini",
+    "neighborhood": "East Village",
+    "cuisine_type": "Coffee/Cafe",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/gnocco",
+      "opentable": "https://www.opentable.com/s?term=Gnocco&metroId=8",
+      "google": "https://www.google.com/search?q=Gnocco+NYC+reservations"
+    }
+  },
+  {
+    "id": 280,
+    "name": "Caffe Coretto",
+    "notes": "",
+    "neighborhood": "West Village",
+    "cuisine_type": "Coffee/Cafe",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/caffe-coretto",
+      "opentable": "https://www.opentable.com/s?term=Caffe+Coretto&metroId=8",
+      "google": "https://www.google.com/search?q=Caffe+Coretto+NYC+reservations"
+    }
+  },
+  {
+    "id": 281,
+    "name": "Gab's",
+    "notes": "",
+    "neighborhood": "East Village",
+    "cuisine_type": "American",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/gabs",
+      "opentable": "https://www.opentable.com/s?term=Gab's&metroId=8",
+      "google": "https://www.google.com/search?q=Gab's+NYC+reservations"
+    }
+  },
+  {
+    "id": 282,
+    "name": "The Wooley",
+    "notes": "grapefruit brulee",
+    "neighborhood": "FiDi",
+    "cuisine_type": "Bar/Cocktails",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/the-wooley",
+      "opentable": "https://www.opentable.com/s?term=The+Wooley&metroId=8",
+      "google": "https://www.google.com/search?q=The+Wooley+NYC+reservations"
+    }
+  },
+  {
+    "id": 283,
+    "name": "The Love Bakery by Erica",
+    "notes": "",
+    "neighborhood": "Brooklyn",
+    "cuisine_type": "Dessert",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/the-love-bakery-by-erica",
+      "opentable": "https://www.opentable.com/s?term=The+Love+Bakery+by+Erica&metroId=8",
+      "google": "https://www.google.com/search?q=The+Love+Bakery+by+Erica+NYC+reservations"
+    }
+  },
+  {
+    "id": 284,
+    "name": "Ciao Gloria",
+    "notes": "",
+    "neighborhood": "Prospect Heights",
+    "cuisine_type": "Italian",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/ciao-gloria",
+      "opentable": "https://www.opentable.com/s?term=Ciao+Gloria&metroId=8",
+      "google": "https://www.google.com/search?q=Ciao+Gloria+NYC+reservations"
+    }
+  },
+  {
+    "id": 285,
+    "name": "Roscioli",
+    "notes": "",
+    "neighborhood": "West Village",
+    "cuisine_type": "Italian",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/roscioli",
+      "opentable": "https://www.opentable.com/s?term=Roscioli&metroId=8",
+      "google": "https://www.google.com/search?q=Roscioli+NYC+reservations"
+    }
+  },
+  {
+    "id": 286,
+    "name": "Port Said",
+    "notes": "",
+    "neighborhood": "Lower East Side",
+    "cuisine_type": "Middle Eastern",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/port-said",
+      "opentable": "https://www.opentable.com/s?term=Port+Said&metroId=8",
+      "google": "https://www.google.com/search?q=Port+Said+NYC+reservations"
+    }
+  },
+  {
+    "id": 287,
+    "name": "Madeline's Martini",
+    "notes": "",
+    "neighborhood": "West Village",
+    "cuisine_type": "Bar/Cocktails",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/madelines-martini",
+      "opentable": "https://www.opentable.com/s?term=Madeline's+Martini&metroId=8",
+      "google": "https://www.google.com/search?q=Madeline's+Martini+NYC+reservations"
+    }
+  },
+  {
+    "id": 288,
+    "name": "Emporio",
+    "notes": "",
+    "neighborhood": "Nolita",
+    "cuisine_type": "Italian",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/emporio",
+      "opentable": "https://www.opentable.com/s?term=Emporio&metroId=8",
+      "google": "https://www.google.com/search?q=Emporio+NYC+reservations"
+    }
+  },
+  {
+    "id": 289,
+    "name": "Cecchi's",
+    "notes": "",
+    "neighborhood": "Williamsburg",
+    "cuisine_type": "Italian",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/cecchis",
+      "opentable": "https://www.opentable.com/s?term=Cecchi's&metroId=8",
+      "google": "https://www.google.com/search?q=Cecchi's+NYC+reservations"
+    }
+  },
+  {
+    "id": 290,
+    "name": "Homemade by Bruno pasta making class",
+    "notes": "",
+    "neighborhood": "Multiple",
+    "cuisine_type": "Italian",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/homemade-by-bruno-pasta-making-class",
+      "opentable": "https://www.opentable.com/s?term=Homemade+by+Bruno+pasta+making+class&metroId=8",
+      "google": "https://www.google.com/search?q=Homemade+by+Bruno+pasta+making+class+NYC+reservations"
+    }
+  },
+  {
+    "id": 291,
+    "name": "Kobrick's",
+    "notes": "matcha martini",
+    "neighborhood": "West Village",
+    "cuisine_type": "Bar/Cocktails",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/kobricks",
+      "opentable": "https://www.opentable.com/s?term=Kobrick's&metroId=8",
+      "google": "https://www.google.com/search?q=Kobrick's+NYC+reservations"
+    }
+  },
+  {
+    "id": 292,
+    "name": "Cafe Chelsea",
+    "notes": "",
+    "neighborhood": "Chelsea",
+    "cuisine_type": "Coffee/Cafe",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/cafe-chelsea",
+      "opentable": "https://www.opentable.com/s?term=Cafe+Chelsea&metroId=8",
+      "google": "https://www.google.com/search?q=Cafe+Chelsea+NYC+reservations"
+    }
+  },
+  {
+    "id": 293,
+    "name": "Pomp & Circumstance",
+    "notes": "hh deal",
+    "neighborhood": "SoHo",
+    "cuisine_type": "Bar/Cocktails",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/pomp-circumstance",
+      "opentable": "https://www.opentable.com/s?term=Pomp+&+Circumstance&metroId=8",
+      "google": "https://www.google.com/search?q=Pomp+&+Circumstance+NYC+reservations"
+    }
+  },
+  {
+    "id": 294,
+    "name": "Jean's Lafayette",
+    "notes": "",
+    "neighborhood": "NoHo",
+    "cuisine_type": "American",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/jeans-lafayette",
+      "opentable": "https://www.opentable.com/s?term=Jean's+Lafayette&metroId=8",
+      "google": "https://www.google.com/search?q=Jean's+Lafayette+NYC+reservations"
+    }
+  },
+  {
+    "id": 295,
+    "name": "Bangkok Supper Club",
+    "notes": "",
+    "neighborhood": "Lower East Side",
+    "cuisine_type": "Thai",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/bangkok-supper-club",
+      "opentable": "https://www.opentable.com/s?term=Bangkok+Supper+Club&metroId=8",
+      "google": "https://www.google.com/search?q=Bangkok+Supper+Club+NYC+reservations"
+    }
+  },
+  {
+    "id": 296,
+    "name": "Happier Grocery",
+    "notes": "",
+    "neighborhood": "NoHo",
+    "cuisine_type": "Dessert",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/happier-grocery",
+      "opentable": "https://www.opentable.com/s?term=Happier+Grocery&metroId=8",
+      "google": "https://www.google.com/search?q=Happier+Grocery+NYC+reservations"
+    }
+  },
+  {
+    "id": 297,
+    "name": "Jazba",
+    "notes": "",
+    "neighborhood": "West Village",
+    "cuisine_type": "Indian",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/jazba",
+      "opentable": "https://www.opentable.com/s?term=Jazba&metroId=8",
+      "google": "https://www.google.com/search?q=Jazba+NYC+reservations"
+    }
+  },
+  {
+    "id": 298,
+    "name": "Southern Charm",
+    "notes": "brunch",
+    "neighborhood": "West Village",
+    "cuisine_type": "American",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/southern-charm",
+      "opentable": "https://www.opentable.com/s?term=Southern+Charm&metroId=8",
+      "google": "https://www.google.com/search?q=Southern+Charm+NYC+reservations"
+    }
+  },
+  {
+    "id": 299,
+    "name": "Mari.ne",
+    "notes": "",
+    "neighborhood": "SoHo",
+    "cuisine_type": "Seafood",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/marine",
+      "opentable": "https://www.opentable.com/s?term=Mari.ne&metroId=8",
+      "google": "https://www.google.com/search?q=Mari.ne+NYC+reservations"
+    }
+  },
+  {
+    "id": 300,
+    "name": "The Portrait Bar",
+    "notes": "",
+    "neighborhood": "Midtown",
+    "cuisine_type": "Bar/Cocktails",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/the-portrait-bar",
+      "opentable": "https://www.opentable.com/s?term=The+Portrait+Bar&metroId=8",
+      "google": "https://www.google.com/search?q=The+Portrait+Bar+NYC+reservations"
+    }
+  },
+  {
+    "id": 301,
+    "name": "Hamburger America",
+    "notes": "",
+    "neighborhood": "East Village",
+    "cuisine_type": "American",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/hamburger-america",
+      "opentable": "https://www.opentable.com/s?term=Hamburger+America&metroId=8",
+      "google": "https://www.google.com/search?q=Hamburger+America+NYC+reservations"
+    }
+  },
+  {
+    "id": 302,
+    "name": "Tigre",
+    "notes": "bar",
+    "neighborhood": "Lower East Side",
+    "cuisine_type": "Bar/Cocktails",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/tigre",
+      "opentable": "https://www.opentable.com/s?term=Tigre&metroId=8",
+      "google": "https://www.google.com/search?q=Tigre+NYC+reservations"
+    }
+  },
+  {
+    "id": 303,
+    "name": "Le B",
+    "notes": "",
+    "neighborhood": "SoHo",
+    "cuisine_type": "French",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/le-b",
+      "opentable": "https://www.opentable.com/s?term=Le+B&metroId=8",
+      "google": "https://www.google.com/search?q=Le+B+NYC+reservations"
+    }
+  },
+  {
+    "id": 304,
+    "name": "Chino Grande",
+    "notes": "dinn and karaoke!",
+    "neighborhood": "NoHo",
+    "cuisine_type": "Asian",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/chino-grande",
+      "opentable": "https://www.opentable.com/s?term=Chino+Grande&metroId=8",
+      "google": "https://www.google.com/search?q=Chino+Grande+NYC+reservations"
+    }
+  },
+  {
+    "id": 305,
+    "name": "Hoexter's",
+    "notes": "",
+    "neighborhood": "Midtown",
+    "cuisine_type": "Deli",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/hoexters",
+      "opentable": "https://www.opentable.com/s?term=Hoexter's&metroId=8",
+      "google": "https://www.google.com/search?q=Hoexter's+NYC+reservations"
+    }
+  },
+  {
+    "id": 306,
+    "name": "Meduza",
+    "notes": "",
+    "neighborhood": "Greenpoint",
+    "cuisine_type": "Mediterranean",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/meduza",
+      "opentable": "https://www.opentable.com/s?term=Meduza&metroId=8",
+      "google": "https://www.google.com/search?q=Meduza+NYC+reservations"
+    }
+  },
+  {
+    "id": 307,
+    "name": "Lupetto",
+    "notes": "",
+    "neighborhood": "West Village",
+    "cuisine_type": "Italian",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/lupetto",
+      "opentable": "https://www.opentable.com/s?term=Lupetto&metroId=8",
+      "google": "https://www.google.com/search?q=Lupetto+NYC+reservations"
+    }
+  },
+  {
+    "id": 308,
+    "name": "Lucky Rabbit Noodle",
+    "notes": "matzo ball soup dumpling",
+    "neighborhood": "Lower East Side",
+    "cuisine_type": "Chinese",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/lucky-rabbit-noodle",
+      "opentable": "https://www.opentable.com/s?term=Lucky+Rabbit+Noodle&metroId=8",
+      "google": "https://www.google.com/search?q=Lucky+Rabbit+Noodle+NYC+reservations"
+    }
+  },
+  {
+    "id": 309,
+    "name": "Fossetta",
+    "notes": "",
+    "neighborhood": "Brooklyn",
+    "cuisine_type": "Italian",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/fossetta",
+      "opentable": "https://www.opentable.com/s?term=Fossetta&metroId=8",
+      "google": "https://www.google.com/search?q=Fossetta+NYC+reservations"
+    }
+  },
+  {
+    "id": 310,
+    "name": "Afternoon tea at Aman",
+    "notes": "",
+    "neighborhood": "Midtown",
+    "cuisine_type": "British",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/afternoon-tea-at-aman",
+      "opentable": "https://www.opentable.com/s?term=Afternoon+tea+at+Aman&metroId=8",
+      "google": "https://www.google.com/search?q=Afternoon+tea+at+Aman+NYC+reservations"
+    }
+  },
+  {
+    "id": 311,
+    "name": "Chelsea living room",
+    "notes": "live music Thursdays, get off menu lemon pie cocktail",
+    "neighborhood": "Chelsea",
+    "cuisine_type": "Bar/Cocktails",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/chelsea-living-room",
+      "opentable": "https://www.opentable.com/s?term=Chelsea+living+room&metroId=8",
+      "google": "https://www.google.com/search?q=Chelsea+living+room+NYC+reservations"
+    }
+  },
+  {
+    "id": 312,
+    "name": "Sip and Guzzle",
+    "notes": "",
+    "neighborhood": "East Village",
+    "cuisine_type": "Bar/Cocktails",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/sip-and-guzzle",
+      "opentable": "https://www.opentable.com/s?term=Sip+and+Guzzle&metroId=8",
+      "google": "https://www.google.com/search?q=Sip+and+Guzzle+NYC+reservations"
+    }
+  },
+  {
+    "id": 313,
+    "name": "Frog Club",
+    "notes": "",
+    "neighborhood": "Midtown",
+    "cuisine_type": "French",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/frog-club",
+      "opentable": "https://www.opentable.com/s?term=Frog+Club&metroId=8",
+      "google": "https://www.google.com/search?q=Frog+Club+NYC+reservations"
+    }
+  },
+  {
+    "id": 314,
+    "name": "San Sabino",
+    "notes": "",
+    "neighborhood": "Brooklyn",
+    "cuisine_type": "Italian",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/san-sabino",
+      "opentable": "https://www.opentable.com/s?term=San+Sabino&metroId=8",
+      "google": "https://www.google.com/search?q=San+Sabino+NYC+reservations"
+    }
+  },
+  {
+    "id": 315,
+    "name": "COCODAQ",
+    "notes": "",
+    "neighborhood": "Flatiron",
+    "cuisine_type": "Asian",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/cocodaq",
+      "opentable": "https://www.opentable.com/s?term=COCODAQ&metroId=8",
+      "google": "https://www.google.com/search?q=COCODAQ+NYC+reservations"
+    }
+  },
+  {
+    "id": 316,
+    "name": "Beefbar",
+    "notes": "",
+    "neighborhood": "SoHo",
+    "cuisine_type": "Bar/Cocktails",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/beefbar",
+      "opentable": "https://www.opentable.com/s?term=Beefbar&metroId=8",
+      "google": "https://www.google.com/search?q=Beefbar+NYC+reservations"
+    }
+  },
+  {
+    "id": 317,
+    "name": "B&H Dairy",
+    "notes": "",
+    "neighborhood": "East Village",
+    "cuisine_type": "American",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/bh-dairy",
+      "opentable": "https://www.opentable.com/s?term=B&H+Dairy&metroId=8",
+      "google": "https://www.google.com/search?q=B&H+Dairy+NYC+reservations"
+    }
+  },
+  {
+    "id": 318,
+    "name": "Penny",
+    "notes": "",
+    "neighborhood": "East Village",
+    "cuisine_type": "American",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/penny",
+      "opentable": "https://www.opentable.com/s?term=Penny&metroId=8",
+      "google": "https://www.google.com/search?q=Penny+NYC+reservations"
+    }
+  },
+  {
+    "id": 319,
+    "name": "Falanzi",
+    "notes": "Asian Mexican fusion",
+    "neighborhood": "West Village",
+    "cuisine_type": "Mexican",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/falanzi",
+      "opentable": "https://www.opentable.com/s?term=Falanzi&metroId=8",
+      "google": "https://www.google.com/search?q=Falanzi+NYC+reservations"
+    }
+  },
+  {
+    "id": 320,
+    "name": "Andie's Eats",
+    "notes": "duh",
+    "neighborhood": "West Village",
+    "cuisine_type": "American",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/andies-eats",
+      "opentable": "https://www.opentable.com/s?term=Andie's+Eats&metroId=8",
+      "google": "https://www.google.com/search?q=Andie's+Eats+NYC+reservations"
+    }
+  },
+  {
+    "id": 321,
+    "name": "Only Love Strangers",
+    "notes": "jazz bar!",
+    "neighborhood": "West Village",
+    "cuisine_type": "Bar/Cocktails",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/only-love-strangers",
+      "opentable": "https://www.opentable.com/s?term=Only+Love+Strangers&metroId=8",
+      "google": "https://www.google.com/search?q=Only+Love+Strangers+NYC+reservations"
+    }
+  },
+  {
+    "id": 322,
+    "name": "Apollo Bagels",
+    "notes": "LA sourdough bagels",
+    "neighborhood": "SoHo",
+    "cuisine_type": "Bakery",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/apollo-bagels",
+      "opentable": "https://www.opentable.com/s?term=Apollo+Bagels&metroId=8",
+      "google": "https://www.google.com/search?q=Apollo+Bagels+NYC+reservations"
+    }
+  },
+  {
+    "id": 323,
+    "name": "This bowl",
+    "notes": "Asian bowl place from Australia",
+    "neighborhood": "Multiple",
+    "cuisine_type": "Asian",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/this-bowl",
+      "opentable": "https://www.opentable.com/s?term=This+bowl&metroId=8",
+      "google": "https://www.google.com/search?q=This+bowl+NYC+reservations"
+    }
+  },
+  {
+    "id": 324,
+    "name": "Maki mono",
+    "notes": "fresh onigiri Chelsea Market",
+    "neighborhood": "Chelsea",
+    "cuisine_type": "Japanese",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/maki-mono",
+      "opentable": "https://www.opentable.com/s?term=Maki+mono&metroId=8",
+      "google": "https://www.google.com/search?q=Maki+mono+NYC+reservations"
+    }
+  },
+  {
+    "id": 325,
+    "name": "Tolo",
+    "notes": "Chinese place by Parcelles",
+    "neighborhood": "Lower East Side",
+    "cuisine_type": "Asian",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/tolo",
+      "opentable": "https://www.opentable.com/s?term=Tolo&metroId=8",
+      "google": "https://www.google.com/search?q=Tolo+NYC+reservations"
+    }
+  },
+  {
+    "id": 326,
+    "name": "Corima",
+    "notes": "Mexican Japanese contra alum",
+    "neighborhood": "Lower East Side",
+    "cuisine_type": "Japanese",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/corima",
+      "opentable": "https://www.opentable.com/s?term=Corima&metroId=8",
+      "google": "https://www.google.com/search?q=Corima+NYC+reservations"
+    }
+  },
+  {
+    "id": 327,
+    "name": "Tucci",
+    "notes": "vodka chicken parm",
+    "neighborhood": "West Village",
+    "cuisine_type": "Italian",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/tucci",
+      "opentable": "https://www.opentable.com/s?term=Tucci&metroId=8",
+      "google": "https://www.google.com/search?q=Tucci+NYC+reservations"
+    }
+  },
+  {
+    "id": 328,
+    "name": "Amarena",
+    "notes": "Italian near us by Toloache team",
+    "neighborhood": "West Village",
+    "cuisine_type": "Italian",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/amarena",
+      "opentable": "https://www.opentable.com/s?term=Amarena&metroId=8",
+      "google": "https://www.google.com/search?q=Amarena+NYC+reservations"
+    }
+  },
+  {
+    "id": 329,
+    "name": "Not as bitter",
+    "notes": "sweet treat coffee",
+    "neighborhood": "West Village",
+    "cuisine_type": "Coffee/Cafe",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/not-as-bitter",
+      "opentable": "https://www.opentable.com/s?term=Not+as+bitter&metroId=8",
+      "google": "https://www.google.com/search?q=Not+as+bitter+NYC+reservations"
+    }
+  },
+  {
+    "id": 330,
+    "name": "Rose room lounge",
+    "notes": "espresso martini bar",
+    "neighborhood": "Midtown",
+    "cuisine_type": "Coffee/Cafe",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/rose-room-lounge",
+      "opentable": "https://www.opentable.com/s?term=Rose+room+lounge&metroId=8",
+      "google": "https://www.google.com/search?q=Rose+room+lounge+NYC+reservations"
+    }
+  },
+  {
+    "id": 331,
+    "name": "The Highlight Room",
+    "notes": "$5 rose happy hour",
+    "neighborhood": "Meatpacking",
+    "cuisine_type": "Bar/Cocktails",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/the-highlight-room",
+      "opentable": "https://www.opentable.com/s?term=The+Highlight+Room&metroId=8",
+      "google": "https://www.google.com/search?q=The+Highlight+Room+NYC+reservations"
+    }
+  },
+  {
+    "id": 332,
+    "name": "Settepani Bakery",
+    "notes": "rainbow cookie croissant",
+    "neighborhood": "Harlem",
+    "cuisine_type": "French",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/settepani-bakery",
+      "opentable": "https://www.opentable.com/s?term=Settepani+Bakery&metroId=8",
+      "google": "https://www.google.com/search?q=Settepani+Bakery+NYC+reservations"
+    }
+  },
+  {
+    "id": 333,
+    "name": "Theodora",
+    "notes": "Mediterranean from people behind miss ada",
+    "neighborhood": "Brooklyn",
+    "cuisine_type": "Mediterranean",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/theodora",
+      "opentable": "https://www.opentable.com/s?term=Theodora&metroId=8",
+      "google": "https://www.google.com/search?q=Theodora+NYC+reservations"
+    }
+  },
+  {
+    "id": 334,
+    "name": "Museum Coffee",
+    "notes": "candied croissant slices dipped in chocolate",
+    "neighborhood": "Midtown",
+    "cuisine_type": "French",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/museum-coffee",
+      "opentable": "https://www.opentable.com/s?term=Museum+Coffee&metroId=8",
+      "google": "https://www.google.com/search?q=Museum+Coffee+NYC+reservations"
+    }
+  },
+  {
+    "id": 335,
+    "name": "Bar Primi",
+    "notes": "new location by work",
+    "neighborhood": "NoHo",
+    "cuisine_type": "Bar/Cocktails",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/bar-primi",
+      "opentable": "https://www.opentable.com/s?term=Bar+Primi&metroId=8",
+      "google": "https://www.google.com/search?q=Bar+Primi+NYC+reservations"
+    }
+  },
+  {
+    "id": 336,
+    "name": "6",
+    "notes": "",
+    "neighborhood": "Greenwich Village",
+    "cuisine_type": "Pizza",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/6",
+      "opentable": "https://www.opentable.com/s?term=6&metroId=8",
+      "google": "https://www.google.com/search?q=6+NYC+reservations"
+    }
+  },
+  {
+    "id": 337,
+    "name": "Crispy Heaven",
+    "notes": "brunch board",
+    "neighborhood": "NoHo",
+    "cuisine_type": "American",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/crispy-heaven",
+      "opentable": "https://www.opentable.com/s?term=Crispy+Heaven&metroId=8",
+      "google": "https://www.google.com/search?q=Crispy+Heaven+NYC+reservations"
+    }
+  },
+  {
+    "id": 338,
+    "name": "Shaken Not Stirred",
+    "notes": "cocktail bar on UES",
+    "neighborhood": "Upper East Side",
+    "cuisine_type": "Bar/Cocktails",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/shaken-not-stirred",
+      "opentable": "https://www.opentable.com/s?term=Shaken+Not+Stirred&metroId=8",
+      "google": "https://www.google.com/search?q=Shaken+Not+Stirred+NYC+reservations"
+    }
+  },
+  {
+    "id": 339,
+    "name": "Also Sohm wine bar",
+    "notes": "theater district, wine bar by le bernardin team",
+    "neighborhood": "Theatre District",
+    "cuisine_type": "Bar/Cocktails",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/also-sohm-wine-bar",
+      "opentable": "https://www.opentable.com/s?term=Also+Sohm+wine+bar&metroId=8",
+      "google": "https://www.google.com/search?q=Also+Sohm+wine+bar+NYC+reservations"
+    }
+  },
+  {
+    "id": 340,
+    "name": "Janie's Life Changing Baked Goods",
+    "notes": "rainbow cookie pie crust cookie for pride!",
+    "neighborhood": "West Village",
+    "cuisine_type": "Dessert",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/janies-life-changing-baked-goods",
+      "opentable": "https://www.opentable.com/s?term=Janie's+Life+Changing+Baked+Goods&metroId=8",
+      "google": "https://www.google.com/search?q=Janie's+Life+Changing+Baked+Goods+NYC+reservations"
+    }
+  },
+  {
+    "id": 341,
+    "name": "Miriam",
+    "notes": "Israeli, UWS",
+    "neighborhood": "Upper West Side",
+    "cuisine_type": "Mediterranean",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/miriam",
+      "opentable": "https://www.opentable.com/s?term=Miriam&metroId=8",
+      "google": "https://www.google.com/search?q=Miriam+NYC+reservations"
+    }
+  },
+  {
+    "id": 342,
+    "name": "Conwell Coffee Hall",
+    "notes": "fidi, gorg laptop friendly cafe",
+    "neighborhood": "FiDi",
+    "cuisine_type": "Coffee/Cafe",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/conwell-coffee-hall",
+      "opentable": "https://www.opentable.com/s?term=Conwell+Coffee+Hall&metroId=8",
+      "google": "https://www.google.com/search?q=Conwell+Coffee+Hall+NYC+reservations"
+    }
+  },
+  {
+    "id": 343,
+    "name": "Good Guys",
+    "notes": "spritz bar",
+    "neighborhood": "NoHo",
+    "cuisine_type": "Bar/Cocktails",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/good-guys",
+      "opentable": "https://www.opentable.com/s?term=Good+Guys&metroId=8",
+      "google": "https://www.google.com/search?q=Good+Guys+NYC+reservations"
+    }
+  },
+  {
+    "id": 344,
+    "name": "L'incontra by Rocco",
+    "notes": "new Italian on UES",
+    "neighborhood": "Upper East Side",
+    "cuisine_type": "Italian",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/lincontra-by-rocco",
+      "opentable": "https://www.opentable.com/s?term=L'incontra+by+Rocco&metroId=8",
+      "google": "https://www.google.com/search?q=L'incontra+by+Rocco+NYC+reservations"
+    }
+  },
+  {
+    "id": 345,
+    "name": "Salswee",
+    "notes": "truffle croissant",
+    "neighborhood": "Upper East Side",
+    "cuisine_type": "French",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/salswee",
+      "opentable": "https://www.opentable.com/s?term=Salswee&metroId=8",
+      "google": "https://www.google.com/search?q=Salswee+NYC+reservations"
+    }
+  },
+  {
+    "id": 346,
+    "name": "Massara",
+    "notes": "new restaurant from Rezdoa team, pizzetes!",
+    "neighborhood": "West Village",
+    "cuisine_type": "Italian",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/massara",
+      "opentable": "https://www.opentable.com/s?term=Massara&metroId=8",
+      "google": "https://www.google.com/search?q=Massara+NYC+reservations"
+    }
+  },
+  {
+    "id": 347,
+    "name": "Da Andrea",
+    "notes": "pretty, big italian restaurant in Chelsea",
+    "neighborhood": "Chelsea",
+    "cuisine_type": "Italian",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/da-andrea",
+      "opentable": "https://www.opentable.com/s?term=Da+Andrea&metroId=8",
+      "google": "https://www.google.com/search?q=Da+Andrea+NYC+reservations"
+    }
+  },
+  {
+    "id": 348,
+    "name": "Noa, a caf\u00e9",
+    "notes": "date caramel drizzle frozen cold brew, matcha cloud drink",
+    "neighborhood": "SoHo",
+    "cuisine_type": "Coffee/Cafe",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/noa-a-caf",
+      "opentable": "https://www.opentable.com/s?term=Noa,+a+caf\u00e9&metroId=8",
+      "google": "https://www.google.com/search?q=Noa,+a+caf\u00e9+NYC+reservations"
+    }
+  },
+  {
+    "id": 349,
+    "name": "Hungry Llama cafe",
+    "notes": "whipped honey latte",
+    "neighborhood": "Multiple",
+    "cuisine_type": "Coffee/Cafe",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/hungry-llama-cafe",
+      "opentable": "https://www.opentable.com/s?term=Hungry+Llama+cafe&metroId=8",
+      "google": "https://www.google.com/search?q=Hungry+Llama+cafe+NYC+reservations"
+    }
+  },
+  {
+    "id": 350,
+    "name": "Frances at Casa Cruz",
+    "notes": "rooftop UES",
+    "neighborhood": "Upper East Side",
+    "cuisine_type": "American",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/frances-at-casa-cruz",
+      "opentable": "https://www.opentable.com/s?term=Frances+at+Casa+Cruz&metroId=8",
+      "google": "https://www.google.com/search?q=Frances+at+Casa+Cruz+NYC+reservations"
+    }
+  },
+  {
+    "id": 351,
+    "name": "Eel Bar",
+    "notes": "cervo's team",
+    "neighborhood": "Williamsburg",
+    "cuisine_type": "Bar/Cocktails",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/eel-bar",
+      "opentable": "https://www.opentable.com/s?term=Eel+Bar&metroId=8",
+      "google": "https://www.google.com/search?q=Eel+Bar+NYC+reservations"
+    }
+  },
+  {
+    "id": 352,
+    "name": "Carlota",
+    "notes": "tapas bar",
+    "neighborhood": "West Village",
+    "cuisine_type": "Bar/Cocktails",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/carlota",
+      "opentable": "https://www.opentable.com/s?term=Carlota&metroId=8",
+      "google": "https://www.google.com/search?q=Carlota+NYC+reservations"
+    }
+  },
+  {
+    "id": 353,
+    "name": "Bar Whimsy",
+    "notes": "cocktail bar in Olly Olly market",
+    "neighborhood": "Multiple",
+    "cuisine_type": "Bar/Cocktails",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/bar-whimsy",
+      "opentable": "https://www.opentable.com/s?term=Bar+Whimsy&metroId=8",
+      "google": "https://www.google.com/search?q=Bar+Whimsy+NYC+reservations"
+    }
+  },
+  {
+    "id": 354,
+    "name": "Champagne Problems",
+    "notes": "taylor swift speakeasy",
+    "neighborhood": "SoHo",
+    "cuisine_type": "Bar/Cocktails",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/champagne-problems",
+      "opentable": "https://www.opentable.com/s?term=Champagne+Problems&metroId=8",
+      "google": "https://www.google.com/search?q=Champagne+Problems+NYC+reservations"
+    }
+  },
+  {
+    "id": 355,
+    "name": "Wildflower",
+    "notes": "Chelsea, drinks and garden",
+    "neighborhood": "Chelsea",
+    "cuisine_type": "Bar/Cocktails",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/wildflower",
+      "opentable": "https://www.opentable.com/s?term=Wildflower&metroId=8",
+      "google": "https://www.google.com/search?q=Wildflower+NYC+reservations"
+    }
+  },
+  {
+    "id": 356,
+    "name": "Dirty Taco Tacomakase",
+    "notes": "6 seats 6 nights a month grand central terminal",
+    "neighborhood": "Midtown",
+    "cuisine_type": "Japanese",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/dirty-taco-tacomakase",
+      "opentable": "https://www.opentable.com/s?term=Dirty+Taco+Tacomakase&metroId=8",
+      "google": "https://www.google.com/search?q=Dirty+Taco+Tacomakase+NYC+reservations"
+    }
+  },
+  {
+    "id": 357,
+    "name": "Angels Share",
+    "notes": "speakeasy cool drinks west village",
+    "neighborhood": "East Village",
+    "cuisine_type": "Bar/Cocktails",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/angels-share",
+      "opentable": "https://www.opentable.com/s?term=Angels+Share&metroId=8",
+      "google": "https://www.google.com/search?q=Angels+Share+NYC+reservations"
+    }
+  },
+  {
+    "id": 358,
+    "name": "Quique Crudo",
+    "notes": "Mexican west village",
+    "neighborhood": "West Village",
+    "cuisine_type": "Mexican",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/quique-crudo",
+      "opentable": "https://www.opentable.com/s?term=Quique+Crudo&metroId=8",
+      "google": "https://www.google.com/search?q=Quique+Crudo+NYC+reservations"
+    }
+  },
+  {
+    "id": 359,
+    "name": "Atoboy",
+    "notes": "nomad, $75 4 course tasting menu from Atomix team",
+    "neighborhood": "NoMad",
+    "cuisine_type": "Korean",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/atoboy",
+      "opentable": "https://www.opentable.com/s?term=Atoboy&metroId=8",
+      "google": "https://www.google.com/search?q=Atoboy+NYC+reservations"
+    }
+  },
+  {
+    "id": 360,
+    "name": "Hidden Grounds",
+    "notes": "East village Nola style cold brew",
+    "neighborhood": "East Village",
+    "cuisine_type": "Coffee/Cafe",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/hidden-grounds",
+      "opentable": "https://www.opentable.com/s?term=Hidden+Grounds&metroId=8",
+      "google": "https://www.google.com/search?q=Hidden+Grounds+NYC+reservations"
+    }
+  },
+  {
+    "id": 361,
+    "name": "Early Terrible",
+    "notes": "Les, restaurant with club next door, walnut cake looks amazing and roast chicken",
+    "neighborhood": "Lower East Side",
+    "cuisine_type": "American",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/early-terrible",
+      "opentable": "https://www.opentable.com/s?term=Early+Terrible&metroId=8",
+      "google": "https://www.google.com/search?q=Early+Terrible+NYC+reservations"
+    }
+  },
+  {
+    "id": 362,
+    "name": "Sushiro",
+    "notes": "handroll bar WV",
+    "neighborhood": "West Village",
+    "cuisine_type": "Japanese",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/sushiro",
+      "opentable": "https://www.opentable.com/s?term=Sushiro&metroId=8",
+      "google": "https://www.google.com/search?q=Sushiro+NYC+reservations"
+    }
+  },
+  {
+    "id": 363,
+    "name": "The Garden at the Standard EV",
+    "notes": "hh",
+    "neighborhood": "East Village",
+    "cuisine_type": "Bar/Cocktails",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/the-garden-at-the-standard-ev",
+      "opentable": "https://www.opentable.com/s?term=The+Garden+at+the+Standard+EV&metroId=8",
+      "google": "https://www.google.com/search?q=The+Garden+at+the+Standard+EV+NYC+reservations"
+    }
+  },
+  {
+    "id": 364,
+    "name": "Bar Contra",
+    "notes": "Mexican cocktails and bites, SoHo",
+    "neighborhood": "SoHo",
+    "cuisine_type": "Mexican",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/bar-contra",
+      "opentable": "https://www.opentable.com/s?term=Bar+Contra&metroId=8",
+      "google": "https://www.google.com/search?q=Bar+Contra+NYC+reservations"
+    }
+  },
+  {
+    "id": 365,
+    "name": "Twentyonegrains",
+    "notes": "fast casual, Hell's Kitchen, healthy",
+    "neighborhood": "Hell's Kitchen",
+    "cuisine_type": "American",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/twentyonegrains",
+      "opentable": "https://www.opentable.com/s?term=Twentyonegrains&metroId=8",
+      "google": "https://www.google.com/search?q=Twentyonegrains+NYC+reservations"
+    }
+  },
+  {
+    "id": 366,
+    "name": "Chloe",
+    "notes": "SoHo, vegan fast casual",
+    "neighborhood": "SoHo",
+    "cuisine_type": "American",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/chloe",
+      "opentable": "https://www.opentable.com/s?term=Chloe&metroId=8",
+      "google": "https://www.google.com/search?q=Chloe+NYC+reservations"
+    }
+  },
+  {
+    "id": 367,
+    "name": "Midnight Blue",
+    "notes": "jazz bar, gramercy",
+    "neighborhood": "Gramercy",
+    "cuisine_type": "Bar/Cocktails",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/midnight-blue",
+      "opentable": "https://www.opentable.com/s?term=Midnight+Blue&metroId=8",
+      "google": "https://www.google.com/search?q=Midnight+Blue+NYC+reservations"
+    }
+  },
+  {
+    "id": 368,
+    "name": "Bar Bonobo",
+    "notes": "Chelsea, fun cocktails",
+    "neighborhood": "Chelsea",
+    "cuisine_type": "Bar/Cocktails",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/bar-bonobo",
+      "opentable": "https://www.opentable.com/s?term=Bar+Bonobo&metroId=8",
+      "google": "https://www.google.com/search?q=Bar+Bonobo+NYC+reservations"
+    }
+  },
+  {
+    "id": 369,
+    "name": "The pickle guys",
+    "notes": "pickle store LES",
+    "neighborhood": "Lower East Side",
+    "cuisine_type": "Deli",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/the-pickle-guys",
+      "opentable": "https://www.opentable.com/s?term=The+pickle+guys&metroId=8",
+      "google": "https://www.google.com/search?q=The+pickle+guys+NYC+reservations"
+    }
+  },
+  {
+    "id": 370,
+    "name": "Green lane coffee",
+    "notes": "UES",
+    "neighborhood": "Upper East Side",
+    "cuisine_type": "Coffee/Cafe",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/green-lane-coffee",
+      "opentable": "https://www.opentable.com/s?term=Green+lane+coffee&metroId=8",
+      "google": "https://www.google.com/search?q=Green+lane+coffee+NYC+reservations"
+    }
+  },
+  {
+    "id": 371,
+    "name": "Madison fare",
+    "notes": "organic Greek frozen yogurt ues",
+    "neighborhood": "Upper East Side",
+    "cuisine_type": "Mediterranean",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/madison-fare",
+      "opentable": "https://www.opentable.com/s?term=Madison+fare&metroId=8",
+      "google": "https://www.google.com/search?q=Madison+fare+NYC+reservations"
+    }
+  },
+  {
+    "id": 372,
+    "name": "Cello's Pizzeria",
+    "notes": "EV, owner worked at L'industrie and PJ",
+    "neighborhood": "East Village",
+    "cuisine_type": "Italian",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/cellos-pizzeria",
+      "opentable": "https://www.opentable.com/s?term=Cello's+Pizzeria&metroId=8",
+      "google": "https://www.google.com/search?q=Cello's+Pizzeria+NYC+reservations"
+    }
+  },
+  {
+    "id": 373,
+    "name": "Place des F\u00eates",
+    "notes": "wine bar, BK",
+    "neighborhood": "Brooklyn",
+    "cuisine_type": "Bar/Cocktails",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/place-des-ftes",
+      "opentable": "https://www.opentable.com/s?term=Place+des+F\u00eates&metroId=8",
+      "google": "https://www.google.com/search?q=Place+des+F\u00eates+NYC+reservations"
+    }
+  },
+  {
+    "id": 374,
+    "name": "Temakase",
+    "notes": "hand roll bar nomad",
+    "neighborhood": "NoMad",
+    "cuisine_type": "Bar/Cocktails",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/temakase",
+      "opentable": "https://www.opentable.com/s?term=Temakase&metroId=8",
+      "google": "https://www.google.com/search?q=Temakase+NYC+reservations"
+    }
+  },
+  {
+    "id": 375,
+    "name": "Bar vivant",
+    "notes": "wine bar UES",
+    "neighborhood": "Upper East Side",
+    "cuisine_type": "Bar/Cocktails",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/bar-vivant",
+      "opentable": "https://www.opentable.com/s?term=Bar+vivant&metroId=8",
+      "google": "https://www.google.com/search?q=Bar+vivant+NYC+reservations"
+    }
+  },
+  {
+    "id": 376,
+    "name": "SEA",
+    "notes": "nomad, jungsik chefs",
+    "neighborhood": "NoMad",
+    "cuisine_type": "Japanese",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/sea",
+      "opentable": "https://www.opentable.com/s?term=SEA&metroId=8",
+      "google": "https://www.google.com/search?q=SEA+NYC+reservations"
+    }
+  },
+  {
+    "id": 377,
+    "name": "Oases",
+    "notes": "ayurvedic caf\u00e9 chelsea",
+    "neighborhood": "Chelsea",
+    "cuisine_type": "Coffee/Cafe",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/oases",
+      "opentable": "https://www.opentable.com/s?term=Oases&metroId=8",
+      "google": "https://www.google.com/search?q=Oases+NYC+reservations"
+    }
+  },
+  {
+    "id": 378,
+    "name": "La Bomboniera",
+    "notes": "Italian wine bar UES",
+    "neighborhood": "Upper East Side",
+    "cuisine_type": "Italian",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/la-bomboniera",
+      "opentable": "https://www.opentable.com/s?term=La+Bomboniera&metroId=8",
+      "google": "https://www.google.com/search?q=La+Bomboniera+NYC+reservations"
+    }
+  },
+  {
+    "id": 379,
+    "name": "The Corner Store",
+    "notes": "American martinis SoHo",
+    "neighborhood": "SoHo",
+    "cuisine_type": "American",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/the-corner-store",
+      "opentable": "https://www.opentable.com/s?term=The+Corner+Store&metroId=8",
+      "google": "https://www.google.com/search?q=The+Corner+Store+NYC+reservations"
+    }
+  },
+  {
+    "id": 380,
+    "name": "Sushi by Scratch",
+    "notes": "omakase speakeasy",
+    "neighborhood": "NoMad",
+    "cuisine_type": "Japanese",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/sushi-by-scratch",
+      "opentable": "https://www.opentable.com/s?term=Sushi+by+Scratch&metroId=8",
+      "google": "https://www.google.com/search?q=Sushi+by+Scratch+NYC+reservations"
+    }
+  },
+  {
+    "id": 381,
+    "name": "Souen",
+    "notes": "macrobiotic Japanese",
+    "neighborhood": "East Village",
+    "cuisine_type": "Japanese",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/souen",
+      "opentable": "https://www.opentable.com/s?term=Souen&metroId=8",
+      "google": "https://www.google.com/search?q=Souen+NYC+reservations"
+    }
+  },
+  {
+    "id": 382,
+    "name": "Tall Poppy",
+    "notes": "croissants, flatiron",
+    "neighborhood": "Flatiron",
+    "cuisine_type": "French",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/tall-poppy",
+      "opentable": "https://www.opentable.com/s?term=Tall+Poppy&metroId=8",
+      "google": "https://www.google.com/search?q=Tall+Poppy+NYC+reservations"
+    }
+  },
+  {
+    "id": 383,
+    "name": "Taiko",
+    "notes": "casual Greek, Chelsea",
+    "neighborhood": "Chelsea",
+    "cuisine_type": "Mediterranean",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/taiko",
+      "opentable": "https://www.opentable.com/s?term=Taiko&metroId=8",
+      "google": "https://www.google.com/search?q=Taiko+NYC+reservations"
+    }
+  },
+  {
+    "id": 384,
+    "name": "Parla",
+    "notes": "Italian UWS",
+    "neighborhood": "Upper West Side",
+    "cuisine_type": "Italian",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/parla",
+      "opentable": "https://www.opentable.com/s?term=Parla&metroId=8",
+      "google": "https://www.google.com/search?q=Parla+NYC+reservations"
+    }
+  },
+  {
+    "id": 385,
+    "name": "Experimental Cocktail Club",
+    "notes": "Flatiron, croissant kir royale cocktail",
+    "neighborhood": "Flatiron",
+    "cuisine_type": "French",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/experimental-cocktail-club",
+      "opentable": "https://www.opentable.com/s?term=Experimental+Cocktail+Club&metroId=8",
+      "google": "https://www.google.com/search?q=Experimental+Cocktail+Club+NYC+reservations"
+    }
+  },
+  {
+    "id": 386,
+    "name": "Borgo",
+    "notes": "Italian Flatiron",
+    "neighborhood": "Flatiron",
+    "cuisine_type": "Italian",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/borgo",
+      "opentable": "https://www.opentable.com/s?term=Borgo&metroId=8",
+      "google": "https://www.google.com/search?q=Borgo+NYC+reservations"
+    }
+  },
+  {
+    "id": 387,
+    "name": "Little Mint",
+    "notes": "Thai with low carb noodles",
+    "neighborhood": "Lower East Side",
+    "cuisine_type": "Asian",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/little-mint",
+      "opentable": "https://www.opentable.com/s?term=Little+Mint&metroId=8",
+      "google": "https://www.google.com/search?q=Little+Mint+NYC+reservations"
+    }
+  },
+  {
+    "id": 388,
+    "name": "Pearl Box",
+    "notes": "cocktail and caviar bar SoHo",
+    "neighborhood": "SoHo",
+    "cuisine_type": "Bar/Cocktails",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/pearl-box",
+      "opentable": "https://www.opentable.com/s?term=Pearl+Box&metroId=8",
+      "google": "https://www.google.com/search?q=Pearl+Box+NYC+reservations"
+    }
+  },
+  {
+    "id": 389,
+    "name": "Hero's",
+    "notes": "restaurant under Pearl Box",
+    "neighborhood": "SoHo",
+    "cuisine_type": "American",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/heros",
+      "opentable": "https://www.opentable.com/s?term=Hero's&metroId=8",
+      "google": "https://www.google.com/search?q=Hero's+NYC+reservations"
+    }
+  },
+  {
+    "id": 390,
+    "name": "Petit Chou",
+    "notes": "laminated croissant BEC",
+    "neighborhood": "Williamsburg",
+    "cuisine_type": "French",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/petit-chou",
+      "opentable": "https://www.opentable.com/s?term=Petit+Chou&metroId=8",
+      "google": "https://www.google.com/search?q=Petit+Chou+NYC+reservations"
+    }
+  },
+  {
+    "id": 391,
+    "name": "Dialogue Caf\u00e9",
+    "notes": "flower themed coffee shop LES, carrot cake latte",
+    "neighborhood": "Lower East Side",
+    "cuisine_type": "Coffee/Cafe",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/dialogue-caf",
+      "opentable": "https://www.opentable.com/s?term=Dialogue+Caf\u00e9&metroId=8",
+      "google": "https://www.google.com/search?q=Dialogue+Caf\u00e9+NYC+reservations"
+    }
+  },
+  {
+    "id": 392,
+    "name": "Desert 5 Spot",
+    "notes": "cowboy cocktail bar, make a rez, Williamsburg",
+    "neighborhood": "Williamsburg",
+    "cuisine_type": "Bar/Cocktails",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/desert-5-spot",
+      "opentable": "https://www.opentable.com/s?term=Desert+5+Spot&metroId=8",
+      "google": "https://www.google.com/search?q=Desert+5+Spot+NYC+reservations"
+    }
+  },
+  {
+    "id": 393,
+    "name": "Bridges",
+    "notes": "Chinatown, Estela alum",
+    "neighborhood": "Chinatown",
+    "cuisine_type": "American",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/bridges",
+      "opentable": "https://www.opentable.com/s?term=Bridges&metroId=8",
+      "google": "https://www.google.com/search?q=Bridges+NYC+reservations"
+    }
+  },
+  {
+    "id": 394,
+    "name": "Waiting on a Friend",
+    "notes": "cocktail bar EV, matchapeno, go out here",
+    "neighborhood": "East Village",
+    "cuisine_type": "Bar/Cocktails",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/waiting-on-a-friend",
+      "opentable": "https://www.opentable.com/s?term=Waiting+on+a+Friend&metroId=8",
+      "google": "https://www.google.com/search?q=Waiting+on+a+Friend+NYC+reservations"
+    }
+  },
+  {
+    "id": 395,
+    "name": "Clemente Bar",
+    "notes": "EMP chefs",
+    "neighborhood": "SoHo",
+    "cuisine_type": "Bar/Cocktails",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/clemente-bar",
+      "opentable": "https://www.opentable.com/s?term=Clemente+Bar&metroId=8",
+      "google": "https://www.google.com/search?q=Clemente+Bar+NYC+reservations"
+    }
+  },
+  {
+    "id": 396,
+    "name": "Sloane's",
+    "notes": "hotel bar, soho, chicken nuggets and fries",
+    "neighborhood": "SoHo",
+    "cuisine_type": "Bar/Cocktails",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/sloanes",
+      "opentable": "https://www.opentable.com/s?term=Sloane's&metroId=8",
+      "google": "https://www.google.com/search?q=Sloane's+NYC+reservations"
+    }
+  },
+  {
+    "id": 397,
+    "name": "Time and Tide",
+    "notes": "seafood flatiron",
+    "neighborhood": "Flatiron",
+    "cuisine_type": "Seafood",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/time-and-tide",
+      "opentable": "https://www.opentable.com/s?term=Time+and+Tide&metroId=8",
+      "google": "https://www.google.com/search?q=Time+and+Tide+NYC+reservations"
+    }
+  },
+  {
+    "id": 398,
+    "name": "Nightly's",
+    "notes": "UES, American bistro",
+    "neighborhood": "Upper East Side",
+    "cuisine_type": "French",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/nightlys",
+      "opentable": "https://www.opentable.com/s?term=Nightly's&metroId=8",
+      "google": "https://www.google.com/search?q=Nightly's+NYC+reservations"
+    }
+  },
+  {
+    "id": 399,
+    "name": "Crazy Pizza",
+    "notes": "party pizza restaurant SoHo",
+    "neighborhood": "SoHo",
+    "cuisine_type": "Italian",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/crazy-pizza",
+      "opentable": "https://www.opentable.com/s?term=Crazy+Pizza&metroId=8",
+      "google": "https://www.google.com/search?q=Crazy+Pizza+NYC+reservations"
+    }
+  },
+  {
+    "id": 400,
+    "name": "Twin Tails",
+    "notes": "Asian restaurant by Don Angie owners in Columbus Circle",
+    "neighborhood": "Columbus Circle",
+    "cuisine_type": "Asian",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/twin-tails",
+      "opentable": "https://www.opentable.com/s?term=Twin+Tails&metroId=8",
+      "google": "https://www.google.com/search?q=Twin+Tails+NYC+reservations"
+    }
+  },
+  {
+    "id": 401,
+    "name": "Soso's",
+    "notes": "soho, cool lounge",
+    "neighborhood": "SoHo",
+    "cuisine_type": "Bar/Cocktails",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/sosos",
+      "opentable": "https://www.opentable.com/s?term=Soso's&metroId=8",
+      "google": "https://www.google.com/search?q=Soso's+NYC+reservations"
+    }
+  },
+  {
+    "id": 402,
+    "name": "The Hand Roll Bar",
+    "notes": "west village martini hand roll pairings behind moody tounge",
+    "neighborhood": "West Village",
+    "cuisine_type": "Bar/Cocktails",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/the-hand-roll-bar",
+      "opentable": "https://www.opentable.com/s?term=The+Hand+Roll+Bar&metroId=8",
+      "google": "https://www.google.com/search?q=The+Hand+Roll+Bar+NYC+reservations"
+    }
+  },
+  {
+    "id": 403,
+    "name": "Mary O's Irish Soda Bread Shop",
+    "notes": "scones, East village",
+    "neighborhood": "East Village",
+    "cuisine_type": "Bakery",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/mary-os-irish-soda-bread-shop",
+      "opentable": "https://www.opentable.com/s?term=Mary+O's+Irish+Soda+Bread+Shop&metroId=8",
+      "google": "https://www.google.com/search?q=Mary+O's+Irish+Soda+Bread+Shop+NYC+reservations"
+    }
+  },
+  {
+    "id": 404,
+    "name": "Apt 5",
+    "notes": "cocktail bar LES",
+    "neighborhood": "Lower East Side",
+    "cuisine_type": "Bar/Cocktails",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/apt-5",
+      "opentable": "https://www.opentable.com/s?term=Apt+5&metroId=8",
+      "google": "https://www.google.com/search?q=Apt+5+NYC+reservations"
+    }
+  },
+  {
+    "id": 405,
+    "name": "Kanyakumari",
+    "notes": "Indian union square",
+    "neighborhood": "Union Square",
+    "cuisine_type": "Indian",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/kanyakumari",
+      "opentable": "https://www.opentable.com/s?term=Kanyakumari&metroId=8",
+      "google": "https://www.google.com/search?q=Kanyakumari+NYC+reservations"
+    }
+  },
+  {
+    "id": 406,
+    "name": "Bar Miller",
+    "notes": "omakase from people behind Rosella",
+    "neighborhood": "SoHo",
+    "cuisine_type": "Japanese",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/bar-miller",
+      "opentable": "https://www.opentable.com/s?term=Bar+Miller&metroId=8",
+      "google": "https://www.google.com/search?q=Bar+Miller+NYC+reservations"
+    }
+  },
+  {
+    "id": 407,
+    "name": "Zimmi's",
+    "notes": "WV, French, cozy farm to table vibes",
+    "neighborhood": "West Village",
+    "cuisine_type": "French",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/zimmis",
+      "opentable": "https://www.opentable.com/s?term=Zimmi's&metroId=8",
+      "google": "https://www.google.com/search?q=Zimmi's+NYC+reservations"
+    }
+  },
+  {
+    "id": 408,
+    "name": "Moody Tongue Pizza",
+    "notes": "Tokyo pizza",
+    "neighborhood": "West Village",
+    "cuisine_type": "Italian",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/moody-tongue-pizza",
+      "opentable": "https://www.opentable.com/s?term=Moody+Tongue+Pizza&metroId=8",
+      "google": "https://www.google.com/search?q=Moody+Tongue+Pizza+NYC+reservations"
+    }
+  },
+  {
+    "id": 409,
+    "name": "Cocoran",
+    "notes": "soba LES",
+    "neighborhood": "Lower East Side",
+    "cuisine_type": "Japanese",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/cocoran",
+      "opentable": "https://www.opentable.com/s?term=Cocoran&metroId=8",
+      "google": "https://www.google.com/search?q=Cocoran+NYC+reservations"
+    }
+  },
+  {
+    "id": 410,
+    "name": "Ho Foods",
+    "notes": "Taiwanese, EV, scallion pancake sandwich",
+    "neighborhood": "East Village",
+    "cuisine_type": "Asian",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/ho-foods",
+      "opentable": "https://www.opentable.com/s?term=Ho+Foods&metroId=8",
+      "google": "https://www.google.com/search?q=Ho+Foods+NYC+reservations"
+    }
+  },
+  {
+    "id": 411,
+    "name": "Frena",
+    "notes": "Mediterranean Hell's Kitchen",
+    "neighborhood": "Hell's Kitchen",
+    "cuisine_type": "Mediterranean",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/frena",
+      "opentable": "https://www.opentable.com/s?term=Frena&metroId=8",
+      "google": "https://www.google.com/search?q=Frena+NYC+reservations"
+    }
+  },
+  {
+    "id": 412,
+    "name": "The Snail",
+    "notes": "4 Charles owner with a burger Brooklyn",
+    "neighborhood": "Brooklyn",
+    "cuisine_type": "American",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/the-snail",
+      "opentable": "https://www.opentable.com/s?term=The+Snail&metroId=8",
+      "google": "https://www.google.com/search?q=The+Snail+NYC+reservations"
+    }
+  },
+  {
+    "id": 413,
+    "name": "Mitsuru",
+    "notes": "sushi and wine by Parcelles, WV",
+    "neighborhood": "West Village",
+    "cuisine_type": "Japanese",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/mitsuru",
+      "opentable": "https://www.opentable.com/s?term=Mitsuru&metroId=8",
+      "google": "https://www.google.com/search?q=Mitsuru+NYC+reservations"
+    }
+  },
+  {
+    "id": 414,
+    "name": "Le Bar Penelope",
+    "notes": "cocktail piano bar ues from avra group",
+    "neighborhood": "Upper East Side",
+    "cuisine_type": "Bar/Cocktails",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/le-bar-penelope",
+      "opentable": "https://www.opentable.com/s?term=Le+Bar+Penelope&metroId=8",
+      "google": "https://www.google.com/search?q=Le+Bar+Penelope+NYC+reservations"
+    }
+  },
+  {
+    "id": 415,
+    "name": "Elvis",
+    "notes": "wine bar noho",
+    "neighborhood": "NoHo",
+    "cuisine_type": "Bar/Cocktails",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/elvis",
+      "opentable": "https://www.opentable.com/s?term=Elvis&metroId=8",
+      "google": "https://www.google.com/search?q=Elvis+NYC+reservations"
+    }
+  },
+  {
+    "id": 416,
+    "name": "Crevette",
+    "notes": "seafood, same owner as Dame and Lord's, WV",
+    "neighborhood": "West Village",
+    "cuisine_type": "Seafood",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/crevette",
+      "opentable": "https://www.opentable.com/s?term=Crevette&metroId=8",
+      "google": "https://www.google.com/search?q=Crevette+NYC+reservations"
+    }
+  },
+  {
+    "id": 417,
+    "name": "Ceres",
+    "notes": "pizza EMP alums, soho",
+    "neighborhood": "SoHo",
+    "cuisine_type": "Italian",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/ceres",
+      "opentable": "https://www.opentable.com/s?term=Ceres&metroId=8",
+      "google": "https://www.google.com/search?q=Ceres+NYC+reservations"
+    }
+  },
+  {
+    "id": 418,
+    "name": "Caf\u00e9 Commerce",
+    "notes": "French UES",
+    "neighborhood": "Upper East Side",
+    "cuisine_type": "French",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/caf-commerce",
+      "opentable": "https://www.opentable.com/s?term=Caf\u00e9+Commerce&metroId=8",
+      "google": "https://www.google.com/search?q=Caf\u00e9+Commerce+NYC+reservations"
+    }
+  },
+  {
+    "id": 419,
+    "name": "Caf\u00e9 Zaffri",
+    "notes": "Persian, Raf's team, vibes, union square area",
+    "neighborhood": "Union Square",
+    "cuisine_type": "Coffee/Cafe",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/caf-zaffri",
+      "opentable": "https://www.opentable.com/s?term=Caf\u00e9+Zaffri&metroId=8",
+      "google": "https://www.google.com/search?q=Caf\u00e9+Zaffri+NYC+reservations"
+    }
+  },
+  {
+    "id": 420,
+    "name": "Schmuck",
+    "notes": "cocktail bar EV",
+    "neighborhood": "East Village",
+    "cuisine_type": "Bar/Cocktails",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/schmuck",
+      "opentable": "https://www.opentable.com/s?term=Schmuck&metroId=8",
+      "google": "https://www.google.com/search?q=Schmuck+NYC+reservations"
+    }
+  },
+  {
+    "id": 421,
+    "name": "Santi",
+    "notes": "pasta Midtown same owners as Marea",
+    "neighborhood": "Midtown",
+    "cuisine_type": "Italian",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/santi",
+      "opentable": "https://www.opentable.com/s?term=Santi&metroId=8",
+      "google": "https://www.google.com/search?q=Santi+NYC+reservations"
+    }
+  },
+  {
+    "id": 422,
+    "name": "Monsieur",
+    "notes": "medieval themed cocktail bar ev",
+    "neighborhood": "East Village",
+    "cuisine_type": "Bar/Cocktails",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/monsieur",
+      "opentable": "https://www.opentable.com/s?term=Monsieur&metroId=8",
+      "google": "https://www.google.com/search?q=Monsieur+NYC+reservations"
+    }
+  },
+  {
+    "id": 423,
+    "name": "Golden Hof + NY Kimchi",
+    "notes": "Golden Diner team midtown",
+    "neighborhood": "Midtown",
+    "cuisine_type": "American",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/golden-hof-ny-kimchi",
+      "opentable": "https://www.opentable.com/s?term=Golden+Hof+++NY+Kimchi&metroId=8",
+      "google": "https://www.google.com/search?q=Golden+Hof+++NY+Kimchi+NYC+reservations"
+    }
+  },
+  {
+    "id": 424,
+    "name": "Papa San",
+    "notes": "Peruvian Hudson Yards same team as Llama San",
+    "neighborhood": "Hudson Yards",
+    "cuisine_type": "Peruvian",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/papa-san",
+      "opentable": "https://www.opentable.com/s?term=Papa+San&metroId=8",
+      "google": "https://www.google.com/search?q=Papa+San+NYC+reservations"
+    }
+  },
+  {
+    "id": 425,
+    "name": "Opto",
+    "notes": "Italian flatiron",
+    "neighborhood": "Flatiron",
+    "cuisine_type": "Italian",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/opto",
+      "opentable": "https://www.opentable.com/s?term=Opto&metroId=8",
+      "google": "https://www.google.com/search?q=Opto+NYC+reservations"
+    }
+  },
+  {
+    "id": 426,
+    "name": "Dear Stranger",
+    "notes": "cocktail bar WV same owners employees only",
+    "neighborhood": "West Village",
+    "cuisine_type": "Bar/Cocktails",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/dear-stranger",
+      "opentable": "https://www.opentable.com/s?term=Dear+Stranger&metroId=8",
+      "google": "https://www.google.com/search?q=Dear+Stranger+NYC+reservations"
+    }
+  },
+  {
+    "id": 427,
+    "name": "The Lavaux",
+    "notes": "wine bar WV secret message party",
+    "neighborhood": "West Village",
+    "cuisine_type": "Bar/Cocktails",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/the-lavaux",
+      "opentable": "https://www.opentable.com/s?term=The+Lavaux&metroId=8",
+      "google": "https://www.google.com/search?q=The+Lavaux+NYC+reservations"
+    }
+  },
+  {
+    "id": 428,
+    "name": "Bar \u00e0 Part",
+    "notes": "wine bar from Zimmi's team WV",
+    "neighborhood": "West Village",
+    "cuisine_type": "Bar/Cocktails",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/bar-part",
+      "opentable": "https://www.opentable.com/s?term=Bar+\u00e0+Part&metroId=8",
+      "google": "https://www.google.com/search?q=Bar+\u00e0+Part+NYC+reservations"
+    }
+  },
+  {
+    "id": 429,
+    "name": "Monsieur Bistro",
+    "notes": "French bistro UES Maison Close team",
+    "neighborhood": "Upper East Side",
+    "cuisine_type": "French",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/monsieur-bistro",
+      "opentable": "https://www.opentable.com/s?term=Monsieur+Bistro&metroId=8",
+      "google": "https://www.google.com/search?q=Monsieur+Bistro+NYC+reservations"
+    }
+  },
+  {
+    "id": 430,
+    "name": "F&F Restaurant",
+    "notes": "Carroll Gardens f&f pizza team",
+    "neighborhood": "Carroll Gardens",
+    "cuisine_type": "Italian",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/ff-restaurant",
+      "opentable": "https://www.opentable.com/s?term=F&F+Restaurant&metroId=8",
+      "google": "https://www.google.com/search?q=F&F+Restaurant+NYC+reservations"
+    }
+  },
+  {
+    "id": 431,
+    "name": "The Gallery",
+    "notes": "Flatiron clear espresso martini",
+    "neighborhood": "Flatiron",
+    "cuisine_type": "Coffee/Cafe",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/the-gallery",
+      "opentable": "https://www.opentable.com/s?term=The+Gallery&metroId=8",
+      "google": "https://www.google.com/search?q=The+Gallery+NYC+reservations"
+    }
+  },
+  {
+    "id": 432,
+    "name": "Isla and Co",
+    "notes": "Midtown espresso martini flight",
+    "neighborhood": "Midtown",
+    "cuisine_type": "Coffee/Cafe",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/isla-and-co",
+      "opentable": "https://www.opentable.com/s?term=Isla+and+Co&metroId=8",
+      "google": "https://www.google.com/search?q=Isla+and+Co+NYC+reservations"
+    }
+  },
+  {
+    "id": 433,
+    "name": "Bar Snack",
+    "notes": "NoHo food themed cocktails",
+    "neighborhood": "NoHo",
+    "cuisine_type": "Bar/Cocktails",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/bar-snack",
+      "opentable": "https://www.opentable.com/s?term=Bar+Snack&metroId=8",
+      "google": "https://www.google.com/search?q=Bar+Snack+NYC+reservations"
+    }
+  },
+  {
+    "id": 434,
+    "name": "Sakagura",
+    "notes": "Japanese Midtown so close to work!",
+    "neighborhood": "Midtown",
+    "cuisine_type": "Japanese",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/sakagura",
+      "opentable": "https://www.opentable.com/s?term=Sakagura&metroId=8",
+      "google": "https://www.google.com/search?q=Sakagura+NYC+reservations"
+    }
+  },
+  {
+    "id": 435,
+    "name": "Kobano",
+    "notes": "sushi Bowery",
+    "neighborhood": "Bowery",
+    "cuisine_type": "Japanese",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/kobano",
+      "opentable": "https://www.opentable.com/s?term=Kobano&metroId=8",
+      "google": "https://www.google.com/search?q=Kobano+NYC+reservations"
+    }
+  },
+  {
+    "id": 436,
+    "name": "Foreigner",
+    "notes": "cr\u00e8me brul\u00e9e latte Chelsea",
+    "neighborhood": "Chelsea",
+    "cuisine_type": "Coffee/Cafe",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/foreigner",
+      "opentable": "https://www.opentable.com/s?term=Foreigner&metroId=8",
+      "google": "https://www.google.com/search?q=Foreigner+NYC+reservations"
+    }
+  },
+  {
+    "id": 437,
+    "name": "Obvio",
+    "notes": "cocktail bar Nomad",
+    "neighborhood": "NoMad",
+    "cuisine_type": "Bar/Cocktails",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/obvio",
+      "opentable": "https://www.opentable.com/s?term=Obvio&metroId=8",
+      "google": "https://www.google.com/search?q=Obvio+NYC+reservations"
+    }
+  },
+  {
+    "id": 438,
+    "name": "Red Room",
+    "notes": "cocktail bar inside Printmeps, FiDi",
+    "neighborhood": "FiDi",
+    "cuisine_type": "Bar/Cocktails",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/red-room",
+      "opentable": "https://www.opentable.com/s?term=Red+Room&metroId=8",
+      "google": "https://www.google.com/search?q=Red+Room+NYC+reservations"
+    }
+  },
+  {
+    "id": 439,
+    "name": "Lucy's",
+    "notes": "dive bar EV The Nines team",
+    "neighborhood": "East Village",
+    "cuisine_type": "Bar/Cocktails",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/lucys",
+      "opentable": "https://www.opentable.com/s?term=Lucy's&metroId=8",
+      "google": "https://www.google.com/search?q=Lucy's+NYC+reservations"
+    }
+  },
+  {
+    "id": 440,
+    "name": "SGROPINO ALERT)",
+    "notes": "",
+    "neighborhood": "NYC",
+    "cuisine_type": "Other",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/sgropino-alert",
+      "opentable": "https://www.opentable.com/s?term=SGROPINO+ALERT)&metroId=8",
+      "google": "https://www.google.com/search?q=SGROPINO+ALERT)+NYC+reservations"
+    }
+  },
+  {
+    "id": 441,
+    "name": "El Camino",
+    "notes": "cocktail bar EV, well priced",
+    "neighborhood": "East Village",
+    "cuisine_type": "Bar/Cocktails",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/el-camino",
+      "opentable": "https://www.opentable.com/s?term=El+Camino&metroId=8",
+      "google": "https://www.google.com/search?q=El+Camino+NYC+reservations"
+    }
+  },
+  {
+    "id": 442,
+    "name": "Caf\u00e9 Paradiso",
+    "notes": "soho, same owners as Dante, americano w panna cold foam",
+    "neighborhood": "SoHo",
+    "cuisine_type": "American",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/caf-paradiso",
+      "opentable": "https://www.opentable.com/s?term=Caf\u00e9+Paradiso&metroId=8",
+      "google": "https://www.google.com/search?q=Caf\u00e9+Paradiso+NYC+reservations"
+    }
+  },
+  {
+    "id": 443,
+    "name": "Sunlife Organics",
+    "notes": "SoHo",
+    "neighborhood": "SoHo",
+    "cuisine_type": "American",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/sunlife-organics",
+      "opentable": "https://www.opentable.com/s?term=Sunlife+Organics&metroId=8",
+      "google": "https://www.google.com/search?q=Sunlife+Organics+NYC+reservations"
+    }
+  },
+  {
+    "id": 444,
+    "name": "up at Standard EV",
+    "notes": "Mexican",
+    "neighborhood": "East Village",
+    "cuisine_type": "Mexican",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/up-at-standard-ev",
+      "opentable": "https://www.opentable.com/s?term=up+at+Standard+EV&metroId=8",
+      "google": "https://www.google.com/search?q=up+at+Standard+EV+NYC+reservations"
+    }
+  },
+  {
+    "id": 445,
+    "name": "The Little Shop",
+    "notes": "LES speakeasy behind bodega, can plate bodega snacks",
+    "neighborhood": "Lower East Side",
+    "cuisine_type": "Bar/Cocktails",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/the-little-shop",
+      "opentable": "https://www.opentable.com/s?term=The+Little+Shop&metroId=8",
+      "google": "https://www.google.com/search?q=The+Little+Shop+NYC+reservations"
+    }
+  },
+  {
+    "id": 446,
+    "name": "Buba Bureka",
+    "notes": "NYC's first bureka shop Greenwich village",
+    "neighborhood": "Greenwich Village",
+    "cuisine_type": "Middle Eastern",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/buba-bureka",
+      "opentable": "https://www.opentable.com/s?term=Buba+Bureka&metroId=8",
+      "google": "https://www.google.com/search?q=Buba+Bureka+NYC+reservations"
+    }
+  },
+  {
+    "id": 447,
+    "name": "Shirokuro",
+    "notes": "omakase EV unique restaurant design",
+    "neighborhood": "East Village",
+    "cuisine_type": "Japanese",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/shirokuro",
+      "opentable": "https://www.opentable.com/s?term=Shirokuro&metroId=8",
+      "google": "https://www.google.com/search?q=Shirokuro+NYC+reservations"
+    }
+  },
+  {
+    "id": 448,
+    "name": "Bergamo's",
+    "notes": "post work bar to meet men in finance",
+    "neighborhood": "FiDi",
+    "cuisine_type": "Bar/Cocktails",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/bergamos",
+      "opentable": "https://www.opentable.com/s?term=Bergamo's&metroId=8",
+      "google": "https://www.google.com/search?q=Bergamo's+NYC+reservations"
+    }
+  },
+  {
+    "id": 449,
+    "name": "Bar Revival",
+    "notes": "hh LES",
+    "neighborhood": "Lower East Side",
+    "cuisine_type": "Bar/Cocktails",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/bar-revival",
+      "opentable": "https://www.opentable.com/s?term=Bar+Revival&metroId=8",
+      "google": "https://www.google.com/search?q=Bar+Revival+NYC+reservations"
+    }
+  },
+  {
+    "id": 450,
+    "name": "Charcuterie",
+    "notes": "charcuterie boxes and snacks by Central Park entrance 58 and 7th",
+    "neighborhood": "Midtown",
+    "cuisine_type": "American",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/charcuterie",
+      "opentable": "https://www.opentable.com/s?term=Charcuterie&metroId=8",
+      "google": "https://www.google.com/search?q=Charcuterie+NYC+reservations"
+    }
+  },
+  {
+    "id": 451,
+    "name": "Go Go Sing",
+    "notes": "karaoke bar inside Cocodaq",
+    "neighborhood": "Flatiron",
+    "cuisine_type": "Bar/Cocktails",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/go-go-sing",
+      "opentable": "https://www.opentable.com/s?term=Go+Go+Sing&metroId=8",
+      "google": "https://www.google.com/search?q=Go+Go+Sing+NYC+reservations"
+    }
+  },
+  {
+    "id": 452,
+    "name": "Maison Passerelle",
+    "notes": "restaurant inside Printemps FiDi",
+    "neighborhood": "FiDi",
+    "cuisine_type": "French",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/maison-passerelle",
+      "opentable": "https://www.opentable.com/s?term=Maison+Passerelle&metroId=8",
+      "google": "https://www.google.com/search?q=Maison+Passerelle+NYC+reservations"
+    }
+  },
+  {
+    "id": 453,
+    "name": "banchan)",
+    "notes": "",
+    "neighborhood": "NYC",
+    "cuisine_type": "Other",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/banchan",
+      "opentable": "https://www.opentable.com/s?term=banchan)&metroId=8",
+      "google": "https://www.google.com/search?q=banchan)+NYC+reservations"
+    }
+  },
+  {
+    "id": 454,
+    "name": "Peasant",
+    "notes": "Italian nolita giving date",
+    "neighborhood": "Nolita",
+    "cuisine_type": "Italian",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/peasant",
+      "opentable": "https://www.opentable.com/s?term=Peasant&metroId=8",
+      "google": "https://www.google.com/search?q=Peasant+NYC+reservations"
+    }
+  },
+  {
+    "id": 455,
+    "name": "Super Nice Pizza",
+    "notes": "pizza UWS",
+    "neighborhood": "Upper West Side",
+    "cuisine_type": "Italian",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/super-nice-pizza",
+      "opentable": "https://www.opentable.com/s?term=Super+Nice+Pizza&metroId=8",
+      "google": "https://www.google.com/search?q=Super+Nice+Pizza+NYC+reservations"
+    }
+  },
+  {
+    "id": 456,
+    "name": "June 3)",
+    "notes": "",
+    "neighborhood": "NYC",
+    "cuisine_type": "Other",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/june-3",
+      "opentable": "https://www.opentable.com/s?term=June+3)&metroId=8",
+      "google": "https://www.google.com/search?q=June+3)+NYC+reservations"
+    }
+  },
+  {
+    "id": 457,
+    "name": "Gazette",
+    "notes": "wine bar UES fun drinks",
+    "neighborhood": "Upper East Side",
+    "cuisine_type": "Bar/Cocktails",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/gazette",
+      "opentable": "https://www.opentable.com/s?term=Gazette&metroId=8",
+      "google": "https://www.google.com/search?q=Gazette+NYC+reservations"
+    }
+  },
+  {
+    "id": 458,
+    "name": "Dante Apertivio Bar",
+    "notes": "WV",
+    "neighborhood": "West Village",
+    "cuisine_type": "Bar/Cocktails",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/dante-apertivio-bar",
+      "opentable": "https://www.opentable.com/s?term=Dante+Apertivio+Bar&metroId=8",
+      "google": "https://www.google.com/search?q=Dante+Apertivio+Bar+NYC+reservations"
+    }
+  },
+  {
+    "id": 459,
+    "name": "Greenwich Street Tavern",
+    "notes": "Tribeca, go to meet boys watching sports",
+    "neighborhood": "Tribeca",
+    "cuisine_type": "American",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/greenwich-street-tavern",
+      "opentable": "https://www.opentable.com/s?term=Greenwich+Street+Tavern&metroId=8",
+      "google": "https://www.google.com/search?q=Greenwich+Street+Tavern+NYC+reservations"
+    }
+  },
+  {
+    "id": 460,
+    "name": "Bar Bianche",
+    "notes": "apertivio bar EV",
+    "neighborhood": "East Village",
+    "cuisine_type": "Bar/Cocktails",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/bar-bianche",
+      "opentable": "https://www.opentable.com/s?term=Bar+Bianche&metroId=8",
+      "google": "https://www.google.com/search?q=Bar+Bianche+NYC+reservations"
+    }
+  },
+  {
+    "id": 461,
+    "name": "JR & Son",
+    "notes": "rainbow cookie layer cake Greenpoint",
+    "neighborhood": "Greenpoint",
+    "cuisine_type": "Dessert",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/jr-son",
+      "opentable": "https://www.opentable.com/s?term=JR+&+Son&metroId=8",
+      "google": "https://www.google.com/search?q=JR+&+Son+NYC+reservations"
+    }
+  },
+  {
+    "id": 462,
+    "name": "Drai's Supper Club",
+    "notes": "restaurant + cocktail lounge WV",
+    "neighborhood": "West Village",
+    "cuisine_type": "Bar/Cocktails",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/drais-supper-club",
+      "opentable": "https://www.opentable.com/s?term=Drai's+Supper+Club&metroId=8",
+      "google": "https://www.google.com/search?q=Drai's+Supper+Club+NYC+reservations"
+    }
+  },
+  {
+    "id": 463,
+    "name": "People's",
+    "notes": "dinner into going out WV",
+    "neighborhood": "West Village",
+    "cuisine_type": "Bar/Cocktails",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/peoples",
+      "opentable": "https://www.opentable.com/s?term=People's&metroId=8",
+      "google": "https://www.google.com/search?q=People's+NYC+reservations"
+    }
+  },
+  {
+    "id": 464,
+    "name": "Rivareno",
+    "notes": "gelato SoHo",
+    "neighborhood": "SoHo",
+    "cuisine_type": "Dessert",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/rivareno",
+      "opentable": "https://www.opentable.com/s?term=Rivareno&metroId=8",
+      "google": "https://www.google.com/search?q=Rivareno+NYC+reservations"
+    }
+  },
+  {
+    "id": 465,
+    "name": "Adda",
+    "notes": "Indian EV",
+    "neighborhood": "East Village",
+    "cuisine_type": "Indian",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/adda",
+      "opentable": "https://www.opentable.com/s?term=Adda&metroId=8",
+      "google": "https://www.google.com/search?q=Adda+NYC+reservations"
+    }
+  },
+  {
+    "id": 466,
+    "name": "Suki Desu",
+    "notes": "kaisendon UES",
+    "neighborhood": "Upper East Side",
+    "cuisine_type": "Japanese",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/suki-desu",
+      "opentable": "https://www.opentable.com/s?term=Suki+Desu&metroId=8",
+      "google": "https://www.google.com/search?q=Suki+Desu+NYC+reservations"
+    }
+  },
+  {
+    "id": 467,
+    "name": "Papa D'Amour",
+    "notes": "Japanese French fusion bakery by Dominique Ansel Greenwich Village",
+    "neighborhood": "Greenwich Village",
+    "cuisine_type": "Japanese",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/papa-damour",
+      "opentable": "https://www.opentable.com/s?term=Papa+D'Amour&metroId=8",
+      "google": "https://www.google.com/search?q=Papa+D'Amour+NYC+reservations"
+    }
+  },
+  {
+    "id": 468,
+    "name": "Terra",
+    "notes": "healthy fast casual Chelsea",
+    "neighborhood": "Chelsea",
+    "cuisine_type": "American",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/terra",
+      "opentable": "https://www.opentable.com/s?term=Terra&metroId=8",
+      "google": "https://www.google.com/search?q=Terra+NYC+reservations"
+    }
+  },
+  {
+    "id": 469,
+    "name": "Fortuna",
+    "notes": "Israeli Gramercy",
+    "neighborhood": "Gramercy",
+    "cuisine_type": "Mediterranean",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/fortuna",
+      "opentable": "https://www.opentable.com/s?term=Fortuna&metroId=8",
+      "google": "https://www.google.com/search?q=Fortuna+NYC+reservations"
+    }
+  },
+  {
+    "id": 470,
+    "name": "Carinito",
+    "notes": "Michelin star tacos Union Square",
+    "neighborhood": "Union Square",
+    "cuisine_type": "Mexican",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/carinito",
+      "opentable": "https://www.opentable.com/s?term=Carinito&metroId=8",
+      "google": "https://www.google.com/search?q=Carinito+NYC+reservations"
+    }
+  },
+  {
+    "id": 471,
+    "name": "Marlow",
+    "notes": "Mediterranean bistro UES",
+    "neighborhood": "Upper East Side",
+    "cuisine_type": "French",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/marlow",
+      "opentable": "https://www.opentable.com/s?term=Marlow&metroId=8",
+      "google": "https://www.google.com/search?q=Marlow+NYC+reservations"
+    }
+  },
+  {
+    "id": 472,
+    "name": "Mangetsu",
+    "notes": "Japanese speakeasy Chelsea",
+    "neighborhood": "Chelsea",
+    "cuisine_type": "Japanese",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/mangetsu",
+      "opentable": "https://www.opentable.com/s?term=Mangetsu&metroId=8",
+      "google": "https://www.google.com/search?q=Mangetsu+NYC+reservations"
+    }
+  },
+  {
+    "id": 473,
+    "name": "Le Ch\u00eane",
+    "notes": "French WV",
+    "neighborhood": "West Village",
+    "cuisine_type": "French",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/le-chne",
+      "opentable": "https://www.opentable.com/s?term=Le+Ch\u00eane&metroId=8",
+      "google": "https://www.google.com/search?q=Le+Ch\u00eane+NYC+reservations"
+    }
+  },
+  {
+    "id": 474,
+    "name": "Mamma Mezze",
+    "notes": "Mediterranean Flatiron from La Pecora team",
+    "neighborhood": "Flatiron",
+    "cuisine_type": "Mediterranean",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/mamma-mezze",
+      "opentable": "https://www.opentable.com/s?term=Mamma+Mezze&metroId=8",
+      "google": "https://www.google.com/search?q=Mamma+Mezze+NYC+reservations"
+    }
+  },
+  {
+    "id": 475,
+    "name": "Pull Tab Coffee",
+    "notes": "Bryant Park, aerofoam latte",
+    "neighborhood": "Bryant Park",
+    "cuisine_type": "Coffee/Cafe",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/pull-tab-coffee",
+      "opentable": "https://www.opentable.com/s?term=Pull+Tab+Coffee&metroId=8",
+      "google": "https://www.google.com/search?q=Pull+Tab+Coffee+NYC+reservations"
+    }
+  },
+  {
+    "id": 476,
+    "name": "salt foam margs)",
+    "notes": "",
+    "neighborhood": "NYC",
+    "cuisine_type": "Other",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/salt-foam-margs",
+      "opentable": "https://www.opentable.com/s?term=salt+foam+margs)&metroId=8",
+      "google": "https://www.google.com/search?q=salt+foam+margs)+NYC+reservations"
+    }
+  },
+  {
+    "id": 477,
+    "name": "Mymo Kaf\u00e9",
+    "notes": "Dubai chocolate bears Times Square",
+    "neighborhood": "Times Square",
+    "cuisine_type": "Dessert",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/mymo-kaf",
+      "opentable": "https://www.opentable.com/s?term=Mymo+Kaf\u00e9&metroId=8",
+      "google": "https://www.google.com/search?q=Mymo+Kaf\u00e9+NYC+reservations"
+    }
+  },
+  {
+    "id": 478,
+    "name": "The Campbell",
+    "notes": "bar where Nate cheats on Blair gossip girl Midtown",
+    "neighborhood": "Midtown",
+    "cuisine_type": "Bar/Cocktails",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/the-campbell",
+      "opentable": "https://www.opentable.com/s?term=The+Campbell&metroId=8",
+      "google": "https://www.google.com/search?q=The+Campbell+NYC+reservations"
+    }
+  },
+  {
+    "id": 479,
+    "name": "The Chocolate Room",
+    "notes": "Brooklyn chocolate cake!",
+    "neighborhood": "Brooklyn",
+    "cuisine_type": "Dessert",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/the-chocolate-room",
+      "opentable": "https://www.opentable.com/s?term=The+Chocolate+Room&metroId=8",
+      "google": "https://www.google.com/search?q=The+Chocolate+Room+NYC+reservations"
+    }
+  },
+  {
+    "id": 480,
+    "name": "Pantry",
+    "notes": "coffee shop inside Madhappy SoHo",
+    "neighborhood": "SoHo",
+    "cuisine_type": "Coffee/Cafe",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/pantry",
+      "opentable": "https://www.opentable.com/s?term=Pantry&metroId=8",
+      "google": "https://www.google.com/search?q=Pantry+NYC+reservations"
+    }
+  },
+  {
+    "id": 481,
+    "name": "Messy",
+    "notes": "kebab fast casual SoHo",
+    "neighborhood": "SoHo",
+    "cuisine_type": "Middle Eastern",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/messy",
+      "opentable": "https://www.opentable.com/s?term=Messy&metroId=8",
+      "google": "https://www.google.com/search?q=Messy+NYC+reservations"
+    }
+  },
+  {
+    "id": 482,
+    "name": "Milk flower",
+    "notes": "50 top pizza Astoria",
+    "neighborhood": "Astoria",
+    "cuisine_type": "Italian",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/milk-flower",
+      "opentable": "https://www.opentable.com/s?term=Milk+flower&metroId=8",
+      "google": "https://www.google.com/search?q=Milk+flower+NYC+reservations"
+    }
+  },
+  {
+    "id": 483,
+    "name": "All Antico Vinaio",
+    "notes": "happy hour any location drink and half sandwich $15",
+    "neighborhood": "Multiple",
+    "cuisine_type": "Italian",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/all-antico-vinaio",
+      "opentable": "https://www.opentable.com/s?term=All+Antico+Vinaio&metroId=8",
+      "google": "https://www.google.com/search?q=All+Antico+Vinaio+NYC+reservations"
+    }
+  },
+  {
+    "id": 484,
+    "name": "Comal",
+    "notes": "Mexican Chinatown",
+    "neighborhood": "Chinatown",
+    "cuisine_type": "Mexican",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/comal",
+      "opentable": "https://www.opentable.com/s?term=Comal&metroId=8",
+      "google": "https://www.google.com/search?q=Comal+NYC+reservations"
+    }
+  },
+  {
+    "id": 485,
+    "name": "Gelatoville",
+    "notes": "Dubai chocolate gelato Chelsea, Hell's Kitchen",
+    "neighborhood": "Chelsea",
+    "cuisine_type": "Dessert",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/gelatoville",
+      "opentable": "https://www.opentable.com/s?term=Gelatoville&metroId=8",
+      "google": "https://www.google.com/search?q=Gelatoville+NYC+reservations"
+    }
+  },
+  {
+    "id": 486,
+    "name": "Alessa's",
+    "notes": "Italian, Cacio e Pepe butter, hazelnut skillet cookie Parmesan tuille, Penn District",
+    "neighborhood": "Penn District",
+    "cuisine_type": "Italian",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/alessas",
+      "opentable": "https://www.opentable.com/s?term=Alessa's&metroId=8",
+      "google": "https://www.google.com/search?q=Alessa's+NYC+reservations"
+    }
+  },
+  {
+    "id": 487,
+    "name": "Quick Eternity",
+    "notes": "nautical theme wine bar South St seaport",
+    "neighborhood": "South Street Seaport",
+    "cuisine_type": "Bar/Cocktails",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/quick-eternity",
+      "opentable": "https://www.opentable.com/s?term=Quick+Eternity&metroId=8",
+      "google": "https://www.google.com/search?q=Quick+Eternity+NYC+reservations"
+    }
+  },
+  {
+    "id": 488,
+    "name": "The Gyro Project",
+    "notes": "UWS Greek fro yo",
+    "neighborhood": "Upper West Side",
+    "cuisine_type": "Mediterranean",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/the-gyro-project",
+      "opentable": "https://www.opentable.com/s?term=The+Gyro+Project&metroId=8",
+      "google": "https://www.google.com/search?q=The+Gyro+Project+NYC+reservations"
+    }
+  },
+  {
+    "id": 489,
+    "name": "Cuerno",
+    "notes": "Mexican steakhouse theatre district",
+    "neighborhood": "Theatre District",
+    "cuisine_type": "Mexican",
+    "booking_urls": {
+      "resy": "https://resy.com/cities/ny/cuerno",
+      "opentable": "https://www.opentable.com/s?term=Cuerno&metroId=8",
+      "google": "https://www.google.com/search?q=Cuerno+NYC+reservations"
+    }
+  }
+]
