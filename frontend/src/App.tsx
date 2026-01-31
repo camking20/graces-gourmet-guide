@@ -1,5 +1,5 @@
 import { useState, useEffect, useCallback } from 'react';
-import type { Restaurant, Stats, Filters } from './types';
+import type { Restaurant, Stats } from './types';
 import { fetchRestaurants, fetchStats } from './api';
 import { SearchBar } from './components/SearchBar';
 import { FilterBar } from './components/FilterBar';
