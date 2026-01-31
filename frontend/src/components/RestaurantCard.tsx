@@ -5,6 +5,13 @@ interface RestaurantCardProps {
 }
 
 export function RestaurantCard({ restaurant }: RestaurantCardProps) {
+  // Generate reliable Google search URLs for each platform
+  const encodedName = encodeURIComponent(restaurant.name + ' NYC');
+  
+  const resySearchUrl = `https://www.google.com/search?q=${encodedName}+resy+reservations`;
+  const opentableSearchUrl = `https://www.google.com/search?q=${encodedName}+opentable+reservations`;
+  const googleSearchUrl = `https://www.google.com/search?q=${encodedName}+reservations`;
+
   return (
     <div className="bg-white border border-sand/60 p-6 hover:border-stone/30 transition-colors">
       <h3 className="text-lg font-display font-medium text-charcoal mb-2">
@@ -31,38 +38,32 @@ export function RestaurantCard({ restaurant }: RestaurantCardProps) {
 
       <div className="flex items-center gap-4 text-xs pt-4 border-t border-sand/50">
         <span className="text-stone/50 uppercase tracking-wider text-[10px]">Book</span>
-        {restaurant.booking_urls.resy && (
-          <a
-            href={restaurant.booking_urls.resy}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="text-charcoal hover:opacity-60 transition-opacity underline underline-offset-4"
-          >
-            Resy
-          </a>
-        )}
+        <a
+          href={resySearchUrl}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="text-charcoal hover:opacity-60 transition-opacity underline underline-offset-4"
+        >
+          Resy
+        </a>
         
-        {restaurant.booking_urls.opentable && (
-          <a
-            href={restaurant.booking_urls.opentable}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="text-charcoal hover:opacity-60 transition-opacity underline underline-offset-4"
-          >
-            OpenTable
-          </a>
-        )}
+        <a
+          href={opentableSearchUrl}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="text-charcoal hover:opacity-60 transition-opacity underline underline-offset-4"
+        >
+          OpenTable
+        </a>
         
-        {restaurant.booking_urls.google && (
-          <a
-            href={restaurant.booking_urls.google}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="text-stone hover:opacity-60 transition-opacity underline underline-offset-4"
-          >
-            Google
-          </a>
-        )}
+        <a
+          href={googleSearchUrl}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="text-stone hover:opacity-60 transition-opacity underline underline-offset-4"
+        >
+          Google
+        </a>
       </div>
     </div>
   );
