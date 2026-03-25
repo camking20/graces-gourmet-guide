@@ -50,7 +50,7 @@ async def startup():
 
 def load_initial_data(db: Session):
     """Load restaurants from JSON file into database."""
-    json_path = Path("data/restaurants.json")
+    json_path = Path(__file__).parent / "data" / "restaurants.json"
     if not json_path.exists():
         print(f"Warning: {json_path} not found")
         return
