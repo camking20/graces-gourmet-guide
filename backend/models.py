@@ -2,6 +2,7 @@
 Database models for the restaurant notification system.
 """
 
+import os
 from datetime import datetime
 from typing import Optional
 from sqlalchemy import create_engine, Column, Integer, String, Boolean, DateTime, Text, JSON, ForeignKey
@@ -78,9 +79,10 @@ class NotificationLog(Base):
 
 
 # Database setup
-DATABASE_URL = "sqlite:///./data/restaurants.db"
+DATABASE_URL = os.environ.get("DATABASE_URL", "sqlite:///./data/restaurants.db")
 
-engine = create_engine(DATABASE_URL, connect_args={"check_same_thread": False})
+connect_args = {"check_same_thread": False} if DATABASE_URL.startswith("sqlite") else {}
+engine = create_engine(DATABASE_URL, connect_args=connect_args)
 SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)
 
 
