@@ -9,7 +9,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/pasquale-jones",
       "opentable": "https://www.opentable.com/s?term=Pasquale+Jones&metroId=8",
       "google": "https://www.google.com/search?q=Pasquale+Jones+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 2,
@@ -21,7 +22,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/olio-e-pieu",
       "opentable": "https://www.opentable.com/s?term=Olio+e+Pieu&metroId=8",
       "google": "https://www.google.com/search?q=Olio+e+Pieu+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 3,
@@ -33,7 +35,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/atla",
       "opentable": "https://www.opentable.com/s?term=Atla&metroId=8",
       "google": "https://www.google.com/search?q=Atla+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 4,
@@ -45,7 +48,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/oxomoco",
       "opentable": "https://www.opentable.com/s?term=Oxomoco&metroId=8",
       "google": "https://www.google.com/search?q=Oxomoco+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 5,
@@ -57,7 +61,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/kimika",
       "opentable": "https://www.opentable.com/s?term=Kimika&metroId=8",
       "google": "https://www.google.com/search?q=Kimika+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 6,
@@ -69,7 +74,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/vics",
       "opentable": "https://www.opentable.com/s?term=Vic's&metroId=8",
       "google": "https://www.google.com/search?q=Vic's+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 7,
@@ -81,7 +87,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/dudleys",
       "opentable": "https://www.opentable.com/s?term=Dudley's&metroId=8",
       "google": "https://www.google.com/search?q=Dudley's+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 8,
@@ -93,7 +100,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/lartusi",
       "opentable": "https://www.opentable.com/s?term=L'artusi&metroId=8",
       "google": "https://www.google.com/search?q=L'artusi+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 9,
@@ -105,7 +113,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/i-sodi",
       "opentable": "https://www.opentable.com/s?term=I+Sodi&metroId=8",
       "google": "https://www.google.com/search?q=I+Sodi+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 10,
@@ -117,7 +126,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/jue-lan-club",
       "opentable": "https://www.opentable.com/s?term=Jue+Lan+Club&metroId=8",
       "google": "https://www.google.com/search?q=Jue+Lan+Club+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 11,
@@ -129,7 +139,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/little-owl",
       "opentable": "https://www.opentable.com/s?term=Little+Owl&metroId=8",
       "google": "https://www.google.com/search?q=Little+Owl+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 12,
@@ -141,7 +152,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/extra-virgin",
       "opentable": "https://www.opentable.com/s?term=Extra+Virgin&metroId=8",
       "google": "https://www.google.com/search?q=Extra+Virgin+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 13,
@@ -153,7 +165,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/minetta-tavern",
       "opentable": "https://www.opentable.com/s?term=Minetta+Tavern&metroId=8",
       "google": "https://www.google.com/search?q=Minetta+Tavern+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 14,
@@ -165,7 +178,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/4-charles-prime-rib",
       "opentable": "https://www.opentable.com/s?term=4+Charles&metroId=8",
       "google": "https://www.google.com/search?q=4+Charles+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 15,
@@ -177,7 +191,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/rubirosa",
       "opentable": "https://www.opentable.com/s?term=Rubirosa&metroId=8",
       "google": "https://www.google.com/search?q=Rubirosa+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 16,
@@ -189,7 +204,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/sunday-in-brooklyn",
       "opentable": "https://www.opentable.com/s?term=Sunday+in+Brooklyn&metroId=8",
       "google": "https://www.google.com/search?q=Sunday+in+Brooklyn+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 17,
@@ -201,7 +217,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/the-dutch",
       "opentable": "https://www.opentable.com/s?term=The+Dutch&metroId=8",
       "google": "https://www.google.com/search?q=The+Dutch+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 18,
@@ -213,7 +230,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/pinto-garden",
       "opentable": "https://www.opentable.com/s?term=Pinto+Garden&metroId=8",
       "google": "https://www.google.com/search?q=Pinto+Garden+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 19,
@@ -225,7 +243,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/lola-taverna",
       "opentable": "https://www.opentable.com/s?term=Lola+Taverna&metroId=8",
       "google": "https://www.google.com/search?q=Lola+Taverna+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 20,
@@ -237,7 +256,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/boucherie",
       "opentable": "https://www.opentable.com/s?term=Boucherie&metroId=8",
       "google": "https://www.google.com/search?q=Boucherie+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 21,
@@ -249,7 +269,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/au-cheval",
       "opentable": "https://www.opentable.com/s?term=Au+Cheval&metroId=8",
       "google": "https://www.google.com/search?q=Au+Cheval+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 22,
@@ -261,7 +282,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/bubbys",
       "opentable": "https://www.opentable.com/s?term=Bubby's&metroId=8",
       "google": "https://www.google.com/search?q=Bubby's+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 23,
@@ -273,7 +295,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/lilia",
       "opentable": "https://www.opentable.com/s?term=Lilia&metroId=8",
       "google": "https://www.google.com/search?q=Lilia+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 24,
@@ -285,7 +308,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/misi",
       "opentable": "https://www.opentable.com/s?term=Misi&metroId=8",
       "google": "https://www.google.com/search?q=Misi+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 25,
@@ -297,7 +321,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/kyma-flatiron",
       "opentable": "https://www.opentable.com/s?term=Kyma+Flatiron&metroId=8",
       "google": "https://www.google.com/search?q=Kyma+Flatiron+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 26,
@@ -309,7 +334,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/cecconis",
       "opentable": "https://www.opentable.com/s?term=Cecconi's&metroId=8",
       "google": "https://www.google.com/search?q=Cecconi's+NYC+reservations"
-    }
+    },
+    "visited": true
   },
   {
     "id": 27,
@@ -321,7 +347,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/the-smile",
       "opentable": "https://www.opentable.com/s?term=The+Smile&metroId=8",
       "google": "https://www.google.com/search?q=The+Smile+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 28,
@@ -333,7 +360,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/felix-roasting-co",
       "opentable": "https://www.opentable.com/s?term=Felix+Roasting+Co.&metroId=8",
       "google": "https://www.google.com/search?q=Felix+Roasting+Co.+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 29,
@@ -345,7 +373,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/raouls",
       "opentable": "https://www.opentable.com/s?term=Raoul's&metroId=8",
       "google": "https://www.google.com/search?q=Raoul's+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 30,
@@ -357,7 +386,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/los-tacos-no-1",
       "opentable": "https://www.opentable.com/s?term=Los+Tacos+No.+1&metroId=8",
       "google": "https://www.google.com/search?q=Los+Tacos+No.+1+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 31,
@@ -369,7 +399,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/dante",
       "opentable": "https://www.opentable.com/s?term=Dante&metroId=8",
       "google": "https://www.google.com/search?q=Dante+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 32,
@@ -381,7 +412,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/uva",
       "opentable": "https://www.opentable.com/s?term=Uva&metroId=8",
       "google": "https://www.google.com/search?q=Uva+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 33,
@@ -393,7 +425,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/mr-purple",
       "opentable": "https://www.opentable.com/s?term=Mr.+Purple&metroId=8",
       "google": "https://www.google.com/search?q=Mr.+Purple+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 34,
@@ -405,7 +438,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/whipped",
       "opentable": "https://www.opentable.com/s?term=Whipped&metroId=8",
       "google": "https://www.google.com/search?q=Whipped+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 35,
@@ -417,7 +451,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/malibu-farm",
       "opentable": "https://www.opentable.com/s?term=Malibu+Farm&metroId=8",
       "google": "https://www.google.com/search?q=Malibu+Farm+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 36,
@@ -429,7 +464,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/the-fulton",
       "opentable": "https://www.opentable.com/s?term=The+Fulton&metroId=8",
       "google": "https://www.google.com/search?q=The+Fulton+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 37,
@@ -441,7 +477,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/industry-kitchen",
       "opentable": "https://www.opentable.com/s?term=Industry+Kitchen&metroId=8",
       "google": "https://www.google.com/search?q=Industry+Kitchen+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 38,
@@ -453,7 +490,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/keste",
       "opentable": "https://www.opentable.com/s?term=Keste&metroId=8",
       "google": "https://www.google.com/search?q=Keste+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 39,
@@ -465,7 +503,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/joes-pizza",
       "opentable": "https://www.opentable.com/s?term=Joe's+Pizza&metroId=8",
       "google": "https://www.google.com/search?q=Joe's+Pizza+NYC+reservations"
-    }
+    },
+    "visited": true
   },
   {
     "id": 40,
@@ -477,7 +516,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/bleecker-street-pizza",
       "opentable": "https://www.opentable.com/s?term=Bleecker+Street+Pizza&metroId=8",
       "google": "https://www.google.com/search?q=Bleecker+Street+Pizza+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 41,
@@ -489,7 +529,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/fiaschetteria-pistoia",
       "opentable": "https://www.opentable.com/s?term=Fiaschetteria+Pistoia&metroId=8",
       "google": "https://www.google.com/search?q=Fiaschetteria+Pistoia+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 42,
@@ -501,7 +542,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/death-by-pizza",
       "opentable": "https://www.opentable.com/s?term=Death+by+Pizza&metroId=8",
       "google": "https://www.google.com/search?q=Death+by+Pizza+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 43,
@@ -513,7 +555,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/pardon-my-french",
       "opentable": "https://www.opentable.com/s?term=Pardon+my+French&metroId=8",
       "google": "https://www.google.com/search?q=Pardon+my+French+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 44,
@@ -525,7 +568,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/chama-mama",
       "opentable": "https://www.opentable.com/s?term=Chama+Mama&metroId=8",
       "google": "https://www.google.com/search?q=Chama+Mama+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 45,
@@ -537,7 +581,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/surreal-creamery",
       "opentable": "https://www.opentable.com/s?term=Surreal+Creamery&metroId=8",
       "google": "https://www.google.com/search?q=Surreal+Creamery+NYC+reservations"
-    }
+    },
+    "visited": true
   },
   {
     "id": 46,
@@ -549,7 +594,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/jacks-wife-freda",
       "opentable": "https://www.opentable.com/s?term=Jack's+Wife+Freda&metroId=8",
       "google": "https://www.google.com/search?q=Jack's+Wife+Freda+NYC+reservations"
-    }
+    },
+    "visited": true
   },
   {
     "id": 47,
@@ -561,7 +607,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/good-thanks",
       "opentable": "https://www.opentable.com/s?term=Good+Thanks&metroId=8",
       "google": "https://www.google.com/search?q=Good+Thanks+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 48,
@@ -573,7 +620,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/two-hands",
       "opentable": "https://www.opentable.com/s?term=Two+Hands&metroId=8",
       "google": "https://www.google.com/search?q=Two+Hands+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 49,
@@ -585,7 +633,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/sola-pasta-bar",
       "opentable": "https://www.opentable.com/s?term=Sola+Pasta+Bar&metroId=8",
       "google": "https://www.google.com/search?q=Sola+Pasta+Bar+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 50,
@@ -597,7 +646,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/tacovision",
       "opentable": "https://www.opentable.com/s?term=Tacovision&metroId=8",
       "google": "https://www.google.com/search?q=Tacovision+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 51,
@@ -609,7 +659,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/berimbau",
       "opentable": "https://www.opentable.com/s?term=Berimbau&metroId=8",
       "google": "https://www.google.com/search?q=Berimbau+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 52,
@@ -621,7 +672,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/donut-pub",
       "opentable": "https://www.opentable.com/s?term=Donut+Pub&metroId=8",
       "google": "https://www.google.com/search?q=Donut+Pub+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 53,
@@ -633,7 +685,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/banter",
       "opentable": "https://www.opentable.com/s?term=Banter&metroId=8",
       "google": "https://www.google.com/search?q=Banter+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 54,
@@ -645,7 +698,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/lb-spumoni-gardens",
       "opentable": "https://www.opentable.com/s?term=L&B+Spumoni+Gardens&metroId=8",
       "google": "https://www.google.com/search?q=L&B+Spumoni+Gardens+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 55,
@@ -657,7 +711,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/frenchette",
       "opentable": "https://www.opentable.com/s?term=Frenchette&metroId=8",
       "google": "https://www.google.com/search?q=Frenchette+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 56,
@@ -669,7 +724,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/rosemarys",
       "opentable": "https://www.opentable.com/s?term=Rosemary's&metroId=8",
       "google": "https://www.google.com/search?q=Rosemary's+NYC+reservations"
-    }
+    },
+    "visited": true
   },
   {
     "id": 57,
@@ -681,7 +737,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/le-crocodile",
       "opentable": "https://www.opentable.com/s?term=Le+Crocodile&metroId=8",
       "google": "https://www.google.com/search?q=Le+Crocodile+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 58,
@@ -693,7 +750,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/forsythia",
       "opentable": "https://www.opentable.com/s?term=Forsythia&metroId=8",
       "google": "https://www.google.com/search?q=Forsythia+NYC+reservations"
-    }
+    },
+    "visited": true
   },
   {
     "id": 59,
@@ -705,7 +763,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/gemma-at-the-bowery-hotel",
       "opentable": "https://www.opentable.com/s?term=Gemma+at+the+Bowery+Hotel&metroId=8",
       "google": "https://www.google.com/search?q=Gemma+at+the+Bowery+Hotel+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 60,
@@ -717,7 +776,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/sunflower-cafe",
       "opentable": "https://www.opentable.com/s?term=Sunflower+Cafe&metroId=8",
       "google": "https://www.google.com/search?q=Sunflower+Cafe+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 61,
@@ -729,7 +789,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/the-market-line",
       "opentable": "https://www.opentable.com/s?term=The+Market+Line&metroId=8",
       "google": "https://www.google.com/search?q=The+Market+Line+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 62,
@@ -741,7 +802,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/biga-bite",
       "opentable": "https://www.opentable.com/s?term=Biga+Bite&metroId=8",
       "google": "https://www.google.com/search?q=Biga+Bite+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 63,
@@ -753,7 +815,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/butler-coffee",
       "opentable": "https://www.opentable.com/s?term=Butler+Coffee&metroId=8",
       "google": "https://www.google.com/search?q=Butler+Coffee+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 64,
@@ -765,7 +828,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/angelina-paris",
       "opentable": "https://www.opentable.com/s?term=Angelina+Paris&metroId=8",
       "google": "https://www.google.com/search?q=Angelina+Paris+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 65,
@@ -777,7 +841,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/golden-diner",
       "opentable": "https://www.opentable.com/s?term=Golden+Diner&metroId=8",
       "google": "https://www.google.com/search?q=Golden+Diner+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 66,
@@ -789,7 +854,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/meno",
       "opentable": "https://www.opentable.com/s?term=MENO&metroId=8",
       "google": "https://www.google.com/search?q=MENO+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 67,
@@ -801,7 +867,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/zehr",
       "opentable": "https://www.opentable.com/s?term=Zehr&metroId=8",
       "google": "https://www.google.com/search?q=Zehr+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 68,
@@ -813,7 +880,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/thai-diner",
       "opentable": "https://www.opentable.com/s?term=Thai+Diner&metroId=8",
       "google": "https://www.google.com/search?q=Thai+Diner+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 69,
@@ -825,7 +893,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/roeys",
       "opentable": "https://www.opentable.com/s?term=Roey's&metroId=8",
       "google": "https://www.google.com/search?q=Roey's+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 70,
@@ -837,7 +906,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/locanda-verde",
       "opentable": "https://www.opentable.com/s?term=Locanda+Verde&metroId=8",
       "google": "https://www.google.com/search?q=Locanda+Verde+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 71,
@@ -849,7 +919,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/il-fiorista",
       "opentable": "https://www.opentable.com/s?term=Il+Fiorista&metroId=8",
       "google": "https://www.google.com/search?q=Il+Fiorista+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 72,
@@ -861,7 +932,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/anfora",
       "opentable": "https://www.opentable.com/s?term=Anfora&metroId=8",
       "google": "https://www.google.com/search?q=Anfora+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 73,
@@ -873,7 +945,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/mister-dips",
       "opentable": "https://www.opentable.com/s?term=Mister+Dips&metroId=8",
       "google": "https://www.google.com/search?q=Mister+Dips+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 74,
@@ -885,7 +958,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/pheasant",
       "opentable": "https://www.opentable.com/s?term=Pheasant&metroId=8",
       "google": "https://www.google.com/search?q=Pheasant+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 75,
@@ -897,7 +971,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/rule-of-thirds",
       "opentable": "https://www.opentable.com/s?term=Rule+of+Thirds&metroId=8",
       "google": "https://www.google.com/search?q=Rule+of+Thirds+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 76,
@@ -909,7 +984,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/babs",
       "opentable": "https://www.opentable.com/s?term=Babs&metroId=8",
       "google": "https://www.google.com/search?q=Babs+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 77,
@@ -921,7 +997,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/question",
       "opentable": "https://www.opentable.com/s?term=Question&metroId=8",
       "google": "https://www.google.com/search?q=Question+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 78,
@@ -933,7 +1010,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/vallata",
       "opentable": "https://www.opentable.com/s?term=Vallata&metroId=8",
       "google": "https://www.google.com/search?q=Vallata+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 79,
@@ -945,7 +1023,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/cafe-cluny",
       "opentable": "https://www.opentable.com/s?term=Cafe+Cluny&metroId=8",
       "google": "https://www.google.com/search?q=Cafe+Cluny+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 80,
@@ -957,7 +1036,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/maki-kosaka",
       "opentable": "https://www.opentable.com/s?term=Maki+Kosaka&metroId=8",
       "google": "https://www.google.com/search?q=Maki+Kosaka+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 81,
@@ -969,7 +1049,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/sushi-on-jone",
       "opentable": "https://www.opentable.com/s?term=Sushi+on+Jone&metroId=8",
       "google": "https://www.google.com/search?q=Sushi+on+Jone+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 82,
@@ -981,7 +1062,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/bandits",
       "opentable": "https://www.opentable.com/s?term=Bandits&metroId=8",
       "google": "https://www.google.com/search?q=Bandits+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 83,
@@ -993,7 +1075,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/cobble-co",
       "opentable": "https://www.opentable.com/s?term=Cobble+&+Co&metroId=8",
       "google": "https://www.google.com/search?q=Cobble+&+Co+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 84,
@@ -1005,7 +1088,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/kubeh",
       "opentable": "https://www.opentable.com/s?term=Kubeh&metroId=8",
       "google": "https://www.google.com/search?q=Kubeh+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 85,
@@ -1017,7 +1101,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/her-name-was-carmen",
       "opentable": "https://www.opentable.com/s?term=Her+Name+Was+Carmen&metroId=8",
       "google": "https://www.google.com/search?q=Her+Name+Was+Carmen+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 86,
@@ -1029,7 +1114,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/hudson-clearwater",
       "opentable": "https://www.opentable.com/s?term=Hudson+Clearwater&metroId=8",
       "google": "https://www.google.com/search?q=Hudson+Clearwater+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 87,
@@ -1041,7 +1127,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/davelle",
       "opentable": "https://www.opentable.com/s?term=Davelle&metroId=8",
       "google": "https://www.google.com/search?q=Davelle+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 88,
@@ -1053,7 +1140,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/planta-nomad",
       "opentable": "https://www.opentable.com/s?term=Planta+Nomad&metroId=8",
       "google": "https://www.google.com/search?q=Planta+Nomad+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 89,
@@ -1065,7 +1153,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/nur",
       "opentable": "https://www.opentable.com/s?term=Nur&metroId=8",
       "google": "https://www.google.com/search?q=Nur+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 90,
@@ -1077,7 +1166,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/jolene",
       "opentable": "https://www.opentable.com/s?term=Jolene&metroId=8",
       "google": "https://www.google.com/search?q=Jolene+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 91,
@@ -1089,7 +1179,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/milu",
       "opentable": "https://www.opentable.com/s?term=Milu&metroId=8",
       "google": "https://www.google.com/search?q=Milu+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 92,
@@ -1101,7 +1192,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/xilonen",
       "opentable": "https://www.opentable.com/s?term=Xilonen&metroId=8",
       "google": "https://www.google.com/search?q=Xilonen+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 93,
@@ -1113,7 +1205,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/fan-fan-donuts",
       "opentable": "https://www.opentable.com/s?term=Fan+Fan+Donuts&metroId=8",
       "google": "https://www.google.com/search?q=Fan+Fan+Donuts+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 94,
@@ -1125,7 +1218,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/peasant",
       "opentable": "https://www.opentable.com/s?term=Peasant&metroId=8",
       "google": "https://www.google.com/search?q=Peasant+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 95,
@@ -1137,7 +1231,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/sunday-to-sunday",
       "opentable": "https://www.opentable.com/s?term=Sunday+to+Sunday&metroId=8",
       "google": "https://www.google.com/search?q=Sunday+to+Sunday+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 96,
@@ -1149,7 +1244,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/seven-grams-caffe",
       "opentable": "https://www.opentable.com/s?term=Seven+Grams+Caffe&metroId=8",
       "google": "https://www.google.com/search?q=Seven+Grams+Caffe+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 97,
@@ -1161,7 +1257,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/dough",
       "opentable": "https://www.opentable.com/s?term=Dough&metroId=8",
       "google": "https://www.google.com/search?q=Dough+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 98,
@@ -1173,7 +1270,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/ume",
       "opentable": "https://www.opentable.com/s?term=Ume&metroId=8",
       "google": "https://www.google.com/search?q=Ume+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 99,
@@ -1185,7 +1283,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/momofuku-ko",
       "opentable": "https://www.opentable.com/s?term=Momofuku+Ko&metroId=8",
       "google": "https://www.google.com/search?q=Momofuku+Ko+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 100,
@@ -1197,7 +1296,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/momofuku-ssam-bar",
       "opentable": "https://www.opentable.com/s?term=Momofuku+Ssam+Bar&metroId=8",
       "google": "https://www.google.com/search?q=Momofuku+Ssam+Bar+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 101,
@@ -1209,7 +1309,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/momofuku-noodle-bar",
       "opentable": "https://www.opentable.com/s?term=Momofuku+Noodle+Bar&metroId=8",
       "google": "https://www.google.com/search?q=Momofuku+Noodle+Bar+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 102,
@@ -1221,7 +1322,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/yellow-rose",
       "opentable": "https://www.opentable.com/s?term=Yellow+Rose&metroId=8",
       "google": "https://www.google.com/search?q=Yellow+Rose+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 103,
@@ -1233,7 +1335,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/gilligans",
       "opentable": "https://www.opentable.com/s?term=Gilligan's&metroId=8",
       "google": "https://www.google.com/search?q=Gilligan's+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 104,
@@ -1245,7 +1348,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/gallow-green",
       "opentable": "https://www.opentable.com/s?term=Gallow+Green&metroId=8",
       "google": "https://www.google.com/search?q=Gallow+Green+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 105,
@@ -1257,7 +1361,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/la-esquina",
       "opentable": "https://www.opentable.com/s?term=La+Esquina&metroId=8",
       "google": "https://www.google.com/search?q=La+Esquina+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 106,
@@ -1269,7 +1374,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/lamias-fish-market",
       "opentable": "https://www.opentable.com/s?term=Lamia's+Fish+Market&metroId=8",
       "google": "https://www.google.com/search?q=Lamia's+Fish+Market+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 107,
@@ -1281,7 +1387,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/westville",
       "opentable": "https://www.opentable.com/s?term=Westville&metroId=8",
       "google": "https://www.google.com/search?q=Westville+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 108,
@@ -1293,7 +1400,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/bartusi",
       "opentable": "https://www.opentable.com/s?term=B'artusi&metroId=8",
       "google": "https://www.google.com/search?q=B'artusi+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 109,
@@ -1305,7 +1413,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/via-porta",
       "opentable": "https://www.opentable.com/s?term=Via+Porta&metroId=8",
       "google": "https://www.google.com/search?q=Via+Porta+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 110,
@@ -1317,7 +1426,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/acme",
       "opentable": "https://www.opentable.com/s?term=Acme&metroId=8",
       "google": "https://www.google.com/search?q=Acme+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 111,
@@ -1329,7 +1439,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/baby-lucs",
       "opentable": "https://www.opentable.com/s?term=Baby+Luc's&metroId=8",
       "google": "https://www.google.com/search?q=Baby+Luc's+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 112,
@@ -1341,7 +1452,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/the-campbell",
       "opentable": "https://www.opentable.com/s?term=The+Campbell&metroId=8",
       "google": "https://www.google.com/search?q=The+Campbell+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 113,
@@ -1353,7 +1465,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/public-records",
       "opentable": "https://www.opentable.com/s?term=Public+Records&metroId=8",
       "google": "https://www.google.com/search?q=Public+Records+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 114,
@@ -1365,7 +1478,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/the-spaniard",
       "opentable": "https://www.opentable.com/s?term=The+Spaniard&metroId=8",
       "google": "https://www.google.com/search?q=The+Spaniard+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 115,
@@ -1377,7 +1491,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/garrett-east",
       "opentable": "https://www.opentable.com/s?term=Garrett+East&metroId=8",
       "google": "https://www.google.com/search?q=Garrett+East+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 116,
@@ -1389,7 +1504,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/east-village-pizza",
       "opentable": "https://www.opentable.com/s?term=East+Village+Pizza&metroId=8",
       "google": "https://www.google.com/search?q=East+Village+Pizza+NYC+reservations"
-    }
+    },
+    "visited": true
   },
   {
     "id": 117,
@@ -1401,7 +1517,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/sonnyboy",
       "opentable": "https://www.opentable.com/s?term=Sonnyboy&metroId=8",
       "google": "https://www.google.com/search?q=Sonnyboy+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 118,
@@ -1413,7 +1530,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/terrace-at-edition",
       "opentable": "https://www.opentable.com/s?term=Terrace+at+Edition&metroId=8",
       "google": "https://www.google.com/search?q=Terrace+at+Edition+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 119,
@@ -1425,7 +1543,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/corner-bistro",
       "opentable": "https://www.opentable.com/s?term=Corner+Bistro&metroId=8",
       "google": "https://www.google.com/search?q=Corner+Bistro+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 120,
@@ -1437,7 +1556,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/urban-backyard",
       "opentable": "https://www.opentable.com/s?term=Urban+Backyard&metroId=8",
       "google": "https://www.google.com/search?q=Urban+Backyard+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 121,
@@ -1449,7 +1569,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/one-white-street",
       "opentable": "https://www.opentable.com/s?term=One+White+Street&metroId=8",
       "google": "https://www.google.com/search?q=One+White+Street+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 122,
@@ -1461,7 +1582,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/morgansterns-burgers-fries-and-pies",
       "opentable": "https://www.opentable.com/s?term=Morganstern's+Burgers,+Fries,+and+Pies&metroId=8",
       "google": "https://www.google.com/search?q=Morganstern's+Burgers,+Fries,+and+Pies+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 123,
@@ -1473,7 +1595,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/dame",
       "opentable": "https://www.opentable.com/s?term=Dame&metroId=8",
       "google": "https://www.google.com/search?q=Dame+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 124,
@@ -1485,7 +1608,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/puglia",
       "opentable": "https://www.opentable.com/s?term=Puglia&metroId=8",
       "google": "https://www.google.com/search?q=Puglia+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 125,
@@ -1497,7 +1621,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/sisters-brooklyn",
       "opentable": "https://www.opentable.com/s?term=Sisters+Brooklyn&metroId=8",
       "google": "https://www.google.com/search?q=Sisters+Brooklyn+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 126,
@@ -1509,7 +1634,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/cervos",
       "opentable": "https://www.opentable.com/s?term=Cervo's&metroId=8",
       "google": "https://www.google.com/search?q=Cervo's+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 127,
@@ -1521,7 +1647,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/contra",
       "opentable": "https://www.opentable.com/s?term=Contra&metroId=8",
       "google": "https://www.google.com/search?q=Contra+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 128,
@@ -1533,7 +1660,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/joseph-leonard",
       "opentable": "https://www.opentable.com/s?term=Joseph+Leonard&metroId=8",
       "google": "https://www.google.com/search?q=Joseph+Leonard+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 129,
@@ -1545,7 +1673,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/ro-burgies",
       "opentable": "https://www.opentable.com/s?term=Ro+Burgies&metroId=8",
       "google": "https://www.google.com/search?q=Ro+Burgies+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 130,
@@ -1557,7 +1686,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/song-e-napule",
       "opentable": "https://www.opentable.com/s?term=Song+E+Napule&metroId=8",
       "google": "https://www.google.com/search?q=Song+E+Napule+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 131,
@@ -1569,7 +1699,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/wolfnights",
       "opentable": "https://www.opentable.com/s?term=Wolfnight's&metroId=8",
       "google": "https://www.google.com/search?q=Wolfnight's+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 132,
@@ -1581,7 +1712,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/smashed-burger",
       "opentable": "https://www.opentable.com/s?term=Smashed+Burger&metroId=8",
       "google": "https://www.google.com/search?q=Smashed+Burger+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 133,
@@ -1593,7 +1725,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/palma",
       "opentable": "https://www.opentable.com/s?term=Palma&metroId=8",
       "google": "https://www.google.com/search?q=Palma+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 134,
@@ -1605,7 +1738,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/coco-pazzeria",
       "opentable": "https://www.opentable.com/s?term=Coco+Pazzeria&metroId=8",
       "google": "https://www.google.com/search?q=Coco+Pazzeria+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 135,
@@ -1617,7 +1751,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/nats-on-bank",
       "opentable": "https://www.opentable.com/s?term=Nat's+on+Bank&metroId=8",
       "google": "https://www.google.com/search?q=Nat's+on+Bank+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 136,
@@ -1629,7 +1764,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/republic-of-booza",
       "opentable": "https://www.opentable.com/s?term=Republic+of+Booza&metroId=8",
       "google": "https://www.google.com/search?q=Republic+of+Booza+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 137,
@@ -1641,7 +1777,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/bernies",
       "opentable": "https://www.opentable.com/s?term=Bernies&metroId=8",
       "google": "https://www.google.com/search?q=Bernies+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 138,
@@ -1653,7 +1790,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/root-bone",
       "opentable": "https://www.opentable.com/s?term=Root+&+Bone&metroId=8",
       "google": "https://www.google.com/search?q=Root+&+Bone+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 139,
@@ -1665,7 +1803,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/saint-theos",
       "opentable": "https://www.opentable.com/s?term=Saint+Theo's&metroId=8",
       "google": "https://www.google.com/search?q=Saint+Theo's+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 140,
@@ -1677,7 +1816,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/portale",
       "opentable": "https://www.opentable.com/s?term=Portale&metroId=8",
       "google": "https://www.google.com/search?q=Portale+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 141,
@@ -1689,7 +1829,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/bronsons-burgers",
       "opentable": "https://www.opentable.com/s?term=Bronson's+Burgers&metroId=8",
       "google": "https://www.google.com/search?q=Bronson's+Burgers+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 142,
@@ -1701,7 +1842,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/honestea",
       "opentable": "https://www.opentable.com/s?term=Honestea&metroId=8",
       "google": "https://www.google.com/search?q=Honestea+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 143,
@@ -1713,7 +1855,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/zizi",
       "opentable": "https://www.opentable.com/s?term=ZIZI&metroId=8",
       "google": "https://www.google.com/search?q=ZIZI+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 144,
@@ -1725,7 +1868,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/tacos-guey",
       "opentable": "https://www.opentable.com/s?term=Tacos+Guey&metroId=8",
       "google": "https://www.google.com/search?q=Tacos+Guey+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 145,
@@ -1737,7 +1881,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/harris-bakes",
       "opentable": "https://www.opentable.com/s?term=Harris+Bakes&metroId=8",
       "google": "https://www.google.com/search?q=Harris+Bakes+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 146,
@@ -1749,7 +1894,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/steves-authentic-key-lime-pies",
       "opentable": "https://www.opentable.com/s?term=Steve's+Authentic+Key+Lime+Pies&metroId=8",
       "google": "https://www.google.com/search?q=Steve's+Authentic+Key+Lime+Pies+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 147,
@@ -1761,7 +1907,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/brooklyn-delicatessen",
       "opentable": "https://www.opentable.com/s?term=Brooklyn+Delicatessen&metroId=8",
       "google": "https://www.google.com/search?q=Brooklyn+Delicatessen+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 148,
@@ -1773,7 +1920,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/gallow-green",
       "opentable": "https://www.opentable.com/s?term=Gallow+Green&metroId=8",
       "google": "https://www.google.com/search?q=Gallow+Green+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 149,
@@ -1785,7 +1933,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/culture-espresso",
       "opentable": "https://www.opentable.com/s?term=Culture+Espresso&metroId=8",
       "google": "https://www.google.com/search?q=Culture+Espresso+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 150,
@@ -1797,7 +1946,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/brooklyn-crab",
       "opentable": "https://www.opentable.com/s?term=Brooklyn+Crab&metroId=8",
       "google": "https://www.google.com/search?q=Brooklyn+Crab+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 151,
@@ -1809,7 +1959,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/lodi",
       "opentable": "https://www.opentable.com/s?term=Lodi&metroId=8",
       "google": "https://www.google.com/search?q=Lodi+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 152,
@@ -1821,7 +1972,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/little-shop",
       "opentable": "https://www.opentable.com/s?term=Little+Shop&metroId=8",
       "google": "https://www.google.com/search?q=Little+Shop+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 153,
@@ -1833,7 +1985,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/day-drinks",
       "opentable": "https://www.opentable.com/s?term=Day+Drinks&metroId=8",
       "google": "https://www.google.com/search?q=Day+Drinks+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 154,
@@ -1845,7 +1998,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/employees-only",
       "opentable": "https://www.opentable.com/s?term=Employees+Only&metroId=8",
       "google": "https://www.google.com/search?q=Employees+Only+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 155,
@@ -1857,7 +2011,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/canary-club",
       "opentable": "https://www.opentable.com/s?term=Canary+Club&metroId=8",
       "google": "https://www.google.com/search?q=Canary+Club+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 156,
@@ -1869,7 +2024,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/friend-of-a-farmer",
       "opentable": "https://www.opentable.com/s?term=Friend+of+a+Farmer&metroId=8",
       "google": "https://www.google.com/search?q=Friend+of+a+Farmer+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 157,
@@ -1881,7 +2037,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/ribbalta",
       "opentable": "https://www.opentable.com/s?term=Ribbalta&metroId=8",
       "google": "https://www.google.com/search?q=Ribbalta+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 158,
@@ -1893,7 +2050,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/temperance",
       "opentable": "https://www.opentable.com/s?term=Temperance&metroId=8",
       "google": "https://www.google.com/search?q=Temperance+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 159,
@@ -1905,7 +2063,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/st-jardim",
       "opentable": "https://www.opentable.com/s?term=St.+Jardim&metroId=8",
       "google": "https://www.google.com/search?q=St.+Jardim+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 160,
@@ -1917,7 +2076,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/breakfast-by-salts-cure",
       "opentable": "https://www.opentable.com/s?term=Breakfast+by+Salt's+Cure&metroId=8",
       "google": "https://www.google.com/search?q=Breakfast+by+Salt's+Cure+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 161,
@@ -1929,7 +2089,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/ci-siamo",
       "opentable": "https://www.opentable.com/s?term=Ci+Siamo&metroId=8",
       "google": "https://www.google.com/search?q=Ci+Siamo+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 162,
@@ -1941,7 +2102,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/sami-and-susu",
       "opentable": "https://www.opentable.com/s?term=Sami+and+Susu&metroId=8",
       "google": "https://www.google.com/search?q=Sami+and+Susu+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 163,
@@ -1953,7 +2115,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/resident",
       "opentable": "https://www.opentable.com/s?term=Resident&metroId=8",
       "google": "https://www.google.com/search?q=Resident+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 164,
@@ -1965,7 +2128,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/sogno-toscano",
       "opentable": "https://www.opentable.com/s?term=Sogno+Toscano&metroId=8",
       "google": "https://www.google.com/search?q=Sogno+Toscano+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 165,
@@ -1977,7 +2141,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/the-commerce-inn",
       "opentable": "https://www.opentable.com/s?term=The+commerce+inn&metroId=8",
       "google": "https://www.google.com/search?q=The+commerce+inn+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 166,
@@ -1989,7 +2154,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/bambina-blue",
       "opentable": "https://www.opentable.com/s?term=Bambina+Blue&metroId=8",
       "google": "https://www.google.com/search?q=Bambina+Blue+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 167,
@@ -2001,7 +2167,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/il-cantinori",
       "opentable": "https://www.opentable.com/s?term=Il+cantinori&metroId=8",
       "google": "https://www.google.com/search?q=Il+cantinori+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 168,
@@ -2013,7 +2180,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/miracle-on-9th-street",
       "opentable": "https://www.opentable.com/s?term=Miracle+on+9th+Street&metroId=8",
       "google": "https://www.google.com/search?q=Miracle+on+9th+Street+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 169,
@@ -2025,7 +2193,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/emmetts-on-grove",
       "opentable": "https://www.opentable.com/s?term=Emmetts+on+Grove&metroId=8",
       "google": "https://www.google.com/search?q=Emmetts+on+Grove+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 170,
@@ -2037,7 +2206,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/zou-zous",
       "opentable": "https://www.opentable.com/s?term=Zou+Zou's&metroId=8",
       "google": "https://www.google.com/search?q=Zou+Zou's+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 171,
@@ -2049,7 +2219,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/lamalo",
       "opentable": "https://www.opentable.com/s?term=Lamalo&metroId=8",
       "google": "https://www.google.com/search?q=Lamalo+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 172,
@@ -2061,7 +2232,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/8282",
       "opentable": "https://www.opentable.com/s?term=8282&metroId=8",
       "google": "https://www.google.com/search?q=8282+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 173,
@@ -2073,7 +2245,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/hawksmoor",
       "opentable": "https://www.opentable.com/s?term=Hawksmoor&metroId=8",
       "google": "https://www.google.com/search?q=Hawksmoor+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 174,
@@ -2085,7 +2258,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/jack-and-charlies-118",
       "opentable": "https://www.opentable.com/s?term=Jack+and+Charlie's+118&metroId=8",
       "google": "https://www.google.com/search?q=Jack+and+Charlie's+118+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 175,
@@ -2097,7 +2271,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/earthage-must-be-destroyed",
       "opentable": "https://www.opentable.com/s?term=Earthage+Must+Be+Destroyed&metroId=8",
       "google": "https://www.google.com/search?q=Earthage+Must+Be+Destroyed+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 176,
@@ -2109,7 +2284,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/bar-bte",
       "opentable": "https://www.opentable.com/s?term=Bar+B\u00eate&metroId=8",
       "google": "https://www.google.com/search?q=Bar+B\u00eate+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 177,
@@ -2121,7 +2297,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/scen",
       "opentable": "https://www.opentable.com/s?term=Scen&metroId=8",
       "google": "https://www.google.com/search?q=Scen+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 178,
@@ -2133,7 +2310,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/una-pizza-napoleotana",
       "opentable": "https://www.opentable.com/s?term=Una+Pizza+Napoleotana&metroId=8",
       "google": "https://www.google.com/search?q=Una+Pizza+Napoleotana+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 179,
@@ -2145,7 +2323,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/bar-tulix",
       "opentable": "https://www.opentable.com/s?term=Bar+Tulix&metroId=8",
       "google": "https://www.google.com/search?q=Bar+Tulix+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 180,
@@ -2157,7 +2336,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/mels",
       "opentable": "https://www.opentable.com/s?term=Mel's&metroId=8",
       "google": "https://www.google.com/search?q=Mel's+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 181,
@@ -2169,7 +2349,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/maneros-pizza",
       "opentable": "https://www.opentable.com/s?term=Manero's+Pizza&metroId=8",
       "google": "https://www.google.com/search?q=Manero's+Pizza+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 182,
@@ -2181,7 +2362,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/ten-thousand-coffee",
       "opentable": "https://www.opentable.com/s?term=Ten+Thousand+Coffee&metroId=8",
       "google": "https://www.google.com/search?q=Ten+Thousand+Coffee+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 183,
@@ -2193,7 +2375,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/overstory",
       "opentable": "https://www.opentable.com/s?term=Overstory&metroId=8",
       "google": "https://www.google.com/search?q=Overstory+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 184,
@@ -2205,7 +2388,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/la-cabra",
       "opentable": "https://www.opentable.com/s?term=La+Cabra&metroId=8",
       "google": "https://www.google.com/search?q=La+Cabra+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 185,
@@ -2217,7 +2401,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/casa-carmen",
       "opentable": "https://www.opentable.com/s?term=Casa+Carmen&metroId=8",
       "google": "https://www.google.com/search?q=Casa+Carmen+NYC+reservations"
-    }
+    },
+    "visited": true
   },
   {
     "id": 186,
@@ -2229,7 +2414,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/the-four-horsemen",
       "opentable": "https://www.opentable.com/s?term=The+Four+Horsemen&metroId=8",
       "google": "https://www.google.com/search?q=The+Four+Horsemen+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 187,
@@ -2241,7 +2427,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/kyu",
       "opentable": "https://www.opentable.com/s?term=KYU&metroId=8",
       "google": "https://www.google.com/search?q=KYU+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 188,
@@ -2253,7 +2440,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/mel",
       "opentable": "https://www.opentable.com/s?term=Mel&metroId=8",
       "google": "https://www.google.com/search?q=Mel+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 189,
@@ -2265,7 +2453,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/alice",
       "opentable": "https://www.opentable.com/s?term=Alice&metroId=8",
       "google": "https://www.google.com/search?q=Alice+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 190,
@@ -2277,7 +2466,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/the-ready-rooftop",
       "opentable": "https://www.opentable.com/s?term=The+Ready+Rooftop&metroId=8",
       "google": "https://www.google.com/search?q=The+Ready+Rooftop+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 191,
@@ -2289,7 +2479,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/five-leaves",
       "opentable": "https://www.opentable.com/s?term=Five+Leaves&metroId=8",
       "google": "https://www.google.com/search?q=Five+Leaves+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 192,
@@ -2301,7 +2492,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/omakaseed",
       "opentable": "https://www.opentable.com/s?term=Omakaseed&metroId=8",
       "google": "https://www.google.com/search?q=Omakaseed+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 193,
@@ -2313,7 +2505,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/le-gamin",
       "opentable": "https://www.opentable.com/s?term=Le+Gamin&metroId=8",
       "google": "https://www.google.com/search?q=Le+Gamin+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 194,
@@ -2325,7 +2518,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/holy-water",
       "opentable": "https://www.opentable.com/s?term=Holy+Water&metroId=8",
       "google": "https://www.google.com/search?q=Holy+Water+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 195,
@@ -2337,7 +2531,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/da-toscano",
       "opentable": "https://www.opentable.com/s?term=Da+Toscano&metroId=8",
       "google": "https://www.google.com/search?q=Da+Toscano+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 196,
@@ -2349,7 +2544,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/little-charli",
       "opentable": "https://www.opentable.com/s?term=Little+Charli&metroId=8",
       "google": "https://www.google.com/search?q=Little+Charli+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 197,
@@ -2361,7 +2557,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/maki-kosaka",
       "opentable": "https://www.opentable.com/s?term=Maki+Kosaka&metroId=8",
       "google": "https://www.google.com/search?q=Maki+Kosaka+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 199,
@@ -2373,7 +2570,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/dnd",
       "opentable": "https://www.opentable.com/s?term=DND&metroId=8",
       "google": "https://www.google.com/search?q=DND+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 200,
@@ -2385,7 +2583,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/bar-pasquale",
       "opentable": "https://www.opentable.com/s?term=Bar+Pasquale&metroId=8",
       "google": "https://www.google.com/search?q=Bar+Pasquale+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 201,
@@ -2397,7 +2596,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/maison-premiere",
       "opentable": "https://www.opentable.com/s?term=Maison+Premiere&metroId=8",
       "google": "https://www.google.com/search?q=Maison+Premiere+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 202,
@@ -2409,7 +2609,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/harrys-table",
       "opentable": "https://www.opentable.com/s?term=Harry's+Table&metroId=8",
       "google": "https://www.google.com/search?q=Harry's+Table+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 203,
@@ -2421,7 +2622,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/emilia-by-nai-x-coffee-project",
       "opentable": "https://www.opentable.com/s?term=Emilia+by+Nai+x+Coffee+Project&metroId=8",
       "google": "https://www.google.com/search?q=Emilia+by+Nai+x+Coffee+Project+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 204,
@@ -2433,7 +2635,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/martinys",
       "opentable": "https://www.opentable.com/s?term=Martiny's&metroId=8",
       "google": "https://www.google.com/search?q=Martiny's+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 205,
@@ -2445,7 +2648,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/corner-bar",
       "opentable": "https://www.opentable.com/s?term=Corner+Bar&metroId=8",
       "google": "https://www.google.com/search?q=Corner+Bar+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 206,
@@ -2457,7 +2661,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/parcelle-wine",
       "opentable": "https://www.opentable.com/s?term=Parcelle+Wine&metroId=8",
       "google": "https://www.google.com/search?q=Parcelle+Wine+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 207,
@@ -2469,7 +2674,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/apotheke",
       "opentable": "https://www.opentable.com/s?term=Apotheke&metroId=8",
       "google": "https://www.google.com/search?q=Apotheke+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 208,
@@ -2481,7 +2687,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/champers-social-club",
       "opentable": "https://www.opentable.com/s?term=Champers+Social+Club&metroId=8",
       "google": "https://www.google.com/search?q=Champers+Social+Club+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 209,
@@ -2493,7 +2700,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/saint",
       "opentable": "https://www.opentable.com/s?term=Saint&metroId=8",
       "google": "https://www.google.com/search?q=Saint+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 210,
@@ -2505,7 +2713,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/aldama",
       "opentable": "https://www.opentable.com/s?term=Aldama&metroId=8",
       "google": "https://www.google.com/search?q=Aldama+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 211,
@@ -2517,7 +2726,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/moustache",
       "opentable": "https://www.opentable.com/s?term=Moustache&metroId=8",
       "google": "https://www.google.com/search?q=Moustache+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 212,
@@ -2529,7 +2739,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/moonflower",
       "opentable": "https://www.opentable.com/s?term=Moonflower&metroId=8",
       "google": "https://www.google.com/search?q=Moonflower+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 213,
@@ -2541,7 +2752,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/batsu",
       "opentable": "https://www.opentable.com/s?term=Batsu&metroId=8",
       "google": "https://www.google.com/search?q=Batsu+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 214,
@@ -2553,7 +2765,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/hags",
       "opentable": "https://www.opentable.com/s?term=Hags&metroId=8",
       "google": "https://www.google.com/search?q=Hags+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 215,
@@ -2565,7 +2778,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/setsugekka",
       "opentable": "https://www.opentable.com/s?term=Setsugekka&metroId=8",
       "google": "https://www.google.com/search?q=Setsugekka+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 216,
@@ -2577,7 +2791,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/cucina-alba",
       "opentable": "https://www.opentable.com/s?term=Cucina+Alba&metroId=8",
       "google": "https://www.google.com/search?q=Cucina+Alba+NYC+reservations"
-    }
+    },
+    "visited": true
   },
   {
     "id": 217,
@@ -2589,7 +2804,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/smyth-tavern",
       "opentable": "https://www.opentable.com/s?term=Smyth+Tavern&metroId=8",
       "google": "https://www.google.com/search?q=Smyth+Tavern+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 218,
@@ -2601,7 +2817,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/monkey-bar",
       "opentable": "https://www.opentable.com/s?term=Monkey+Bar&metroId=8",
       "google": "https://www.google.com/search?q=Monkey+Bar+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 219,
@@ -2613,7 +2830,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/potluck-club",
       "opentable": "https://www.opentable.com/s?term=Potluck+Club&metroId=8",
       "google": "https://www.google.com/search?q=Potluck+Club+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 220,
@@ -2625,7 +2843,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/reception-bar",
       "opentable": "https://www.opentable.com/s?term=Reception+Bar&metroId=8",
       "google": "https://www.google.com/search?q=Reception+Bar+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 221,
@@ -2637,7 +2856,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/casa-cruz",
       "opentable": "https://www.opentable.com/s?term=Casa+Cruz&metroId=8",
       "google": "https://www.google.com/search?q=Casa+Cruz+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 222,
@@ -2649,7 +2869,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/silver-apricot",
       "opentable": "https://www.opentable.com/s?term=Silver+Apricot&metroId=8",
       "google": "https://www.google.com/search?q=Silver+Apricot+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 223,
@@ -2661,7 +2882,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/shinjis",
       "opentable": "https://www.opentable.com/s?term=Shinji's&metroId=8",
       "google": "https://www.google.com/search?q=Shinji's+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 224,
@@ -2673,7 +2895,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/monsieur-vo",
       "opentable": "https://www.opentable.com/s?term=Monsieur+Vo&metroId=8",
       "google": "https://www.google.com/search?q=Monsieur+Vo+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 225,
@@ -2685,7 +2908,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/the-wesley",
       "opentable": "https://www.opentable.com/s?term=The+Wesley&metroId=8",
       "google": "https://www.google.com/search?q=The+Wesley+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 226,
@@ -2697,7 +2921,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/fouquets",
       "opentable": "https://www.opentable.com/s?term=Fouquets&metroId=8",
       "google": "https://www.google.com/search?q=Fouquets+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 227,
@@ -2709,7 +2934,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/rigor-hill-market",
       "opentable": "https://www.opentable.com/s?term=Rigor+Hill+Market&metroId=8",
       "google": "https://www.google.com/search?q=Rigor+Hill+Market+NYC+reservations"
-    }
+    },
+    "visited": true
   },
   {
     "id": 228,
@@ -2721,7 +2947,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/kame",
       "opentable": "https://www.opentable.com/s?term=Kame&metroId=8",
       "google": "https://www.google.com/search?q=Kame+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 229,
@@ -2733,7 +2960,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/tonchin",
       "opentable": "https://www.opentable.com/s?term=Tonchin&metroId=8",
       "google": "https://www.google.com/search?q=Tonchin+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 230,
@@ -2745,7 +2973,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/casino",
       "opentable": "https://www.opentable.com/s?term=Casino&metroId=8",
       "google": "https://www.google.com/search?q=Casino+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 231,
@@ -2757,7 +2986,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/ensenada",
       "opentable": "https://www.opentable.com/s?term=Ensenada&metroId=8",
       "google": "https://www.google.com/search?q=Ensenada+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 232,
@@ -2769,7 +2999,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/lantica-pizzeria-da-michele",
       "opentable": "https://www.opentable.com/s?term=L'Antica+Pizzeria+da+Michele&metroId=8",
       "google": "https://www.google.com/search?q=L'Antica+Pizzeria+da+Michele+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 233,
@@ -2781,7 +3012,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/koloman",
       "opentable": "https://www.opentable.com/s?term=Koloman&metroId=8",
       "google": "https://www.google.com/search?q=Koloman+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 234,
@@ -2793,7 +3025,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/gjelina",
       "opentable": "https://www.opentable.com/s?term=Gjelina&metroId=8",
       "google": "https://www.google.com/search?q=Gjelina+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 235,
@@ -2805,7 +3038,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/le-baratin",
       "opentable": "https://www.opentable.com/s?term=Le+Baratin&metroId=8",
       "google": "https://www.google.com/search?q=Le+Baratin+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 236,
@@ -2817,7 +3051,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/hilot",
       "opentable": "https://www.opentable.com/s?term=Hilot&metroId=8",
       "google": "https://www.google.com/search?q=Hilot+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 237,
@@ -2829,7 +3064,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/foul-witch",
       "opentable": "https://www.opentable.com/s?term=Foul+Witch&metroId=8",
       "google": "https://www.google.com/search?q=Foul+Witch+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 238,
@@ -2841,7 +3077,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/c-as-in-charlie",
       "opentable": "https://www.opentable.com/s?term=C+as+in+Charlie&metroId=8",
       "google": "https://www.google.com/search?q=C+as+in+Charlie+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 239,
@@ -2853,7 +3090,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/bad-roman",
       "opentable": "https://www.opentable.com/s?term=Bad+Roman&metroId=8",
       "google": "https://www.google.com/search?q=Bad+Roman+NYC+reservations"
-    }
+    },
+    "visited": true
   },
   {
     "id": 240,
@@ -2865,7 +3103,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/jacs-on-bond",
       "opentable": "https://www.opentable.com/s?term=Jac's+on+Bond&metroId=8",
       "google": "https://www.google.com/search?q=Jac's+on+Bond+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 241,
@@ -2877,7 +3116,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/moody-tounge-sushi",
       "opentable": "https://www.opentable.com/s?term=Moody+Tounge+Sushi&metroId=8",
       "google": "https://www.google.com/search?q=Moody+Tounge+Sushi+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 242,
@@ -2889,7 +3129,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/south-soho-bar",
       "opentable": "https://www.opentable.com/s?term=South+SoHo+Bar&metroId=8",
       "google": "https://www.google.com/search?q=South+SoHo+Bar+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 243,
@@ -2901,7 +3142,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/petit-patate",
       "opentable": "https://www.opentable.com/s?term=Petit+Patate&metroId=8",
       "google": "https://www.google.com/search?q=Petit+Patate+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 244,
@@ -2913,7 +3155,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/kerbers-farm",
       "opentable": "https://www.opentable.com/s?term=Kerber's+Farm&metroId=8",
       "google": "https://www.google.com/search?q=Kerber's+Farm+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 245,
@@ -2925,7 +3168,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/principe",
       "opentable": "https://www.opentable.com/s?term=Principe&metroId=8",
       "google": "https://www.google.com/search?q=Principe+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 246,
@@ -2937,7 +3181,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/stretch-pizza",
       "opentable": "https://www.opentable.com/s?term=Stretch+Pizza&metroId=8",
       "google": "https://www.google.com/search?q=Stretch+Pizza+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 247,
@@ -2949,7 +3194,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/alba-acconto",
       "opentable": "https://www.opentable.com/s?term=Alba+Acconto&metroId=8",
       "google": "https://www.google.com/search?q=Alba+Acconto+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 248,
@@ -2961,7 +3207,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/revelie-luncheonette",
       "opentable": "https://www.opentable.com/s?term=Revelie+Luncheonette&metroId=8",
       "google": "https://www.google.com/search?q=Revelie+Luncheonette+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 249,
@@ -2973,7 +3220,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/rafs",
       "opentable": "https://www.opentable.com/s?term=RAF's&metroId=8",
       "google": "https://www.google.com/search?q=RAF's+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 250,
@@ -2985,7 +3233,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/greywind",
       "opentable": "https://www.opentable.com/s?term=Greywind&metroId=8",
       "google": "https://www.google.com/search?q=Greywind+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 251,
@@ -2997,7 +3246,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/studio-151",
       "opentable": "https://www.opentable.com/s?term=Studio+151&metroId=8",
       "google": "https://www.google.com/search?q=Studio+151+NYC+reservations"
-    }
+    },
+    "visited": true
   },
   {
     "id": 252,
@@ -3009,7 +3259,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/sofreh",
       "opentable": "https://www.opentable.com/s?term=Sofreh&metroId=8",
       "google": "https://www.google.com/search?q=Sofreh+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 253,
@@ -3021,7 +3272,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/para-ici",
       "opentable": "https://www.opentable.com/s?term=Para+Ici&metroId=8",
       "google": "https://www.google.com/search?q=Para+Ici+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 254,
@@ -3033,7 +3285,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/ciao-evento-pasta-party",
       "opentable": "https://www.opentable.com/s?term=Ciao+Evento+pasta+party&metroId=8",
       "google": "https://www.google.com/search?q=Ciao+Evento+pasta+party+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 255,
@@ -3045,7 +3298,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/ma-d",
       "opentable": "https://www.opentable.com/s?term=Ma+D\u00e9&metroId=8",
       "google": "https://www.google.com/search?q=Ma+D\u00e9+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 256,
@@ -3057,7 +3311,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/mesiba",
       "opentable": "https://www.opentable.com/s?term=Mesiba&metroId=8",
       "google": "https://www.google.com/search?q=Mesiba+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 257,
@@ -3069,7 +3324,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/tacocina",
       "opentable": "https://www.opentable.com/s?term=Tacocina&metroId=8",
       "google": "https://www.google.com/search?q=Tacocina+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 258,
@@ -3081,7 +3337,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/baby-blues",
       "opentable": "https://www.opentable.com/s?term=Baby+Blues&metroId=8",
       "google": "https://www.google.com/search?q=Baby+Blues+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 259,
@@ -3093,7 +3350,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/jaffa-cocktail-and-raw-bar",
       "opentable": "https://www.opentable.com/s?term=Jaffa+Cocktail+and+Raw+Bar&metroId=8",
       "google": "https://www.google.com/search?q=Jaffa+Cocktail+and+Raw+Bar+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 260,
@@ -3105,7 +3363,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/roccos",
       "opentable": "https://www.opentable.com/s?term=Rocco's&metroId=8",
       "google": "https://www.google.com/search?q=Rocco's+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 261,
@@ -3117,7 +3376,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/lillistar",
       "opentable": "https://www.opentable.com/s?term=Lillistar&metroId=8",
       "google": "https://www.google.com/search?q=Lillistar+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 262,
@@ -3129,7 +3389,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/ella-funt",
       "opentable": "https://www.opentable.com/s?term=Ella+Funt&metroId=8",
       "google": "https://www.google.com/search?q=Ella+Funt+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 263,
@@ -3141,7 +3402,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/cafe-balerica",
       "opentable": "https://www.opentable.com/s?term=Cafe+Balerica&metroId=8",
       "google": "https://www.google.com/search?q=Cafe+Balerica+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 264,
@@ -3153,7 +3415,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/ariari",
       "opentable": "https://www.opentable.com/s?term=Ariari&metroId=8",
       "google": "https://www.google.com/search?q=Ariari+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 265,
@@ -3165,7 +3428,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/el-nico",
       "opentable": "https://www.opentable.com/s?term=El+Nico&metroId=8",
       "google": "https://www.google.com/search?q=El+Nico+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 266,
@@ -3177,7 +3441,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/drift-in",
       "opentable": "https://www.opentable.com/s?term=Drift+In&metroId=8",
       "google": "https://www.google.com/search?q=Drift+In+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 267,
@@ -3189,7 +3454,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/tivoli-trattoria",
       "opentable": "https://www.opentable.com/s?term=Tivoli+Trattoria&metroId=8",
       "google": "https://www.google.com/search?q=Tivoli+Trattoria+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 268,
@@ -3201,7 +3467,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/libertine",
       "opentable": "https://www.opentable.com/s?term=Libertine&metroId=8",
       "google": "https://www.google.com/search?q=Libertine+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 269,
@@ -3213,7 +3480,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/miladys",
       "opentable": "https://www.opentable.com/s?term=Milady's&metroId=8",
       "google": "https://www.google.com/search?q=Milady's+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 270,
@@ -3225,7 +3493,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/spygold",
       "opentable": "https://www.opentable.com/s?term=Spygold&metroId=8",
       "google": "https://www.google.com/search?q=Spygold+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 271,
@@ -3237,7 +3506,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/shingane",
       "opentable": "https://www.opentable.com/s?term=Shingane&metroId=8",
       "google": "https://www.google.com/search?q=Shingane+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 272,
@@ -3249,7 +3519,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/carlotto",
       "opentable": "https://www.opentable.com/s?term=Carlotto&metroId=8",
       "google": "https://www.google.com/search?q=Carlotto+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 273,
@@ -3261,7 +3532,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/chef-competition-at-hudson-table",
       "opentable": "https://www.opentable.com/s?term=Chef+Competition+at+Hudson+Table&metroId=8",
       "google": "https://www.google.com/search?q=Chef+Competition+at+Hudson+Table+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 274,
@@ -3273,7 +3545,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/ixta",
       "opentable": "https://www.opentable.com/s?term=Ixta&metroId=8",
       "google": "https://www.google.com/search?q=Ixta+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 275,
@@ -3285,7 +3558,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/sushidelic",
       "opentable": "https://www.opentable.com/s?term=Sushidelic&metroId=8",
       "google": "https://www.google.com/search?q=Sushidelic+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 276,
@@ -3297,7 +3571,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/walker-rooftop",
       "opentable": "https://www.opentable.com/s?term=Walker+Rooftop&metroId=8",
       "google": "https://www.google.com/search?q=Walker+Rooftop+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 277,
@@ -3309,7 +3584,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/coarse-ny",
       "opentable": "https://www.opentable.com/s?term=Coarse+NY&metroId=8",
       "google": "https://www.google.com/search?q=Coarse+NY+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 278,
@@ -3321,7 +3597,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/jackdaw",
       "opentable": "https://www.opentable.com/s?term=Jackdaw&metroId=8",
       "google": "https://www.google.com/search?q=Jackdaw+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 279,
@@ -3333,7 +3610,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/gnocco",
       "opentable": "https://www.opentable.com/s?term=Gnocco&metroId=8",
       "google": "https://www.google.com/search?q=Gnocco+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 280,
@@ -3345,7 +3623,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/caffe-coretto",
       "opentable": "https://www.opentable.com/s?term=Caffe+Coretto&metroId=8",
       "google": "https://www.google.com/search?q=Caffe+Coretto+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 281,
@@ -3357,7 +3636,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/gabs",
       "opentable": "https://www.opentable.com/s?term=Gab's&metroId=8",
       "google": "https://www.google.com/search?q=Gab's+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 282,
@@ -3369,7 +3649,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/the-wooley",
       "opentable": "https://www.opentable.com/s?term=The+Wooley&metroId=8",
       "google": "https://www.google.com/search?q=The+Wooley+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 283,
@@ -3381,7 +3662,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/the-love-bakery-by-erica",
       "opentable": "https://www.opentable.com/s?term=The+Love+Bakery+by+Erica&metroId=8",
       "google": "https://www.google.com/search?q=The+Love+Bakery+by+Erica+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 284,
@@ -3393,7 +3675,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/ciao-gloria",
       "opentable": "https://www.opentable.com/s?term=Ciao+Gloria&metroId=8",
       "google": "https://www.google.com/search?q=Ciao+Gloria+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 285,
@@ -3405,7 +3688,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/roscioli",
       "opentable": "https://www.opentable.com/s?term=Roscioli&metroId=8",
       "google": "https://www.google.com/search?q=Roscioli+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 286,
@@ -3417,7 +3701,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/port-said",
       "opentable": "https://www.opentable.com/s?term=Port+Said&metroId=8",
       "google": "https://www.google.com/search?q=Port+Said+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 287,
@@ -3429,7 +3714,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/madelines-martini",
       "opentable": "https://www.opentable.com/s?term=Madeline's+Martini&metroId=8",
       "google": "https://www.google.com/search?q=Madeline's+Martini+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 288,
@@ -3441,7 +3727,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/emporio",
       "opentable": "https://www.opentable.com/s?term=Emporio&metroId=8",
       "google": "https://www.google.com/search?q=Emporio+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 289,
@@ -3453,7 +3740,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/cecchis",
       "opentable": "https://www.opentable.com/s?term=Cecchi's&metroId=8",
       "google": "https://www.google.com/search?q=Cecchi's+NYC+reservations"
-    }
+    },
+    "visited": true
   },
   {
     "id": 290,
@@ -3465,7 +3753,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/homemade-by-bruno-pasta-making-class",
       "opentable": "https://www.opentable.com/s?term=Homemade+by+Bruno+pasta+making+class&metroId=8",
       "google": "https://www.google.com/search?q=Homemade+by+Bruno+pasta+making+class+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 291,
@@ -3477,7 +3766,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/kobricks",
       "opentable": "https://www.opentable.com/s?term=Kobrick's&metroId=8",
       "google": "https://www.google.com/search?q=Kobrick's+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 292,
@@ -3489,7 +3779,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/cafe-chelsea",
       "opentable": "https://www.opentable.com/s?term=Cafe+Chelsea&metroId=8",
       "google": "https://www.google.com/search?q=Cafe+Chelsea+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 293,
@@ -3501,7 +3792,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/pomp-circumstance",
       "opentable": "https://www.opentable.com/s?term=Pomp+&+Circumstance&metroId=8",
       "google": "https://www.google.com/search?q=Pomp+&+Circumstance+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 294,
@@ -3513,7 +3805,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/jeans-lafayette",
       "opentable": "https://www.opentable.com/s?term=Jean's+Lafayette&metroId=8",
       "google": "https://www.google.com/search?q=Jean's+Lafayette+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 295,
@@ -3525,7 +3818,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/bangkok-supper-club",
       "opentable": "https://www.opentable.com/s?term=Bangkok+Supper+Club&metroId=8",
       "google": "https://www.google.com/search?q=Bangkok+Supper+Club+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 296,
@@ -3537,7 +3831,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/happier-grocery",
       "opentable": "https://www.opentable.com/s?term=Happier+Grocery&metroId=8",
       "google": "https://www.google.com/search?q=Happier+Grocery+NYC+reservations"
-    }
+    },
+    "visited": true
   },
   {
     "id": 297,
@@ -3549,7 +3844,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/jazba",
       "opentable": "https://www.opentable.com/s?term=Jazba&metroId=8",
       "google": "https://www.google.com/search?q=Jazba+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 298,
@@ -3561,7 +3857,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/southern-charm",
       "opentable": "https://www.opentable.com/s?term=Southern+Charm&metroId=8",
       "google": "https://www.google.com/search?q=Southern+Charm+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 299,
@@ -3573,7 +3870,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/marine",
       "opentable": "https://www.opentable.com/s?term=Mari.ne&metroId=8",
       "google": "https://www.google.com/search?q=Mari.ne+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 300,
@@ -3585,7 +3883,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/the-portrait-bar",
       "opentable": "https://www.opentable.com/s?term=The+Portrait+Bar&metroId=8",
       "google": "https://www.google.com/search?q=The+Portrait+Bar+NYC+reservations"
-    }
+    },
+    "visited": true
   },
   {
     "id": 301,
@@ -3597,7 +3896,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/hamburger-america",
       "opentable": "https://www.opentable.com/s?term=Hamburger+America&metroId=8",
       "google": "https://www.google.com/search?q=Hamburger+America+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 302,
@@ -3609,7 +3909,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/tigre",
       "opentable": "https://www.opentable.com/s?term=Tigre&metroId=8",
       "google": "https://www.google.com/search?q=Tigre+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 303,
@@ -3621,7 +3922,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/le-b",
       "opentable": "https://www.opentable.com/s?term=Le+B&metroId=8",
       "google": "https://www.google.com/search?q=Le+B+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 304,
@@ -3633,7 +3935,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/chino-grande",
       "opentable": "https://www.opentable.com/s?term=Chino+Grande&metroId=8",
       "google": "https://www.google.com/search?q=Chino+Grande+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 305,
@@ -3645,7 +3948,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/hoexters",
       "opentable": "https://www.opentable.com/s?term=Hoexter's&metroId=8",
       "google": "https://www.google.com/search?q=Hoexter's+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 306,
@@ -3657,7 +3961,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/meduza",
       "opentable": "https://www.opentable.com/s?term=Meduza&metroId=8",
       "google": "https://www.google.com/search?q=Meduza+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 307,
@@ -3669,7 +3974,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/lupetto",
       "opentable": "https://www.opentable.com/s?term=Lupetto&metroId=8",
       "google": "https://www.google.com/search?q=Lupetto+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 308,
@@ -3681,7 +3987,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/lucky-rabbit-noodle",
       "opentable": "https://www.opentable.com/s?term=Lucky+Rabbit+Noodle&metroId=8",
       "google": "https://www.google.com/search?q=Lucky+Rabbit+Noodle+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 309,
@@ -3693,7 +4000,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/fossetta",
       "opentable": "https://www.opentable.com/s?term=Fossetta&metroId=8",
       "google": "https://www.google.com/search?q=Fossetta+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 310,
@@ -3705,7 +4013,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/afternoon-tea-at-aman",
       "opentable": "https://www.opentable.com/s?term=Afternoon+tea+at+Aman&metroId=8",
       "google": "https://www.google.com/search?q=Afternoon+tea+at+Aman+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 311,
@@ -3717,7 +4026,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/chelsea-living-room",
       "opentable": "https://www.opentable.com/s?term=Chelsea+living+room&metroId=8",
       "google": "https://www.google.com/search?q=Chelsea+living+room+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 312,
@@ -3729,7 +4039,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/sip-and-guzzle",
       "opentable": "https://www.opentable.com/s?term=Sip+and+Guzzle&metroId=8",
       "google": "https://www.google.com/search?q=Sip+and+Guzzle+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 313,
@@ -3741,7 +4052,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/frog-club",
       "opentable": "https://www.opentable.com/s?term=Frog+Club&metroId=8",
       "google": "https://www.google.com/search?q=Frog+Club+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 314,
@@ -3753,7 +4065,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/san-sabino",
       "opentable": "https://www.opentable.com/s?term=San+Sabino&metroId=8",
       "google": "https://www.google.com/search?q=San+Sabino+NYC+reservations"
-    }
+    },
+    "visited": true
   },
   {
     "id": 315,
@@ -3765,7 +4078,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/cocodaq",
       "opentable": "https://www.opentable.com/s?term=COCODAQ&metroId=8",
       "google": "https://www.google.com/search?q=COCODAQ+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 316,
@@ -3777,7 +4091,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/beefbar",
       "opentable": "https://www.opentable.com/s?term=Beefbar&metroId=8",
       "google": "https://www.google.com/search?q=Beefbar+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 317,
@@ -3789,7 +4104,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/bh-dairy",
       "opentable": "https://www.opentable.com/s?term=B&H+Dairy&metroId=8",
       "google": "https://www.google.com/search?q=B&H+Dairy+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 318,
@@ -3801,7 +4117,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/penny",
       "opentable": "https://www.opentable.com/s?term=Penny&metroId=8",
       "google": "https://www.google.com/search?q=Penny+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 319,
@@ -3813,7 +4130,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/falanzi",
       "opentable": "https://www.opentable.com/s?term=Falanzi&metroId=8",
       "google": "https://www.google.com/search?q=Falanzi+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 320,
@@ -3825,7 +4143,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/andies-eats",
       "opentable": "https://www.opentable.com/s?term=Andie's+Eats&metroId=8",
       "google": "https://www.google.com/search?q=Andie's+Eats+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 321,
@@ -3837,7 +4156,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/only-love-strangers",
       "opentable": "https://www.opentable.com/s?term=Only+Love+Strangers&metroId=8",
       "google": "https://www.google.com/search?q=Only+Love+Strangers+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 322,
@@ -3849,7 +4169,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/apollo-bagels",
       "opentable": "https://www.opentable.com/s?term=Apollo+Bagels&metroId=8",
       "google": "https://www.google.com/search?q=Apollo+Bagels+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 323,
@@ -3861,7 +4182,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/this-bowl",
       "opentable": "https://www.opentable.com/s?term=This+bowl&metroId=8",
       "google": "https://www.google.com/search?q=This+bowl+NYC+reservations"
-    }
+    },
+    "visited": true
   },
   {
     "id": 324,
@@ -3873,7 +4195,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/maki-mono",
       "opentable": "https://www.opentable.com/s?term=Maki+mono&metroId=8",
       "google": "https://www.google.com/search?q=Maki+mono+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 325,
@@ -3885,7 +4208,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/tolo",
       "opentable": "https://www.opentable.com/s?term=Tolo&metroId=8",
       "google": "https://www.google.com/search?q=Tolo+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 326,
@@ -3897,7 +4221,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/corima",
       "opentable": "https://www.opentable.com/s?term=Corima&metroId=8",
       "google": "https://www.google.com/search?q=Corima+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 327,
@@ -3909,7 +4234,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/tucci",
       "opentable": "https://www.opentable.com/s?term=Tucci&metroId=8",
       "google": "https://www.google.com/search?q=Tucci+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 328,
@@ -3921,7 +4247,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/amarena",
       "opentable": "https://www.opentable.com/s?term=Amarena&metroId=8",
       "google": "https://www.google.com/search?q=Amarena+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 329,
@@ -3933,7 +4260,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/not-as-bitter",
       "opentable": "https://www.opentable.com/s?term=Not+as+bitter&metroId=8",
       "google": "https://www.google.com/search?q=Not+as+bitter+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 330,
@@ -3945,7 +4273,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/rose-room-lounge",
       "opentable": "https://www.opentable.com/s?term=Rose+room+lounge&metroId=8",
       "google": "https://www.google.com/search?q=Rose+room+lounge+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 331,
@@ -3957,7 +4286,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/the-highlight-room",
       "opentable": "https://www.opentable.com/s?term=The+Highlight+Room&metroId=8",
       "google": "https://www.google.com/search?q=The+Highlight+Room+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 332,
@@ -3969,7 +4299,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/settepani-bakery",
       "opentable": "https://www.opentable.com/s?term=Settepani+Bakery&metroId=8",
       "google": "https://www.google.com/search?q=Settepani+Bakery+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 333,
@@ -3981,7 +4312,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/theodora",
       "opentable": "https://www.opentable.com/s?term=Theodora&metroId=8",
       "google": "https://www.google.com/search?q=Theodora+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 334,
@@ -3993,7 +4325,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/museum-coffee",
       "opentable": "https://www.opentable.com/s?term=Museum+Coffee&metroId=8",
       "google": "https://www.google.com/search?q=Museum+Coffee+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 335,
@@ -4005,7 +4338,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/bar-primi",
       "opentable": "https://www.opentable.com/s?term=Bar+Primi&metroId=8",
       "google": "https://www.google.com/search?q=Bar+Primi+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 337,
@@ -4017,7 +4351,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/crispy-heaven",
       "opentable": "https://www.opentable.com/s?term=Crispy+Heaven&metroId=8",
       "google": "https://www.google.com/search?q=Crispy+Heaven+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 338,
@@ -4029,7 +4364,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/shaken-not-stirred",
       "opentable": "https://www.opentable.com/s?term=Shaken+Not+Stirred&metroId=8",
       "google": "https://www.google.com/search?q=Shaken+Not+Stirred+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 339,
@@ -4041,7 +4377,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/also-sohm-wine-bar",
       "opentable": "https://www.opentable.com/s?term=Also+Sohm+wine+bar&metroId=8",
       "google": "https://www.google.com/search?q=Also+Sohm+wine+bar+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 340,
@@ -4053,7 +4390,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/janies-life-changing-baked-goods",
       "opentable": "https://www.opentable.com/s?term=Janie's+Life+Changing+Baked+Goods&metroId=8",
       "google": "https://www.google.com/search?q=Janie's+Life+Changing+Baked+Goods+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 341,
@@ -4065,7 +4403,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/miriam",
       "opentable": "https://www.opentable.com/s?term=Miriam&metroId=8",
       "google": "https://www.google.com/search?q=Miriam+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 342,
@@ -4077,7 +4416,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/conwell-coffee-hall",
       "opentable": "https://www.opentable.com/s?term=Conwell+Coffee+Hall&metroId=8",
       "google": "https://www.google.com/search?q=Conwell+Coffee+Hall+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 343,
@@ -4089,7 +4429,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/good-guys",
       "opentable": "https://www.opentable.com/s?term=Good+Guys&metroId=8",
       "google": "https://www.google.com/search?q=Good+Guys+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 344,
@@ -4101,7 +4442,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/lincontra-by-rocco",
       "opentable": "https://www.opentable.com/s?term=L'incontra+by+Rocco&metroId=8",
       "google": "https://www.google.com/search?q=L'incontra+by+Rocco+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 345,
@@ -4113,7 +4455,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/salswee",
       "opentable": "https://www.opentable.com/s?term=Salswee&metroId=8",
       "google": "https://www.google.com/search?q=Salswee+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 346,
@@ -4125,7 +4468,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/massara",
       "opentable": "https://www.opentable.com/s?term=Massara&metroId=8",
       "google": "https://www.google.com/search?q=Massara+NYC+reservations"
-    }
+    },
+    "visited": true
   },
   {
     "id": 347,
@@ -4137,7 +4481,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/da-andrea",
       "opentable": "https://www.opentable.com/s?term=Da+Andrea&metroId=8",
       "google": "https://www.google.com/search?q=Da+Andrea+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 348,
@@ -4149,7 +4494,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/noa-a-caf",
       "opentable": "https://www.opentable.com/s?term=Noa,+a+caf\u00e9&metroId=8",
       "google": "https://www.google.com/search?q=Noa,+a+caf\u00e9+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 349,
@@ -4161,7 +4507,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/hungry-llama-cafe",
       "opentable": "https://www.opentable.com/s?term=Hungry+Llama+cafe&metroId=8",
       "google": "https://www.google.com/search?q=Hungry+Llama+cafe+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 350,
@@ -4173,7 +4520,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/frances-at-casa-cruz",
       "opentable": "https://www.opentable.com/s?term=Frances+at+Casa+Cruz&metroId=8",
       "google": "https://www.google.com/search?q=Frances+at+Casa+Cruz+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 351,
@@ -4185,7 +4533,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/eel-bar",
       "opentable": "https://www.opentable.com/s?term=Eel+Bar&metroId=8",
       "google": "https://www.google.com/search?q=Eel+Bar+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 352,
@@ -4197,7 +4546,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/carlota",
       "opentable": "https://www.opentable.com/s?term=Carlota&metroId=8",
       "google": "https://www.google.com/search?q=Carlota+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 353,
@@ -4209,7 +4559,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/bar-whimsy",
       "opentable": "https://www.opentable.com/s?term=Bar+Whimsy&metroId=8",
       "google": "https://www.google.com/search?q=Bar+Whimsy+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 354,
@@ -4221,7 +4572,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/champagne-problems",
       "opentable": "https://www.opentable.com/s?term=Champagne+Problems&metroId=8",
       "google": "https://www.google.com/search?q=Champagne+Problems+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 355,
@@ -4233,7 +4585,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/wildflower",
       "opentable": "https://www.opentable.com/s?term=Wildflower&metroId=8",
       "google": "https://www.google.com/search?q=Wildflower+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 356,
@@ -4245,7 +4598,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/dirty-taco-tacomakase",
       "opentable": "https://www.opentable.com/s?term=Dirty+Taco+Tacomakase&metroId=8",
       "google": "https://www.google.com/search?q=Dirty+Taco+Tacomakase+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 357,
@@ -4257,7 +4611,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/angels-share",
       "opentable": "https://www.opentable.com/s?term=Angels+Share&metroId=8",
       "google": "https://www.google.com/search?q=Angels+Share+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 358,
@@ -4269,7 +4624,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/quique-crudo",
       "opentable": "https://www.opentable.com/s?term=Quique+Crudo&metroId=8",
       "google": "https://www.google.com/search?q=Quique+Crudo+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 359,
@@ -4281,7 +4637,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/atoboy",
       "opentable": "https://www.opentable.com/s?term=Atoboy&metroId=8",
       "google": "https://www.google.com/search?q=Atoboy+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 360,
@@ -4293,7 +4650,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/hidden-grounds",
       "opentable": "https://www.opentable.com/s?term=Hidden+Grounds&metroId=8",
       "google": "https://www.google.com/search?q=Hidden+Grounds+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 361,
@@ -4305,7 +4663,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/early-terrible",
       "opentable": "https://www.opentable.com/s?term=Early+Terrible&metroId=8",
       "google": "https://www.google.com/search?q=Early+Terrible+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 362,
@@ -4317,7 +4676,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/sushiro",
       "opentable": "https://www.opentable.com/s?term=Sushiro&metroId=8",
       "google": "https://www.google.com/search?q=Sushiro+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 363,
@@ -4329,7 +4689,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/the-garden-at-the-standard-ev",
       "opentable": "https://www.opentable.com/s?term=The+Garden+at+the+Standard+EV&metroId=8",
       "google": "https://www.google.com/search?q=The+Garden+at+the+Standard+EV+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 364,
@@ -4341,7 +4702,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/bar-contra",
       "opentable": "https://www.opentable.com/s?term=Bar+Contra&metroId=8",
       "google": "https://www.google.com/search?q=Bar+Contra+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 365,
@@ -4353,7 +4715,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/twentyonegrains",
       "opentable": "https://www.opentable.com/s?term=Twentyonegrains&metroId=8",
       "google": "https://www.google.com/search?q=Twentyonegrains+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 366,
@@ -4365,7 +4728,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/chloe",
       "opentable": "https://www.opentable.com/s?term=Chloe&metroId=8",
       "google": "https://www.google.com/search?q=Chloe+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 367,
@@ -4377,7 +4741,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/midnight-blue",
       "opentable": "https://www.opentable.com/s?term=Midnight+Blue&metroId=8",
       "google": "https://www.google.com/search?q=Midnight+Blue+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 368,
@@ -4389,7 +4754,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/bar-bonobo",
       "opentable": "https://www.opentable.com/s?term=Bar+Bonobo&metroId=8",
       "google": "https://www.google.com/search?q=Bar+Bonobo+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 369,
@@ -4401,7 +4767,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/the-pickle-guys",
       "opentable": "https://www.opentable.com/s?term=The+pickle+guys&metroId=8",
       "google": "https://www.google.com/search?q=The+pickle+guys+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 370,
@@ -4413,7 +4780,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/green-lane-coffee",
       "opentable": "https://www.opentable.com/s?term=Green+lane+coffee&metroId=8",
       "google": "https://www.google.com/search?q=Green+lane+coffee+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 371,
@@ -4425,7 +4793,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/madison-fare",
       "opentable": "https://www.opentable.com/s?term=Madison+fare&metroId=8",
       "google": "https://www.google.com/search?q=Madison+fare+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 372,
@@ -4437,7 +4806,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/cellos-pizzeria",
       "opentable": "https://www.opentable.com/s?term=Cello's+Pizzeria&metroId=8",
       "google": "https://www.google.com/search?q=Cello's+Pizzeria+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 373,
@@ -4449,7 +4819,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/place-des-ftes",
       "opentable": "https://www.opentable.com/s?term=Place+des+F\u00eates&metroId=8",
       "google": "https://www.google.com/search?q=Place+des+F\u00eates+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 374,
@@ -4461,7 +4832,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/temakase",
       "opentable": "https://www.opentable.com/s?term=Temakase&metroId=8",
       "google": "https://www.google.com/search?q=Temakase+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 375,
@@ -4473,7 +4845,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/bar-vivant",
       "opentable": "https://www.opentable.com/s?term=Bar+vivant&metroId=8",
       "google": "https://www.google.com/search?q=Bar+vivant+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 376,
@@ -4485,7 +4858,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/sea",
       "opentable": "https://www.opentable.com/s?term=SEA&metroId=8",
       "google": "https://www.google.com/search?q=SEA+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 377,
@@ -4497,7 +4871,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/oases",
       "opentable": "https://www.opentable.com/s?term=Oases&metroId=8",
       "google": "https://www.google.com/search?q=Oases+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 378,
@@ -4509,7 +4884,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/la-bomboniera",
       "opentable": "https://www.opentable.com/s?term=La+Bomboniera&metroId=8",
       "google": "https://www.google.com/search?q=La+Bomboniera+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 379,
@@ -4521,7 +4897,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/the-corner-store",
       "opentable": "https://www.opentable.com/s?term=The+Corner+Store&metroId=8",
       "google": "https://www.google.com/search?q=The+Corner+Store+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 380,
@@ -4533,7 +4910,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/sushi-by-scratch",
       "opentable": "https://www.opentable.com/s?term=Sushi+by+Scratch&metroId=8",
       "google": "https://www.google.com/search?q=Sushi+by+Scratch+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 381,
@@ -4545,7 +4923,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/souen",
       "opentable": "https://www.opentable.com/s?term=Souen&metroId=8",
       "google": "https://www.google.com/search?q=Souen+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 382,
@@ -4557,7 +4936,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/tall-poppy",
       "opentable": "https://www.opentable.com/s?term=Tall+Poppy&metroId=8",
       "google": "https://www.google.com/search?q=Tall+Poppy+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 383,
@@ -4569,7 +4949,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/taiko",
       "opentable": "https://www.opentable.com/s?term=Taiko&metroId=8",
       "google": "https://www.google.com/search?q=Taiko+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 384,
@@ -4581,7 +4962,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/parla",
       "opentable": "https://www.opentable.com/s?term=Parla&metroId=8",
       "google": "https://www.google.com/search?q=Parla+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 385,
@@ -4593,7 +4975,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/experimental-cocktail-club",
       "opentable": "https://www.opentable.com/s?term=Experimental+Cocktail+Club&metroId=8",
       "google": "https://www.google.com/search?q=Experimental+Cocktail+Club+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 386,
@@ -4605,7 +4988,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/borgo",
       "opentable": "https://www.opentable.com/s?term=Borgo&metroId=8",
       "google": "https://www.google.com/search?q=Borgo+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 387,
@@ -4617,7 +5001,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/little-mint",
       "opentable": "https://www.opentable.com/s?term=Little+Mint&metroId=8",
       "google": "https://www.google.com/search?q=Little+Mint+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 388,
@@ -4629,7 +5014,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/pearl-box",
       "opentable": "https://www.opentable.com/s?term=Pearl+Box&metroId=8",
       "google": "https://www.google.com/search?q=Pearl+Box+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 389,
@@ -4641,7 +5027,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/heros",
       "opentable": "https://www.opentable.com/s?term=Hero's&metroId=8",
       "google": "https://www.google.com/search?q=Hero's+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 390,
@@ -4653,7 +5040,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/petit-chou",
       "opentable": "https://www.opentable.com/s?term=Petit+Chou&metroId=8",
       "google": "https://www.google.com/search?q=Petit+Chou+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 391,
@@ -4665,7 +5053,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/dialogue-caf",
       "opentable": "https://www.opentable.com/s?term=Dialogue+Caf\u00e9&metroId=8",
       "google": "https://www.google.com/search?q=Dialogue+Caf\u00e9+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 392,
@@ -4677,7 +5066,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/desert-5-spot",
       "opentable": "https://www.opentable.com/s?term=Desert+5+Spot&metroId=8",
       "google": "https://www.google.com/search?q=Desert+5+Spot+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 393,
@@ -4689,7 +5079,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/bridges",
       "opentable": "https://www.opentable.com/s?term=Bridges&metroId=8",
       "google": "https://www.google.com/search?q=Bridges+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 394,
@@ -4701,7 +5092,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/waiting-on-a-friend",
       "opentable": "https://www.opentable.com/s?term=Waiting+on+a+Friend&metroId=8",
       "google": "https://www.google.com/search?q=Waiting+on+a+Friend+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 395,
@@ -4713,7 +5105,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/clemente-bar",
       "opentable": "https://www.opentable.com/s?term=Clemente+Bar&metroId=8",
       "google": "https://www.google.com/search?q=Clemente+Bar+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 396,
@@ -4725,7 +5118,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/sloanes",
       "opentable": "https://www.opentable.com/s?term=Sloane's&metroId=8",
       "google": "https://www.google.com/search?q=Sloane's+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 397,
@@ -4737,7 +5131,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/time-and-tide",
       "opentable": "https://www.opentable.com/s?term=Time+and+Tide&metroId=8",
       "google": "https://www.google.com/search?q=Time+and+Tide+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 398,
@@ -4749,7 +5144,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/nightlys",
       "opentable": "https://www.opentable.com/s?term=Nightly's&metroId=8",
       "google": "https://www.google.com/search?q=Nightly's+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 399,
@@ -4761,7 +5157,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/crazy-pizza",
       "opentable": "https://www.opentable.com/s?term=Crazy+Pizza&metroId=8",
       "google": "https://www.google.com/search?q=Crazy+Pizza+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 400,
@@ -4773,7 +5170,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/twin-tails",
       "opentable": "https://www.opentable.com/s?term=Twin+Tails&metroId=8",
       "google": "https://www.google.com/search?q=Twin+Tails+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 401,
@@ -4785,7 +5183,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/sosos",
       "opentable": "https://www.opentable.com/s?term=Soso's&metroId=8",
       "google": "https://www.google.com/search?q=Soso's+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 402,
@@ -4797,7 +5196,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/the-hand-roll-bar",
       "opentable": "https://www.opentable.com/s?term=The+Hand+Roll+Bar&metroId=8",
       "google": "https://www.google.com/search?q=The+Hand+Roll+Bar+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 403,
@@ -4809,7 +5209,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/mary-os-irish-soda-bread-shop",
       "opentable": "https://www.opentable.com/s?term=Mary+O's+Irish+Soda+Bread+Shop&metroId=8",
       "google": "https://www.google.com/search?q=Mary+O's+Irish+Soda+Bread+Shop+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 404,
@@ -4821,7 +5222,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/apt-5",
       "opentable": "https://www.opentable.com/s?term=Apt+5&metroId=8",
       "google": "https://www.google.com/search?q=Apt+5+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 405,
@@ -4833,7 +5235,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/kanyakumari",
       "opentable": "https://www.opentable.com/s?term=Kanyakumari&metroId=8",
       "google": "https://www.google.com/search?q=Kanyakumari+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 406,
@@ -4845,7 +5248,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/bar-miller",
       "opentable": "https://www.opentable.com/s?term=Bar+Miller&metroId=8",
       "google": "https://www.google.com/search?q=Bar+Miller+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 407,
@@ -4857,7 +5261,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/zimmis",
       "opentable": "https://www.opentable.com/s?term=Zimmi's&metroId=8",
       "google": "https://www.google.com/search?q=Zimmi's+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 408,
@@ -4869,7 +5274,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/moody-tongue-pizza",
       "opentable": "https://www.opentable.com/s?term=Moody+Tongue+Pizza&metroId=8",
       "google": "https://www.google.com/search?q=Moody+Tongue+Pizza+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 409,
@@ -4881,7 +5287,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/cocoran",
       "opentable": "https://www.opentable.com/s?term=Cocoran&metroId=8",
       "google": "https://www.google.com/search?q=Cocoran+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 410,
@@ -4893,7 +5300,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/ho-foods",
       "opentable": "https://www.opentable.com/s?term=Ho+Foods&metroId=8",
       "google": "https://www.google.com/search?q=Ho+Foods+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 411,
@@ -4905,7 +5313,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/frena",
       "opentable": "https://www.opentable.com/s?term=Frena&metroId=8",
       "google": "https://www.google.com/search?q=Frena+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 412,
@@ -4917,7 +5326,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/the-snail",
       "opentable": "https://www.opentable.com/s?term=The+Snail&metroId=8",
       "google": "https://www.google.com/search?q=The+Snail+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 413,
@@ -4929,7 +5339,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/mitsuru",
       "opentable": "https://www.opentable.com/s?term=Mitsuru&metroId=8",
       "google": "https://www.google.com/search?q=Mitsuru+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 414,
@@ -4941,7 +5352,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/le-bar-penelope",
       "opentable": "https://www.opentable.com/s?term=Le+Bar+Penelope&metroId=8",
       "google": "https://www.google.com/search?q=Le+Bar+Penelope+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 415,
@@ -4953,7 +5365,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/elvis",
       "opentable": "https://www.opentable.com/s?term=Elvis&metroId=8",
       "google": "https://www.google.com/search?q=Elvis+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 416,
@@ -4965,7 +5378,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/crevette",
       "opentable": "https://www.opentable.com/s?term=Crevette&metroId=8",
       "google": "https://www.google.com/search?q=Crevette+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 417,
@@ -4977,7 +5391,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/ceres",
       "opentable": "https://www.opentable.com/s?term=Ceres&metroId=8",
       "google": "https://www.google.com/search?q=Ceres+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 418,
@@ -4989,7 +5404,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/caf-commerce",
       "opentable": "https://www.opentable.com/s?term=Caf\u00e9+Commerce&metroId=8",
       "google": "https://www.google.com/search?q=Caf\u00e9+Commerce+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 419,
@@ -5001,7 +5417,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/caf-zaffri",
       "opentable": "https://www.opentable.com/s?term=Caf\u00e9+Zaffri&metroId=8",
       "google": "https://www.google.com/search?q=Caf\u00e9+Zaffri+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 420,
@@ -5013,7 +5430,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/schmuck",
       "opentable": "https://www.opentable.com/s?term=Schmuck&metroId=8",
       "google": "https://www.google.com/search?q=Schmuck+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 421,
@@ -5025,7 +5443,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/santi",
       "opentable": "https://www.opentable.com/s?term=Santi&metroId=8",
       "google": "https://www.google.com/search?q=Santi+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 422,
@@ -5037,7 +5456,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/monsieur",
       "opentable": "https://www.opentable.com/s?term=Monsieur&metroId=8",
       "google": "https://www.google.com/search?q=Monsieur+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 423,
@@ -5049,7 +5469,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/golden-hof-ny-kimchi",
       "opentable": "https://www.opentable.com/s?term=Golden+Hof+++NY+Kimchi&metroId=8",
       "google": "https://www.google.com/search?q=Golden+Hof+++NY+Kimchi+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 424,
@@ -5061,7 +5482,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/papa-san",
       "opentable": "https://www.opentable.com/s?term=Papa+San&metroId=8",
       "google": "https://www.google.com/search?q=Papa+San+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 425,
@@ -5073,7 +5495,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/opto",
       "opentable": "https://www.opentable.com/s?term=Opto&metroId=8",
       "google": "https://www.google.com/search?q=Opto+NYC+reservations"
-    }
+    },
+    "visited": true
   },
   {
     "id": 426,
@@ -5085,7 +5508,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/dear-stranger",
       "opentable": "https://www.opentable.com/s?term=Dear+Stranger&metroId=8",
       "google": "https://www.google.com/search?q=Dear+Stranger+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 427,
@@ -5097,7 +5521,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/the-lavaux",
       "opentable": "https://www.opentable.com/s?term=The+Lavaux&metroId=8",
       "google": "https://www.google.com/search?q=The+Lavaux+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 428,
@@ -5109,7 +5534,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/bar-part",
       "opentable": "https://www.opentable.com/s?term=Bar+\u00e0+Part&metroId=8",
       "google": "https://www.google.com/search?q=Bar+\u00e0+Part+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 429,
@@ -5121,7 +5547,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/monsieur-bistro",
       "opentable": "https://www.opentable.com/s?term=Monsieur+Bistro&metroId=8",
       "google": "https://www.google.com/search?q=Monsieur+Bistro+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 430,
@@ -5133,7 +5560,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/ff-restaurant",
       "opentable": "https://www.opentable.com/s?term=F&F+Restaurant&metroId=8",
       "google": "https://www.google.com/search?q=F&F+Restaurant+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 431,
@@ -5145,7 +5573,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/the-gallery",
       "opentable": "https://www.opentable.com/s?term=The+Gallery&metroId=8",
       "google": "https://www.google.com/search?q=The+Gallery+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 432,
@@ -5157,7 +5586,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/isla-and-co",
       "opentable": "https://www.opentable.com/s?term=Isla+and+Co&metroId=8",
       "google": "https://www.google.com/search?q=Isla+and+Co+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 433,
@@ -5169,7 +5599,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/bar-snack",
       "opentable": "https://www.opentable.com/s?term=Bar+Snack&metroId=8",
       "google": "https://www.google.com/search?q=Bar+Snack+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 434,
@@ -5181,7 +5612,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/sakagura",
       "opentable": "https://www.opentable.com/s?term=Sakagura&metroId=8",
       "google": "https://www.google.com/search?q=Sakagura+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 435,
@@ -5193,7 +5625,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/kobano",
       "opentable": "https://www.opentable.com/s?term=Kobano&metroId=8",
       "google": "https://www.google.com/search?q=Kobano+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 436,
@@ -5205,7 +5638,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/foreigner",
       "opentable": "https://www.opentable.com/s?term=Foreigner&metroId=8",
       "google": "https://www.google.com/search?q=Foreigner+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 437,
@@ -5217,7 +5651,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/obvio",
       "opentable": "https://www.opentable.com/s?term=Obvio&metroId=8",
       "google": "https://www.google.com/search?q=Obvio+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 438,
@@ -5229,7 +5664,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/red-room",
       "opentable": "https://www.opentable.com/s?term=Red+Room&metroId=8",
       "google": "https://www.google.com/search?q=Red+Room+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 439,
@@ -5241,7 +5677,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/lucys",
       "opentable": "https://www.opentable.com/s?term=Lucy's&metroId=8",
       "google": "https://www.google.com/search?q=Lucy's+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 440,
@@ -5253,7 +5690,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/sgropino-alert",
       "opentable": "https://www.opentable.com/s?term=SGROPINO+ALERT)&metroId=8",
       "google": "https://www.google.com/search?q=SGROPINO+ALERT)+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 441,
@@ -5265,7 +5703,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/el-camino",
       "opentable": "https://www.opentable.com/s?term=El+Camino&metroId=8",
       "google": "https://www.google.com/search?q=El+Camino+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 442,
@@ -5277,7 +5716,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/caf-paradiso",
       "opentable": "https://www.opentable.com/s?term=Caf\u00e9+Paradiso&metroId=8",
       "google": "https://www.google.com/search?q=Caf\u00e9+Paradiso+NYC+reservations"
-    }
+    },
+    "visited": true
   },
   {
     "id": 443,
@@ -5289,7 +5729,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/sunlife-organics",
       "opentable": "https://www.opentable.com/s?term=Sunlife+Organics&metroId=8",
       "google": "https://www.google.com/search?q=Sunlife+Organics+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 444,
@@ -5301,7 +5742,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/up-at-standard-ev",
       "opentable": "https://www.opentable.com/s?term=up+at+Standard+EV&metroId=8",
       "google": "https://www.google.com/search?q=up+at+Standard+EV+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 445,
@@ -5313,7 +5755,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/the-little-shop",
       "opentable": "https://www.opentable.com/s?term=The+Little+Shop&metroId=8",
       "google": "https://www.google.com/search?q=The+Little+Shop+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 446,
@@ -5325,7 +5768,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/buba-bureka",
       "opentable": "https://www.opentable.com/s?term=Buba+Bureka&metroId=8",
       "google": "https://www.google.com/search?q=Buba+Bureka+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 447,
@@ -5337,7 +5781,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/shirokuro",
       "opentable": "https://www.opentable.com/s?term=Shirokuro&metroId=8",
       "google": "https://www.google.com/search?q=Shirokuro+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 448,
@@ -5349,7 +5794,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/bergamos",
       "opentable": "https://www.opentable.com/s?term=Bergamo's&metroId=8",
       "google": "https://www.google.com/search?q=Bergamo's+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 449,
@@ -5361,7 +5807,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/bar-revival",
       "opentable": "https://www.opentable.com/s?term=Bar+Revival&metroId=8",
       "google": "https://www.google.com/search?q=Bar+Revival+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 450,
@@ -5373,7 +5820,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/charcuterie",
       "opentable": "https://www.opentable.com/s?term=Charcuterie&metroId=8",
       "google": "https://www.google.com/search?q=Charcuterie+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 451,
@@ -5385,7 +5833,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/go-go-sing",
       "opentable": "https://www.opentable.com/s?term=Go+Go+Sing&metroId=8",
       "google": "https://www.google.com/search?q=Go+Go+Sing+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 452,
@@ -5397,7 +5846,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/maison-passerelle",
       "opentable": "https://www.opentable.com/s?term=Maison+Passerelle&metroId=8",
       "google": "https://www.google.com/search?q=Maison+Passerelle+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 453,
@@ -5409,7 +5859,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/banchan",
       "opentable": "https://www.opentable.com/s?term=banchan)&metroId=8",
       "google": "https://www.google.com/search?q=banchan)+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 454,
@@ -5421,7 +5872,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/peasant",
       "opentable": "https://www.opentable.com/s?term=Peasant&metroId=8",
       "google": "https://www.google.com/search?q=Peasant+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 455,
@@ -5433,7 +5885,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/super-nice-pizza",
       "opentable": "https://www.opentable.com/s?term=Super+Nice+Pizza&metroId=8",
       "google": "https://www.google.com/search?q=Super+Nice+Pizza+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 456,
@@ -5445,7 +5898,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/june-3",
       "opentable": "https://www.opentable.com/s?term=June+3)&metroId=8",
       "google": "https://www.google.com/search?q=June+3)+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 457,
@@ -5457,7 +5911,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/gazette",
       "opentable": "https://www.opentable.com/s?term=Gazette&metroId=8",
       "google": "https://www.google.com/search?q=Gazette+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 458,
@@ -5469,7 +5924,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/dante-apertivio-bar",
       "opentable": "https://www.opentable.com/s?term=Dante+Apertivio+Bar&metroId=8",
       "google": "https://www.google.com/search?q=Dante+Apertivio+Bar+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 459,
@@ -5481,7 +5937,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/greenwich-street-tavern",
       "opentable": "https://www.opentable.com/s?term=Greenwich+Street+Tavern&metroId=8",
       "google": "https://www.google.com/search?q=Greenwich+Street+Tavern+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 460,
@@ -5493,7 +5950,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/bar-bianche",
       "opentable": "https://www.opentable.com/s?term=Bar+Bianche&metroId=8",
       "google": "https://www.google.com/search?q=Bar+Bianche+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 461,
@@ -5505,7 +5963,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/jr-son",
       "opentable": "https://www.opentable.com/s?term=JR+&+Son&metroId=8",
       "google": "https://www.google.com/search?q=JR+&+Son+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 462,
@@ -5517,7 +5976,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/drais-supper-club",
       "opentable": "https://www.opentable.com/s?term=Drai's+Supper+Club&metroId=8",
       "google": "https://www.google.com/search?q=Drai's+Supper+Club+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 463,
@@ -5529,7 +5989,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/peoples",
       "opentable": "https://www.opentable.com/s?term=People's&metroId=8",
       "google": "https://www.google.com/search?q=People's+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 464,
@@ -5541,7 +6002,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/rivareno",
       "opentable": "https://www.opentable.com/s?term=Rivareno&metroId=8",
       "google": "https://www.google.com/search?q=Rivareno+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 465,
@@ -5553,7 +6015,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/adda",
       "opentable": "https://www.opentable.com/s?term=Adda&metroId=8",
       "google": "https://www.google.com/search?q=Adda+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 466,
@@ -5565,7 +6028,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/suki-desu",
       "opentable": "https://www.opentable.com/s?term=Suki+Desu&metroId=8",
       "google": "https://www.google.com/search?q=Suki+Desu+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 467,
@@ -5577,7 +6041,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/papa-damour",
       "opentable": "https://www.opentable.com/s?term=Papa+D'Amour&metroId=8",
       "google": "https://www.google.com/search?q=Papa+D'Amour+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 468,
@@ -5589,7 +6054,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/terra",
       "opentable": "https://www.opentable.com/s?term=Terra&metroId=8",
       "google": "https://www.google.com/search?q=Terra+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 469,
@@ -5601,7 +6067,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/fortuna",
       "opentable": "https://www.opentable.com/s?term=Fortuna&metroId=8",
       "google": "https://www.google.com/search?q=Fortuna+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 470,
@@ -5613,7 +6080,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/carinito",
       "opentable": "https://www.opentable.com/s?term=Carinito&metroId=8",
       "google": "https://www.google.com/search?q=Carinito+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 471,
@@ -5625,7 +6093,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/marlow",
       "opentable": "https://www.opentable.com/s?term=Marlow&metroId=8",
       "google": "https://www.google.com/search?q=Marlow+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 472,
@@ -5637,7 +6106,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/mangetsu",
       "opentable": "https://www.opentable.com/s?term=Mangetsu&metroId=8",
       "google": "https://www.google.com/search?q=Mangetsu+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 473,
@@ -5649,7 +6119,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/le-chne",
       "opentable": "https://www.opentable.com/s?term=Le+Ch\u00eane&metroId=8",
       "google": "https://www.google.com/search?q=Le+Ch\u00eane+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 474,
@@ -5661,7 +6132,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/mamma-mezze",
       "opentable": "https://www.opentable.com/s?term=Mamma+Mezze&metroId=8",
       "google": "https://www.google.com/search?q=Mamma+Mezze+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 475,
@@ -5673,7 +6145,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/pull-tab-coffee",
       "opentable": "https://www.opentable.com/s?term=Pull+Tab+Coffee&metroId=8",
       "google": "https://www.google.com/search?q=Pull+Tab+Coffee+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 476,
@@ -5685,7 +6158,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/salt-foam-margs",
       "opentable": "https://www.opentable.com/s?term=salt+foam+margs)&metroId=8",
       "google": "https://www.google.com/search?q=salt+foam+margs)+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 477,
@@ -5697,7 +6171,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/mymo-kaf",
       "opentable": "https://www.opentable.com/s?term=Mymo+Kaf\u00e9&metroId=8",
       "google": "https://www.google.com/search?q=Mymo+Kaf\u00e9+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 478,
@@ -5709,7 +6184,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/the-campbell",
       "opentable": "https://www.opentable.com/s?term=The+Campbell&metroId=8",
       "google": "https://www.google.com/search?q=The+Campbell+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 479,
@@ -5721,7 +6197,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/the-chocolate-room",
       "opentable": "https://www.opentable.com/s?term=The+Chocolate+Room&metroId=8",
       "google": "https://www.google.com/search?q=The+Chocolate+Room+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 480,
@@ -5733,7 +6210,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/pantry",
       "opentable": "https://www.opentable.com/s?term=Pantry&metroId=8",
       "google": "https://www.google.com/search?q=Pantry+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 481,
@@ -5745,7 +6223,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/messy",
       "opentable": "https://www.opentable.com/s?term=Messy&metroId=8",
       "google": "https://www.google.com/search?q=Messy+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 482,
@@ -5757,7 +6236,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/milk-flower",
       "opentable": "https://www.opentable.com/s?term=Milk+flower&metroId=8",
       "google": "https://www.google.com/search?q=Milk+flower+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 483,
@@ -5769,7 +6249,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/all-antico-vinaio",
       "opentable": "https://www.opentable.com/s?term=All+Antico+Vinaio&metroId=8",
       "google": "https://www.google.com/search?q=All+Antico+Vinaio+NYC+reservations"
-    }
+    },
+    "visited": true
   },
   {
     "id": 484,
@@ -5781,7 +6262,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/comal",
       "opentable": "https://www.opentable.com/s?term=Comal&metroId=8",
       "google": "https://www.google.com/search?q=Comal+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 485,
@@ -5793,7 +6275,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/gelatoville",
       "opentable": "https://www.opentable.com/s?term=Gelatoville&metroId=8",
       "google": "https://www.google.com/search?q=Gelatoville+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 486,
@@ -5805,7 +6288,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/alessas",
       "opentable": "https://www.opentable.com/s?term=Alessa's&metroId=8",
       "google": "https://www.google.com/search?q=Alessa's+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 487,
@@ -5817,7 +6301,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/quick-eternity",
       "opentable": "https://www.opentable.com/s?term=Quick+Eternity&metroId=8",
       "google": "https://www.google.com/search?q=Quick+Eternity+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 488,
@@ -5829,7 +6314,8 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/the-gyro-project",
       "opentable": "https://www.opentable.com/s?term=The+Gyro+Project&metroId=8",
       "google": "https://www.google.com/search?q=The+Gyro+Project+NYC+reservations"
-    }
+    },
+    "visited": false
   },
   {
     "id": 489,
@@ -5841,6 +6327,7 @@
       "resy": "https://resy.com/cities/new-york-ny/venues/cuerno",
       "opentable": "https://www.opentable.com/s?term=Cuerno&metroId=8",
       "google": "https://www.google.com/search?q=Cuerno+NYC+reservations"
-    }
+    },
+    "visited": false
   }
 ]
