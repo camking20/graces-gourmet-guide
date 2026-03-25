@@ -154,6 +154,31 @@ def get_stats(db: Session = Depends(get_db)):
     )
 
 
+@app.patch("/api/restaurants/{restaurant_id}/toggle-visited", response_model=Restaurant)
+def toggle_visited(restaurant_id: int, db: Session = Depends(get_db)):
+    """Toggle visited status for a restaurant."""
+    restaurant = db.query(RestaurantModel).filter(RestaurantModel.id == restaurant_id).first()
+    if not restaurant:
+        raise HTTPException(status_code=404, detail="Restaurant not found")
+    restaurant.visited = not restaurant.visited
+    db.commit()
+    db.refresh(restaurant)
+    return restaurant
+
+
+@app.patch("/api/restaurants/{restaurant_id}", response_model=Restaurant)
+def update_restaurant(restaurant_id: int, updates: RestaurantUpdate, db: Session = Depends(get_db)):
+    """Update a restaurant's fields."""
+    restaurant = db.query(RestaurantModel).filter(RestaurantModel.id == restaurant_id).first()
+    if not restaurant:
+        raise HTTPException(status_code=404, detail="Restaurant not found")
+    for field, value in updates.model_dump(exclude_unset=True).items():
+        setattr(restaurant, field, value)
+    db.commit()
+    db.refresh(restaurant)
+    return restaurant
+
+
 @app.delete("/api/restaurants/{restaurant_id}")
 def delete_restaurant(restaurant_id: int, db: Session = Depends(get_db)):
     """Delete a restaurant by ID."""
